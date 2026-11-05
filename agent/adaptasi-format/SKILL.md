@@ -10,6 +10,8 @@ description: Mengalihformatkan karya fiksi lintas bentuk: memekarkan cerpen menj
 - Saat sebuah novel panjang perlu diringkas menjadi perlakuan naskah (*treatment*), sinopsis film/layar, atau naskah sandiwara.
 - Saat merestrukturisasi materi cerita lama ke dalam medium ekspresi baru.
 
+> **Aturan Posisi Karya (Wajib AGENTS.md)**: Format hasil alih bentuk tetap harus tampil di permukaan sebagai fiksi remaja umum tanpa label "karya islami/santri"; dunia pesantren hadir sebagai tekstur hidup tanpa dakwah, nilai muncul dari pilihan tokoh (remaja umum terhanyut, santri mengenali dunianya sendiri secara diam-diam).
+
 ## Alur Kerja Langkah demi Langkah
 1. **Pengekstrakan Inti Esensial (Core DNA Extraction)**:
    - Identifikasi pilar tak tergantikan karya asli:

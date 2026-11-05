@@ -91,8 +91,9 @@ Semua karya fiksi harus mematuhi struktur direktori berikut:
   - `bibel/`       : Bibel cerita (`tokoh.md`, `dunia.md`, `relasi.md`, `garis-waktu.md`, dll.).
   - `kerangka/`    : Kerangka per bab (`bab-01.md`, `bab-02.md`, ...).
   - `bab/`         : Naskah draf prosa per bab (`bab-01.md`, `bab-02.md`, ...).
-- **Cerpen**: `cerpen/<judul-cerpen>.md`
-  - Satu berkas utuh per judul naskah cerpen (memuat premis, metadata sasaran pembaca, dan naskah utuh).
+- **Cerpen**: `cerpen/<judul-cerpen>/`
+  - `<judul-cerpen>.md` : Naskah prosa cerpen utuh (standar panjang bawaan: **3.000–4.500 kata**).
+  - `bibel-mini.md`     : Catatan tokoh, latar, premis, dan tema cerpen (bila dibuat).
 
 ---
 

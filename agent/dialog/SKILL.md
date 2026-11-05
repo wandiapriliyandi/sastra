@@ -9,7 +9,7 @@ description: Menggarap percakapan sastra berbobot, membedakan sidik suara tokoh 
 - Saat merancang percakapan kunci dalam draf bab, cerpen, atau episode serial.
 - Saat menyunting dialog yang terasa kaku, terdengar seragam antartokoh, atau terjebak dalam sindrom eksposisi (*info-dumping lewat obrolan*).
 
-> **Aturan Posisi Karya**: Dialog santri atau remaja harus berbunyi wajar layaknya anak muda sungguhan yang bercakap-cakap. **DILARANG membuat dialog yang terdengar seperti ceramah agama/dakwah formal**, saling melempar dalil tanpa motif dramatik, atau bernada kesalehan performatif (*performative piety*). Percakapan harus inklusif dan mudah dipahami pembaca umum.
+> **Aturan Posisi Karya (Wajib AGENTS.md)**: Dialog santri/remaja berbunyi wajar layaknya anak muda sungguhan; dilarang berceramah/berkhotbah, tanpa kutipan dalil artifisial; nilai kebaikan tercermin dari laku dan sikap tokoh secara inklusif (remaja umum tidak merasa diceramahi, santri mengenali dunianya secara diam-diam).
 
 ## Alur Kerja Langkah demi Langkah
 1. **Pemeriksaan Sidik Suara (Idiolek) dari Bibel**:

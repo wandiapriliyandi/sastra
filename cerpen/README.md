@@ -1,4 +1,4 @@
-# Direktori Cerpen
+# Direktori Cerpen (Kumpulan Cerpen)
 
 Direktori ini diperuntukkan sebagai tempat penyimpanan dan pengerjaan naskah cerita pendek (cerpen).
 
@@ -6,18 +6,24 @@ Direktori ini diperuntukkan sebagai tempat penyimpanan dan pengerjaan naskah cer
 
 ## 📂 Konvensi Berkas Cerpen
 
-Setiap cerpen ditulis dan disimpan dalam **satu berkas utuh per judul**:
+Sesuai arahan terbaru, setiap karya cerpen disimpan dalam **subdirektori tersendiri per judul**:
 
 ```
-cerpen/<judul-cerpen>.md
+cerpen/<judul-cerpen>/
+├── <judul-cerpen>.md           # Naskah prosa cerpen utuh
+└── bibel-mini.md               # Catatan tokoh, latar, premis, dan tema (bila dibuat)
 ```
 
-Naskah cerpen tidak dipecah ke dalam subfolder. Di dalam berkas tersebut sudah tercakup metadata (tema/premis/target kata), naskah prosa utuh dari awal sampai akhir, dan biodata/catatan penulis singkat.
+Contoh struktur nyata:
+- `cerpen/sandal-yang-tertukar/sandal-yang-tertukar.md`
+- `cerpen/malam-terakhir-di-asrama/malam-terakhir-di-asrama.md`
+- `cerpen/telepon-antrean/telepon-antrean.md`
+- `cerpen/lomba-nggak-penting/lomba-nggak-penting.md`
 
 ---
 
 ## ⚡ Aturan Pengerjaan Cerpen
 - Rujuk pedoman kerja di [`/home/hatch/workspace/sastra/AGENTS.md`](file:///home/hatch/workspace/sastra/AGENTS.md).
+- Standar Panjang Cerpen: **3.000–4.500 kata** per naskah.
 - Gunakan skill [`agent/tulis-cerpen`](file:///home/hatch/workspace/sastra/agent/tulis-cerpen/SKILL.md) untuk alur kerja dari ide hingga naskah jadi.
-- Gunakan skill pendukung seperti [`agent/dialog`](file:///home/hatch/workspace/sastra/agent/dialog/SKILL.md), [`agent/pembaca-beta`](file:///home/hatch/workspace/sastra/agent/pembaca-beta/SKILL.md), dan [`agent/sunting-naskah`](file:///home/hatch/workspace/sastra/agent/sunting-naskah/SKILL.md) untuk penyempurnaan.
-- Terapkan disiplin [`agent/efisiensi-token`](file:///home/hatch/workspace/sastra/agent/efisiensi-token/SKILL.md).
+- Penuhi empat pilar mutu: **Sasaran Remaja (13–18)**, **Posisi Karya Universal**, **Efisiensi Token**, dan **Rasa Manusia**.

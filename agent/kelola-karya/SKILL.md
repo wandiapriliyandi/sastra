@@ -10,12 +10,14 @@ description: Manajemen inventaris dan koleksi karya sastra: mencatat status dan 
 - Untuk melakukan audit kerapian berkas dan struktur folder di repositori proyek sastra.
 - Untuk mencatat dan memverifikasi sasaran pembaca tiap karya (bawaan: Remaja 13–18 tahun).
 
-> **Aturan Sasaran Pembaca**: Pastikan setiap entri karya di `INDEKS_KARYA.md` memuat kolom sasaran pembaca. Bila tidak ada catatan khusus dari pemilik, otomatis ditetapkan sebagai **Remaja (13–18 tahun)**.
+> **Aturan Sasaran & Posisi Karya (Wajib AGENTS.md)**: 
+> - Pastikan setiap entri karya di `INDEKS_KARYA.md` memuat kolom sasaran pembaca (default: Remaja 13–18 tahun).
+> - Posisi karya dijaga: tidak boleh ada karya yang diberi label/kategori "cerita islami" atau "khusus santri"; semua dicatat sebagai fiksi remaja umum dengan catatan latar tekstual bila relevan.
 
 ## Alur Kerja Langkah demi Langkah
 1. **Pemindaian & Audit Struktur Folder**:
    - Periksa subfolder di `novel/` apakah mematuhi konvensi: `sinopsis.md`, `bibel/`, `kerangka/`, dan `bab/`.
-   - Periksa berkas di `cerpen/` apakah berformat satu berkas per judul: `cerpen/<judul>.md`.
+   - Periksa berkas di `cerpen/` apakah berformat subfolder per judul: `cerpen/<judul>/<judul>.md`.
 2. **Pembaruan Indeks Koleksi Karya (`INDEKS_KARYA.md`)**:
    - Catat status dan sasaran pembaca tiap karya:
      - Sasaran Pembaca: `Remaja (13–18)` (default) atau sasaran khusus yang ditentukan pemilik.

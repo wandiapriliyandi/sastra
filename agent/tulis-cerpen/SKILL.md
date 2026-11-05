@@ -7,7 +7,7 @@ description: Menjalankan alur lengkap penulisan cerita pendek dari ide hingga na
 
 ## Kapan Dipakai
 - Saat menciptakan sebuah cerita pendek (cerpen) baru berbahasa Indonesia.
-- Panjang sasaran: 1.500 – 3.500 kata (standar media sastra, koran, atau antologi cerpen).
+- Panjang sasaran: 3.000 – 4.500 kata (standar bawaan proyek sastra).
 
 > **Aturan Sasaran & Posisi Karya (Wajib AGENTS.md)**: 
 > - Sasaran: **Remaja umum (13–18 tahun)**.
@@ -31,15 +31,15 @@ description: Menjalankan alur lengkap penulisan cerita pendek dari ide hingga na
    - Selaraskan dengan preferensi di `agent/profil-gaya.md`.
 5. **Penyuntingan & Penyimpanan**:
    - Pangkas minimal 10–15% kata mubazir dan rapikan ejaan EYD V.
-   - Simpan langsung ke berkas tunggal: `cerpen/<judul-cerpen>.md`.
+   - Simpan ke subfolder tersendiri: `cerpen/<judul-cerpen>/<judul-cerpen>.md` (didampingi `bibel-mini.md` bila ada catatan tokoh/latar).
 
 ## Aturan Mutu
 - **Dual Appeal**: Menyentuh relung hati santri tanpa membuat remaja umum merasa di luar pagar.
 - **Ekonomi Kata Ketat**: Tidak ada ruang untuk sub-plot liar atau ceramah panjang.
-- **Satu Berkas Utuh**: Cerpen tersimpan utuh di dalam satu berkas markdown.
+- **Folder Per Judul**: Naskah cerpen tersimpan rapi di dalam subdirektori judulnya masing-masing.
 
 ## Format Keluaran
-Berkas disimpan di: `cerpen/<judul-cerpen>.md`
+Berkas disimpan di: `cerpen/<judul-cerpen>/<judul-cerpen>.md` (dan `bibel-mini.md`)
 
 ```markdown
 # [JUDUL CERPEN DALAM KAPITAL]

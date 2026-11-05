@@ -61,7 +61,9 @@ novel/<judul-novel>/
 ```
 
 ### 2. Format Karya Cerpen
-Disimpan langsung sebagai satu berkas utuh per judul di bawah `cerpen/`:
+Disimpan dalam subdirektori per judul di bawah `cerpen/`:
 ```
-cerpen/<judul-cerpen>.md        # Satu berkas tunggal memuat metadata sasaran pembaca, premis, dan naskah utuh cerpen
+cerpen/<judul-cerpen>/
+├── <judul-cerpen>.md           # Naskah prosa cerpen utuh (metadata + draf naskah)
+└── bibel-mini.md               # Catatan tokoh, latar, premis, dan tema (bila dibuat)
 ```
