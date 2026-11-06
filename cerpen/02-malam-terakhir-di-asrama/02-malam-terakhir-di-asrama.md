@@ -12,7 +12,7 @@
 
 ---
 
-Koper hitam berbahan terpal tebal milik Bayu sudah terkunci rapat sejak pukul delapan malam. Koper itu berdiri tegak dan kaku di samping lemari pakaian dua pintu yang cat hijaunya sudah mengelupas di bagian engsel, tampak seperti orang asing yang sedang cemas menunggu giliran dipanggil di ruang tunggu stasiun kereta api larut malam.
+Koper hitam berbahan terpal tebal milik Bayu sudah terkunci rapat sejak pukul delapan malam. Koper itu berdiri tegak dan kaku di samping lemari pakaian dua pintu yang cat hijaunya sudah mengelupas di bagian engsel.
 
 Di atas tutup koper itu, teronggok sebuah jaket parka abu-abu lusuh yang resleting sakunya sudah rusak sebelah. Kalau didekati, jaket itu selalu menguapkan aroma khas yang sangat kukenal: perpaduan antara minyak kayu putih, kapur barus lemari tua, dan wangi tembakau lintingan kakeknya di Blitar yang selalu dikirimkan bersama paket keripik singkong tiap awal bulan.
 
@@ -34,11 +34,11 @@ Itu sama sekali bukan denah resmi sekolah yang biasa dibagikan bagian tata usaha
 
 Setiap jengkal garis di peta itu menyimpan memori pelarian kami.
 
-Di belakang gedung bengkel otomotif lama, ada titik bertanda silang merah tebal yang kami beri nama *Gua Angin*: sebuah celah sempit berlantai pasir halus di antara dinding bata merah yang berlumut dan tumpukan ban traktor bekas milik yayasan. Di sanalah angin lembah bertiup paling kencang dan sejuk pada jam tidur siang yang gerah, tempat kami biasa menyelinap tidur beralas karung terigu sambil mendengarkan radio transistor kecil yang memutar siaran sandiwara radio.
+Di belakang gedung bengkel otomotif lama, ada titik bertanda silang merah tebal yang kami beri nama *Gua Angin*: sebuah celah sempit berlantai pasir halus di antara dinding bata merah yang berlumut dan tumpukan ban traktor bekas. Di sanalah kami biasa menyelinap tidur siang beralas karung terigu, mendengarkan radio transistor kecil yang memutar siaran sandiwara radio.
 
-Di lantai dua gedung perpustakaan umum asrama, ada titik bertanda lingkaran kuning tua: *Lembah Sunyi*. Itu adalah sudut mati di balik jajaran rak buku ensiklopedia pertanian Belanda terbitan tahun 1950-an yang halamannya sudah lapuk menguning dan tidak pernah disentuh orang selama puluhan tahun. Di celah sempit antara rak nomor sembilan dan jendela kaca nako itulah kami biasa menyembunyikan komik petualangan bekas sewaan pasar loak kecamatan—komik-komik lecek yang dilarang dibawa ke asrama tetapi selalu berhasil kami selundupkan di balik lipatan sarung.
+Di lantai dua gedung perpustakaan umum asrama, ada titik bertanda lingkaran kuning tua: *Lembah Sunyi*, sudut mati di balik jajaran rak buku ensiklopedia pertanian Belanda terbitan 1950-an yang halamannya sudah lapuk menguning dan tak pernah disentuh orang. Di celah antara rak nomor sembilan dan jendela kaca nako itulah kami menyembunyikan komik petualangan bekas sewaan pasar loak, komik-komik lecek yang dilarang dibawa ke asrama.
 
-Lalu di tepi jurang kecil yang membatasi asrama dengan kebun salak milik warga desa, ada sebuah titik hijau lumut di bawah pohon trembesi raksasa: *Pos Pelarian*. Undakan akar kayunya yang mencuat sebesar paha kerbau membentuk tempat duduk alami yang nyaman. Dari akar trembesi itulah kami biasa duduk diam memandangi kerlap-kerlip lampu truk-truk gandeng yang melintas di jalan raya provinsi jauh di dasar lembah setiap kali rindu rumah sedang menyerang begitu hebat hingga dada terasa sesak.
+Lalu di tepi jurang kecil yang membatasi asrama dengan kebun salak milik warga desa, ada sebuah titik hijau lumut di bawah pohon trembesi raksasa: *Pos Pelarian*, tempat undakan akar kayunya yang mencuat sebesar paha kerbau membentuk tempat duduk alami. Dari akar trembesi itulah kami biasa duduk diam memandangi kerlap-kerlip lampu truk-truk gandeng yang melintas di jalan raya provinsi jauh di dasar lembah, setiap kali rindu rumah menyerang begitu hebat hingga dada terasa sesak.
 
 Namun di sudut kanan atas peta kalkir itu—persis di samping gambar siluet menara tandon air gedung laboratorium Fisika lama yang sudah dikosongkan sejak lima tahun lalu—masih ada satu lingkaran kosong yang belum diarsir dan belum diberi nama.
 
@@ -110,7 +110,7 @@ Aku menelan ludah, mengusap kedua telapak tanganku yang basah oleh keringat ke c
 
 Pipa besi itu sedingin es batu di telapak tanganku, dan aroma karat logam yang tajam seketika menempel di kulit jemariku. Saat kakiku menjejak anak tangga kelima yang keropos, aku merasakan besi itu sedikit melengkung ke bawah. Keringat dingin mengalir di punggungku, tetapi aku tidak berhenti melangkah. Tiga undakan terakhir terasa begitu panjang, sampai akhirnya sebuah tangan yang kokoh menyambar kerah kausku dan menarikku ke atas.
 
-Aku mendarat dengan lutut tertekuk di atas lantai semen dak beton yang kasar. Napasku memburu terengah-engah, dadaku naik turun cepat, tetapi rasa lega yang luar biasa seketika menyapu seluruh ketakutanku.
+Aku mendarat dengan lutut tertekuk di atas lantai semen dak beton yang kasar. Napasku memburu terengah-engah, dadaku naik turun cepat. Kedua telapak tanganku masih gemetar, lengket oleh karat, menempel di semen dingin dak beton itu.
 
 Bayu menarikku duduk di sampingnya, bersandar pada dinding beton tandon air silinder yang masih menyimpan sedikit sisa hangat matahari siang.
 
@@ -118,19 +118,19 @@ Lalu kami berdua menoleh memandang ke depan.
 
 Dan di sanalah seluruh semesta masa remaja kami terbentang tanpa sekat.
 
-Dari puncak atap laboratorium tua ini, seluruh kompleks asrama Telaga Mulya tampak seperti miniatur mainan yang bercahaya di tengah gelapnya lembah pegunungan. Di kejauhan, atap seng gelombang gedung-gedung kamar berkilauan keperakan disapu oleh cahaya bulan purnama yang bulat sempurna di langit bersih. Lampu-lampu teras masjid menyala seperti deretan butiran tasbih emas raksasa yang melingkari pelataran paving.
+Dari puncak atap laboratorium tua ini, seluruh kompleks asrama Telaga Mulya terbentang kecil di tengah gelapnya lembah pegunungan, titik-titik lampunya berpendar. Di kejauhan, atap seng gelombang gedung-gedung kamar berkilauan keperakan disapu oleh cahaya bulan purnama yang bulat sempurna di langit bersih. Lampu-lampu teras masjid menyala kuning berderet mengelilingi pelataran paving.
 
-Lebih jauh lagi di seberang punggung bukit yang gelap, jalur jalan raya provinsi tampak seperti seutas pita hitam panjang yang berkelok-kelok menembus lembah. Cahaya lampu truk-truk antarkota bergerak perlahan laksana kunang-kunang raksasa yang merayap menuju arah barat, menuju kota-kota besar yang jauh di luar sana.
+Lebih jauh lagi di seberang punggung bukit yang gelap, jalur jalan raya provinsi berkelok-kelok menembus lembah, gelap dan memanjang. Cahaya lampu truk-truk antarkota bergerak perlahan laksana kunang-kunang raksasa yang merayap menuju arah barat, menuju kota-kota besar yang jauh di luar sana.
 
-Angin malam pegunungan menerpa wajah kami dengan hembusan yang segar dan dingin, membawa serta aroma khas tanah humus basah, wangi getah pinus muda dari hutan lereng gunung, dan semerbak aroma bunga pohon kopi yang sedang mekar serentak di kebun rakyat seberang jurang.
+Angin malam pegunungan menerpa wajah kami dengan hembusan yang segar dan dingin, membawa serta semerbak aroma bunga pohon kopi yang sedang mekar serentak di kebun rakyat seberang jurang.
 
-"Bagus banget, Ham," bisik Bayu pelan sekali, suaranya sarat akan kekaguman yang tulus. Tangannya memeluk kedua lututnya yang ditarik ke dada. "Jauh lebih bagus dari bayanganku selama ini."
+"Bagus banget, Ham," bisik Bayu pelan sekali. Tangannya memeluk kedua lututnya yang ditarik ke dada. "Jauh lebih bagus dari bayanganku selama ini."
 
 "Kan sudah kubilang dari dua bulan lalu," sahutku sambil menyeka sisa keringat di dahi. "Kamu saja yang selalu beralasan sibuk piket kamar mandi lah, takut ketahuan pengawas malam lah."
 
 "Bukan takut ketahuan, Ham," potong Bayu cepat, lalu ia menatap lurus ke arah kerlap-kerlip lampu kota di dasar lembah. "Aku cuma nunggu waktu yang beneran pas. Waktu di mana kita berdua tahu kalau pemandangan ini bakal jadi pemandangan terakhir yang kita lihat bareng-bareng."
 
-Kata-kata itu membuat dadaku berdenyut ngilu.
+Jemariku mencengkeram lututku sendiri, mengerat tanpa kusadari.
 
 "Ayahmu gimana keadaannya sekarang di rumah sakit Semarang, Bay?" tanyaku akhirnya, memberanikan diri menanyakan apa yang selama dua pekan ini selalu ia tutupi dengan candaan konyol.
 
@@ -140,7 +140,7 @@ Bayu menundukkan kepalanya dalam-dalam. Jemari tangannya meraba-raba permukaan s
 
 Ia menarik napas panjang yang gemetar, lalu melanjutkan: "Ibu sendirian jaga Ayah di rumah sakit sambil ngurus adik-adik di rumah kontrakan. Nggak ada biaya lagi buat bayar uang asramaku di sini tiap bulan. Makanya Paman bilang aku harus pindah ke sekolah negeri dekat rumah kontrakan Semarang biar bisa pulang pergi jalan kaki, terus sorenya bisa gantian sama Ibu nungguin Ayah di bangsal kelas tiga."
 
-Aku terdiam seribu bahasa. Di hadapan kenyataan hidup yang begitu keras dan dingin seperti itu, semua nasihat penghiburan yang biasa dibaca di buku-buku motivasi mendadak terdengar murahan dan memalukan.
+Aku tidak bilang apa-apa.
 
 Aku tidak tahu harus berkata apa. Maka aku hanya merogoh saku dalam celana training-ku, mengeluarkan sebuah bungkusan kertas koran bekas yang sudah kusiapkan sejak sore tadi dari lemari kamarku.
 
@@ -177,14 +177,14 @@ Dengan tangan yang tenang, mantap, dan sangat teliti, Bayu mulai menggoreskan uj
 Mula-mula ia menggambar sebuah simbol kecil yang selama ini selalu menjadi lambang rahasia kami berdua: sepasang sayap burung camar yang sedang mengepak di atas lengkungan garis cakrawala. Lalu di bawah simbol sayap itu, ia menuliskan sebuah nama tempat dengan huruf cetak kapital yang rapi dan tegak:
 
 *TITIK 13: MENARA ANGIN.*
-*Tempat melihat arah rumah sebelum kita benar-benar pulang.*
+*Dari sini kelihatan arah pulang.*
 
 Di bawah tulisan itu, ia menambahkan dua baris inisial pendek yang diukir dengan tekanan ujung pena yang kuat:
 
 *BAYU & ILHAM*
 *Kamar 2B — 2024–2026.*
 
-"Keren banget, Bay," bisikku pelan, menatap tulisan tinta hitam yang kini terpatri abadi di dinding semen tandon air itu. "Nanti pas balik ke kamar, kita langsung salin ke kertas kalkirnya."
+"Keren banget, Bay," bisikku pelan, menatap tulisan tinta hitam yang masih basah di dinding semen tandon air itu. "Nanti pas balik ke kamar, kita langsung salin ke kertas kalkirnya."
 
 Bayu memasukkan pulpennya kembali ke saku celananya, lalu berdiri mematikan senterku. Di kegelapan malam yang kembali menyelimuti kami, ia menatap dinding tandon air itu beberapa detik lebih lama, tidak bilang apa-apa.
 
@@ -202,9 +202,11 @@ Ia menatap mataku lekat-lekat: "Kamu yang masih tinggal di asrama ini setahun la
 
 Bayu menepuk pundak kiriku dua kali dengan telapak tangannya yang hangat dan kasar.
 
-"Siapa tahu nanti tahun depan ada anak baru dari luar pulau yang nangis di kolong dipan kayak aku dulu," lanjutnya dengan suara yang bergetar lembut. "Anak baru yang rindu rumahnya sampai nggak bisa makan nasi kantin. Kalau kamu ketemu anak kayak gitu nanti, Ham... ajak dia naik ke Menara Angin ini. Tunjukin ke dia kalau dari atas sini, rumahnya yang jauh itu sebetulnya nggak pernah benar-benar hilang."
+"Siapa tahu nanti tahun depan ada anak baru dari luar pulau yang nangis di kolong dipan kayak aku dulu," lanjutnya dengan suara yang bergetar lembut. "Anak baru yang rindu rumahnya sampai nggak bisa makan nasi kantin. Kalau kamu ketemu anak kayak gitu nanti, Ham... ajak dia naik ke Menara Angin ini."
 
-Air mataku mendadak menggenang di pelupuk mata mendengar kata-katanya. Aku menelan ludah keras-keras, berusaha menahan agar suaraku tidak pecah, lalu menganggukkan kepala mantap.
+Aku tidak langsung menjawab. Tanganku sibuk sendiri melipat kembali kertas koran bekas bungkus ubi tadi, menekuk lipatannya berulang-ulang sampai tepinya rata betul, sementara mataku menatap ke mana saja selain ke wajah Bayu.
+
+Sesaat aku ingin menolak. Kalau peta itu kuterima dan kusimpan, berarti aku ikut mengakui Bayu benar-benar pergi besok pagi—dan tidak ada lagi yang bisa kutahan. Lebih gampang rasanya kalau peta itu tetap jadi urusan Bayu, belum jadi urusanku.
 
 "Iya, Bay. Aku janji. Bakal kujaga peta itu, dan bakal kutunjukin jalan rahasianya kalau ada anak baru yang butuh."
 
