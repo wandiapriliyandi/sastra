@@ -6,7 +6,7 @@ Aku meluruskan ujung kertas itu dengan jempol. Pada jadwal persiapan di binder B
 
 "Dua puluh orang," kataku, tanpa mengangkat muka. "Pak Harun minta dua puluh tanda tangan di buku tamu. Kurang satu nama saja, hari Senin kita disuruh mengangkut kardus-kardus ini ke gudang belakang."
 
-Damar tidak langsung menyahut. Cowok kelas dua belas itu duduk di pinggir meja kayu lapis, ujung sepatu ketsnya yang bolong mengetuk-ngetuk ember plastik. Di tangannya ada obeng minus berkarat yang ia putar di antara telunjuk dan ibu jarinya. Jaket parasut abu-abunya lusuh, resleting depannya macet tepat di tengah dada.
+Damar tidak langsung menyahut. Cowok kelas dua belas itu duduk di pinggir meja kayu lapis, ujung sepatu ketsnya yang bolong mengetuk-ngetuk ember plastik. Di tangannya ada obeng minus berkarat yang ia putar di antara telunjuk dan ibu jarinya. Jaket parasut abu-abunya lusuh, ritsleting depannya macet tepat di tengah dada.
 
 "Dua puluh orang itu gampang kalau langitnya kooperatif, Ras," gumam Damar. Suaranya serak dan lambat, seperti orang baru bangun tidur. "Masalahnya, baut tripod kita dol. Kamu sentuh dikit saja pakai bulu mata, tabungnya langsung ndeprok ke bawah."
 
