@@ -102,7 +102,7 @@ Rengga menarik napas dalam-dalam. Kali ini ia tidak mendongak ke langit, tidak p
 
 Suaranya keluar. Agak serak di pangkal nada, tidak sebersih rekaman kaset pita milik ayah Galih di rumah, tetapi getaran vokalnya di nada rendah terasa bulat dan hangat. Saat melodi lagu meminta suara itu naik ke nada tinggi pada bait kedua refrain, Rengga tidak berteriak seperti di ruang musik kemarin. Ia menahan volumenya, membiarkan suaranya terdengar seperti bisikan yang tertahan di tenggorokan, tepat mengikuti tempo petikan gitar Galih.
 
-Satu, two, tiga, empat.
+Satu, dua, tiga, empat.
 
 Ketukan di kepala Galih tidak bentrok dengan napas Rengga. Suara dawai kawat nilon dan gesekan tipis ujung plektrum oranye berpadu dengan dengung vokal Rengga yang mengisi ruang kosong di antara ketukan. Di kebun pisang yang sunyi itu, lagu balada lawas tersebut tidak lagi terdengar seperti tugas sekolah yang dipaksakan.
 
