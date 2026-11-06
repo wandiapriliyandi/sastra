@@ -30,7 +30,7 @@ Anak-anak di bangku antrean serentak terbahak-bahak tanpa ampun, dan Bima buru-b
 
 Namun bilik telepon itu bukan hanya tempat untuk tertawaan konyol.
 
-Ada malam-malam di mana bilik tersebut berubah menjadi ruang paling sunyi dan paling menyayat hati di seluruh asrama. Seperti malam ketika Hendra, kapten tim bola basket sekolah yang biasanya paling berisik dan gemar melontarkan lelucon kasar di lapangan, berdiri di bilik itu selama empat menit penuh. Saat suara ibunya terdengar di seberang kawat tembaga kabel telepon, bahunya yang tegap dan berotot mendadak layu laksana dahan pohon patah. Ia hanya bisa menjawab dengan gumaman-gumaman pendek yang tercekat:
+Ada malam-malam di mana bilik tersebut berubah menjadi ruang paling sunyi dan paling menyayat hati di seluruh asrama. Seperti malam ketika Hendra, kapten tim bola basket sekolah yang biasanya paling berisik dan gemar melontarkan lelucon kasar di lapangan, berdiri di bilik itu selama empat menit penuh. Saat suara ibunya terdengar di seberang kawat tembaga kabel telepon, bahunya yang tegap dan berotot mendadak merosot lunglai. Ia hanya bisa menjawab dengan gumaman-gumaman pendek yang tercekat:
 
 *"Iya, Bu... Hendra makan banyak kok di sini... Hendra betah... Nggak usah cemas..."*
 
@@ -50,7 +50,7 @@ Ibuku bekerja menjemur dan menjual ikan asin tongkol di pasar pelelangan desa, s
 
 Mereka tidak punya nomor telepon rumah yang bisa kuhubungi dengan koin seratusan. Dan tidak ada telepon koin di desaku yang bisa mereka pakai untuk meneleponku ke asrama ini.
 
-Aku bisa berada di sekolah asrama ini berkat beasiswa penuh dari bupati kabupaten yang kudapatkan dua tahun lalu setelah memenangkan lomba cerdas cermat sains tingkat pesisir. Di asrama ini, aku mendapatkan ranjang tidur, makan tiga kali sehari, dan tumpukan buku-buku pelajaran baru yang tidak pernah kulihat sebelumnya di sekolah desaku.
+Aku bisa berada di sekolah asrama ini berkat beasiswa penuh dari bupati kabupaten yang kudapatkan setahun lalu setelah memenangkan lomba cerdas cermat sains tingkat pesisir. Di asrama ini, aku mendapatkan ranjang tidur, makan tiga kali sehari, dan tumpukan buku-buku pelajaran baru yang tidak pernah kulihat sebelumnya di sekolah desaku.
 
 Namun ada satu harga mahal yang harus kubayar: keterasingan mutlak dari suara orang-orang yang kusayangi.
 
@@ -74,7 +74,7 @@ Lalu Pak Joko akan menolehkan kepalanya ke arahku yang sedang duduk membaca buku
 
 Dan saat itulah tugasku dimulai.
 
-Aku akan melompat dari bangku kayu jati, melesat menembus kegelapan lapangan aspal yang basah oleh sisa hujan, melompati parit drainase, lalu menaiki anak tangga semen lantai dua dengan dua undakan sekaligus. Begitu tiba di depan lorong kamar yang temaram, aku akan menarik napas sedalam-dalamnya dan berteriak sekuat tenaga layaknya bentara kerajaan kuno:
+Aku akan melompat dari bangku kayu jati, melesat menembus kegelapan lapangan aspal yang basah oleh sisa hujan, melompati parit drainase, lalu menaiki anak tangga semen lantai dua dengan dua undakan sekaligus. Begitu tiba di depan lorong kamar yang temaram, aku akan menarik napas sedalam-dalamnya dan berteriak sekuat tenaga:
 
 "Kamar 3A! Doni! Ibunya telepon dari Kalimantan! Lari ke pos satpam sekarang juga, jangan pakai pakai sandal!"
 
@@ -136,13 +136,13 @@ Pak Joko menarik napas panjang, lalu mengulurkan gagang telepon hitam yang dingi
 
 Aku mendadak membeku di tempatku berpijak. Lantai semen di bawah kakiku mendadak terasa bergoyang laksana dek perahu kayu yang dihantam ombak laut. Tiga anak asrama yang berdiri di bangku antrean serentak menoleh menatapku dengan mata terbelalak lebar tanpa suara.
 
-"Saya, Pak?" bisikku kelu. Tenggorokanku tercekat kering laksana tercekik pasir. "Bapak salah dengar kali, Pak... Orang tua saya di Bawean nggak punya telepon... Nggak ada tiang telepon di desa saya..."
+"Saya, Pak?" bisikku kelu. Tenggorokanku tercekat, kering dan seret. "Bapak salah dengar kali, Pak... Orang tua saya di Bawean nggak punya telepon... Nggak ada tiang telepon di desa saya..."
 
 "Bapakmu sendiri yang bicara di seberang sana, Rian!" potong Pak Joko tegas, matanya berbinar menatapku lekat-lekat. "Dia bilang dia telepon dari kantor pos pelabuhan kecamatan Sangkapura! Ayo cepat ambil gagang teleponnya sebelum pulsanya putus ditelan mesin!"
 
 Kakiku tersandung ujung bangku kayu jati saat aku melompat meraih gagang telepon itu dari tangan Pak Joko. Tanganku gemetar begitu hebat hingga kawat pelindung gagang telepon beradu dengan kotak logam dan bergemerincing tajam.
 
-Dengan jantung yang berdegup kencang laksana letusan kembang api di malam tahun baru, kutempelkan corong hitam itu ke telingaku yang dingin.
+Dengan jantung yang berdegup kencang sampai denyutnya terasa di pelipisku, kutempelkan corong hitam itu ke telingaku yang dingin.
 
 Di sana, di antara desis statis kabel tembaga bawah laut yang panjang melintasi Selat Madura dan Laut Jawa ratusan kilometer jauhnya, aku mendengar suara yang tidak akan pernah kulupakan seumur hidupku: suara gemuruh debur ombak malam yang memukul tiang-tiang kayu dermaga pelabuhan dengan keras.
 
@@ -196,7 +196,7 @@ Sambungan kabel tembaga itu mati.
 
 Bunyi nada sibuk yang monoton dan dingin seketika menggema panjang di dalam corong telepon: *tuuuut... tuuuut... tuuuut...*
 
-Aku perlahan-lahan menurunkan gagang telepon hitam yang berat itu dari telingaku. Kutatap kotak abu-abu kusam di hadapanku dengan dada yang naik-turun hebat. Air mataku masih menetes deras di pipi, tetapi di dalam dadaku, tidak ada lagi rasa dingin atau rasa hampa yang selama dua tahun ini selalu menghantui malam-malamku di asrama ini.
+Aku perlahan-lahan menurunkan gagang telepon hitam yang berat itu dari telingaku. Kutatap kotak abu-abu kusam di hadapanku dengan dada yang naik-turun hebat. Air mataku masih menetes deras di pipi, tetapi di dalam dadaku, tidak ada lagi rasa dingin atau rasa hampa yang selama setahun ini selalu menghantui malam-malamku di asrama ini.
 
 Kutaruh gagang telepon itu kembali ke dudukannya yang berkarat dengan gerakan yang sangat pelan dan penuh penghormatan.
 
@@ -230,6 +230,4 @@ Aku melangkah meninggalkan bilik telepon umum dan pos satpam itu dengan langkah 
 
 Hujan gerimis di luar telah benar-benar reda, menyisakan hawa sejuk pegunungan yang bersih dan aroma tanah basah yang menyegarkan dada. Genangan air hujan di atas aspal lapangan memantulkan cahaya bintang-bintang yang mulai bermunculan di balik celah awan mendung yang berarak ke timur.
 
-Malam itu, saat aku berjalan melintasi lapangan aspal menuju gedung asramaku di lantai dua, aku memandang ke arah langit selatan yang jauh di kejauhan.
-
-Aku tidak lagi merasa asing di tempat ini. Aku tidak lagi merasa sebatang kara di tengah ratusan anak-anak kota yang memiliki segalanya. Karena malam ini, aku tahu dengan kepastian mutlak yang terpatri abadi di dalam jiwaku: di seberang lautan yang luas, gelap, dan berombak ganas di bawah langit malam Nusantara sana, ada sebuah perahu kayu kecil yang sedang berlayar membelah buih ombak menuju dermaga pulang, membawa seorang ayah pelaut perkasa yang baru saja menempuh perjalanan empat jam di tengah laut lepas hanya demi mendengar suara anaknya berkata bahwa ia baik-baik saja.
+Malam itu, saat aku berjalan melintasi lapangan aspal menuju gedung asramaku di lantai dua, aku memandang ke arah langit selatan yang jauh di kejauhan. Di seberang lautan yang luas dan gelap di bawahnya, sebuah perahu kayu kecil sedang berlayar membelah buih ombak, menuju dermaga pulang.
