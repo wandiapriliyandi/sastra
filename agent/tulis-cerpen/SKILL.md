@@ -25,6 +25,8 @@ description: Menjalankan alur lengkap penulisan cerita pendek dari ide hingga na
    - Hadirkan detail sensorik yang otentik dan hidup; hindari kesalehan performatif atau deskripsi klise.
 4. **Pemeriksaan Rasa Manusia (Langkah Wajib Akhir)**:
    - Pindai teks untuk mendeteksi tanda tulisan mesin: pola kalimat monoton, emosi yang dinamai terus-menerus, dan metafora klise AI.
+   - **Pindai terukur (wajib, lihat AGENTS.md §4.7)**: hitung kemunculan penanda simile dan kata penguat — "laksana"/"layaknya" per kata yang sama ≤ 5, total penanda simile (`laksana`, `layaknya`, `bagai`, `seolah-olah`) ≤ 12, "mendadak" ≤ 4, "luar biasa" ≤ 3 per cerpen. Di atas ambang = revisi, bukan lolos.
+   - Pemeriksaan akhir dilakukan agen/sesi BERBEDA dari penulis draf, dan laporannya mencantumkan angka hitungan — penilaian diri penulis tidak sah sebagai gerbang mutu.
    - Masukkan selaan alami dan partikel lisan wajar (*sih, kok, kan, dong*).
    - Pastikan ending tidak menggurui atau menyampaikan petuah moral eksplisit; sisakan ruang tafsir bagi pembaca.
    - Cek posisi karya: pastikan cerita tidak terkesan eksklusif atau sektarian.

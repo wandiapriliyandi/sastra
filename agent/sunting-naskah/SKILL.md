@@ -14,6 +14,7 @@ description: Melakukan penyuntingan naskah (novel per bab atau cerpen) mencakup 
    - Bandingkan naskah dengan berkas di `bibel/` (tokoh, dunia, garis waktu).
    - Catat jika ada diskrepansi fisik, umur, atau lini masa.
 2. **Lintasan Khusus: Pemeriksaan Rasa Manusia (Human Touch Pass)**:
+   - **Pindai terukur dulu (wajib, lihat AGENTS.md §4.7)**: hitung penanda simile per kata ("laksana"/"layaknya" ≤ 5 untuk kata yang sama; total `laksana+layaknya+bagai+seolah-olah` ≤ 12) dan kata penguat ("mendadak" ≤ 4, "luar biasa" ≤ 3) per cerpen 3.000–4.500 kata. Pengulangan berpola adalah tanda mesin nomor satu dan TIDAK terlihat tanpa menghitung. Cantumkan angka hitungan di laporan sunting.
    - Pindai dan tandai bagian naskah yang berbau buatan mesin (*AI slop*):
      - Pola ritme kalimat yang seragam dan monoton.
      - Diksi klise AI (*senyum tipis terukir, bagai embun pagi, tatapan dingin menusuk*).

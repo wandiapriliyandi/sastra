@@ -79,6 +79,12 @@ Karya fiksi yang dihasilkan project ini **TIDAK BOLEH terasa seperti tulisan mes
    - Tokoh harus dibiarkan ragu, berbuat salah, bersikap egois, dan tidak konsisten secara manusiawi.
 6. **Ruang Tafsir Pembaca**:
    - Jangan menjelaskan semua hal hingga tuntas; sisakan celah, subteks, dan keheningan bagi pembaca untuk menyimpulkan sendiri.
+7. **Pindai Terukur (Wajib — Bukan Sekadar Kesan)**:
+   - Pemeriksaan rasa manusia TIDAK cukup dengan membaca sekilas: pola mesin yang paling ketara justru berupa PENGULANGAN yang tak terlihat tanpa menghitung. Setiap naskah jadi wajib dipindai terukur sebelum dinyatakan lolos (contoh perintah: `grep -oiE '\blaksana\b|\blayaknya\b' naskah.md | wc -l` dan setara untuk kata lain di bawah).
+   - Ambang per cerpen (3.000–4.500 kata): satu penanda simile yang sama (mis. "laksana") ≤ 5 kemunculan; total penanda simile (`laksana`, `layaknya`, `bagai`, `seolah-olah`) ≤ 12; kata penguat "mendadak" ≤ 4 dan "luar biasa" ≤ 3. Lampaui ambang = revisi dulu, bukan diloloskan.
+   - Kepadatan hiasan juga diperiksa: bila hampir semua paragraf sama rapatnya oleh metafora/detail, poloskan sebagian adegan biasa — tulisan manusia timpang, ada bagian yang dibiarkan datar.
+   - Pemeriksa wajib BUKAN penulis naskah itu sendiri (agen/sesi berbeda, kacamata pembaca) — penulis menilai karyanya sendiri terbukti meloloskan pola yang sama yang ia hasilkan (kasus 2026-11-06: empat cerpen lolos gerbang awal, tapi pembaca beta independen + hitungan menemukan simile "laksana" sampai 20× di satu cerpen, skor rasa manusia hanya 6–7).
+   - Laporan pemeriksaan wajib mencantumkan ANGKA hasil hitungan, bukan hanya klaim "sudah lolos uji rasa manusia".
 
 ---
 
