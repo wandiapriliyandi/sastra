@@ -28,7 +28,7 @@ Namun, justru sandal rongsokan yang penuh riwayat itulah yang tiba-tiba memiliki
 
 Peristiwa itu bermula pada hari Selasa pekan ketiga bulan Oktober. Hujan gerimis baru saja membubarkan jam belajar malam mandiri di aula tengah asrama. Ketika lonceng besi dipukul tiga kali tepat pukul sembilan dan ratusan anak berhamburan menuruni undakan tangga masjid menuju gedung kamar, Fajar mendapati tempat parkir sandalnya di anak tangga kedua kosong melompong.
 
-Di undakan semen yang masih basah oleh tempias air hujan itu, hanya tersisa sepasang sandal jepit biru ukuran 42 yang salah satu talinya putus total. Karetnya kusam berlumur tanah merah kering—bangkai buangan yang bahkan kucing kurap dapur pun enggan meliriknya.
+Di undakan semen yang masih basah oleh tempias air hujan itu, hanya tersisa sepasang sandal jepit biru ukuran 41 yang salah satu talinya putus total. Karetnya kusam berlumur tanah merah kering—bangkai buangan yang bahkan kucing kurap dapur pun enggan meliriknya.
 
 Malam itu Fajar terpaksa berjalan bertelanjang kaki melintasi lapangan kerikil yang dingin demi kembali ke kamar 2A. Telapak kakinya ngilu terantuk batu tajam, dan sepanjang jalan ia mengumpat pelan, menyumpahi siapa pun manusia ceroboh yang telah menukar sandalnya dengan sampah.
 
@@ -52,15 +52,15 @@ Malam Jumat, sebelum lonceng jam belajar malam berdentang, Fajar telah menyusun 
 
 Kertas itu ia lipat sekecil mungkin sebesar perangko pos, lalu ia selipkan di balik celah karet tali sebelah kiri, persis di sela-sela jepitan karet gelang pengikat peniti.
 
-Fajar meletakkan sandal hijau itu di anak tangga kedua seperti biasa. Sepanjang dua jam belajar di dalam aula, konsentrasi Fajar ambyar total. Rumus hukum Newton tentang aksi dan reaksi di papan tulis berubah menjadi bayang-bayang sandal di kepalanya. Matanya berkali-kali melirik ke arah jendela kaca nako yang menghadap ke pelataran teras masjid. Sayangnya, teras luar terlalu remang; lampu neon panjang di atas pintu masjid dipenuhi laron yang beterbangan liar, menciptakan bayang-bayang kelabu yang bergoyang-goyang di lantai semen.
+Fajar meletakkan sandal hijau itu di anak tangga kedua seperti biasa. Sepanjang dua jam belajar di dalam aula, konsentrasi Fajar ambyar total. Rumus hukum Newton tentang aksi dan reaksi di papan tulis berubah menjadi bayang-bayang sandal di kepalanya. Matanya berkali-kali melirik ke arah jendela kaca nako yang menghadap ke pelataran teras masjid. Sayangnya, teras luar terlalu remang; lampu neon panjang di atas pintu masjid dipenuhi laron yang beterbangan liar.
 
 Tepat pukul sembilan, ketika bel berbunyi, Fajar langsung melesat keluar mendahului teman-temannya. Ia bahkan hampir menabrak Kang Misbah, pengurus keamanan asrama yang bertubuh kurus jangkung dan terkenal tanpa ampun dalam merazia barang terlarang.
 
 Di anak tangga kedua, sandal hijaunya sudah lenyap. Bangkai sandal biru butut kembali teronggok di posisi yang sama.
 
-Fajar tersenyum tipis di kegelapan malam. *Umpannya sudah dimakan.*
+Fajar menyeringai sendirian di kegelapan. *Umpannya sudah dimakan.*
 
-Subuh berikutnya, udara dingin pegunungan menusuk sampai ke persendian tulang. Belum genap bel pertama berdering, Fajar sudah menyelinap ke pintu depan kamar 2A. Benar saja: di rak nomor tujuh, sandal hijaunya sudah menanti dalam posisi tegak dan rapat.
+Subuh berikutnya, napas Fajar beruap tipis setiap kali terembus di udara dingin pegunungan. Belum genap bel pertama berdering, Fajar sudah menyelinap ke pintu depan kamar 2A. Benar saja: di rak nomor tujuh, sandal hijaunya sudah menanti dalam posisi tegak dan rapat.
 
 Fajar buru-buru menyambar sandal itu, membawanya ke bawah lampu neon koridor yang berkedip-kedip redup, lalu meraba bagian bawah tali karet sebelah kiri.
 
@@ -72,7 +72,7 @@ Namun ketika lipatan itu dibuka, Fajar mendapati robekan kertas buku Fisikanya s
 >
 > *Kertasmu sudah kubaca. Maaf kalau lancang dan bikin kamu susah. Besok malam kupinjam lagi jam delapan, jam sepuluh malam sudah pasti kukembalikan ke rak ini dalam keadaan bersih. — M*
 
-Fajar tertegun lama sekali di lorong asrama yang masih lengang. Bunyi gemericik air dari kran wudhu di kejauhan terdengar jelas membelah sunyi. Jemari Fajar yang tadi mengepal erat di sekeliling kertas itu perlahan mengendur. Ia menelan ludah sekali, dan tenggorokannya terasa seret.
+Fajar tertegun di lorong asrama yang masih lengang; robekan kertas itu terlipat ulang di tangannya tanpa ia sadari. Bunyi gemericik air dari kran wudhu di kejauhan terdengar jelas membelah sunyi. Jemari Fajar yang tadi mengepal erat di sekeliling kertas itu perlahan mengendur. Ia menelan ludah sekali, dan tenggorokannya terasa seret.
 
 "Siapa 'M'?" bisik Danang yang mendadak muncul di sampingnya dengan sarung yang masih melilit pundak, matanya merah sehabis bangun tidur.
 
@@ -90,7 +90,7 @@ Di sana duduk seorang anak laki-laki berbadan kurus dengan seragam putih abu-abu
 
 Selama tiga pekan ini, Miko praktis seperti hantu di asrama: tidak pernah bersuara keras, selalu berjalan menunduk mepet ke tembok, dan tidak pernah ikut nongkrong di lapangan basket menjelang magrib. Di kelas, ia duduk di barisan paling depan dekat meja guru, mencatat semua penjelasan di buku tulis bersampul cokelat rapi tanpa pernah menoleh ke kiri atau ke kanan.
 
-Dan yang membuat dada Fajar berdesir ngilu adalah kakinya: jempol kaki kiri Miko dibalut perban kain putih yang sudah kusam dan kecokelatan di bagian ujungnya karena terkena rembesan nanah dan debu semen. Anak itu memakai sandal karet pinjaman dari ruang kesehatan yang ukurannya jelas terlalu kecil—tumitnya menggantung hampir dua sentimeter di luar sol sandal, dan setiap kali ia menggeser kakinya, wajahnya berkerut menahan sakit.
+Jempol kaki kiri Miko dibalut perban kain putih yang sudah kusam dan kecokelatan di bagian ujungnya karena terkena rembesan nanah dan debu semen. Anak itu memakai sandal karet pinjaman dari ruang kesehatan yang ukurannya jelas terlalu kecil—tumitnya menggantung hampir dua sentimeter di luar sol sandal, dan setiap kali ia menggeser kakinya, wajahnya berkerut menahan sakit.
 
 "Danang," bisik Fajar sambil menyenggol siku sahabatnya.
 
@@ -102,19 +102,19 @@ Danang melirik sebentar, lalu mengunyah kerupuknya. "Iya, Miko anak kamar 4B. Ke
 
 "Kakinya kenapa diperban gitu?"
 
-"Oh, itu. Waktu hari Selasa minggu lalu kan hujan badai, got depan asrama meluap sampai ke jalan paving. Si Miko disuruh anak-anak senior kamar 4B buat beli gorengan di warung seberang parit. Pas mau lompat, sandalnya putus, dia kejungkal ke dasar parit yang banyak beling botol sirup pecah. Kakinya robek dalam banget. Sempat demam dua hari katanya di kamar, tapi nggak ada yang nengok selain petugas PMR."
+"Oh, itu. Selasa minggu lalu pas hujan badai, got depan asrama meluap sampai ke jalan paving. Si Miko kejungkal ke dasar parit pas mau nyebrang, kakinya robek kena beling botol. Sempat demam dua hari katanya di kamar, tapi nggak ada yang nengok selain petugas PMR."
 
 Fajar menelan ludah dengan susah payah. Nasi pecel di mulutnya mendadak terasa hambar, lengket, dan berat untuk ditelan. Ia teringat kembali kata-kata dalam robekan kertas subuh tadi: *Sandalmu empuk sekali karena karetnya sudah tipis...*
 
 "Kenapa dia nggak pinjam sandal teman sekamarnya saja sih?" tanya Fajar lagi.
 
-Danang mendengus pelan, suaranya dipelankan: "Kamar 4B itu isinya anak-anak senior kelas tiga semua, Jar. Si Miko ditaruh di sana gara-gara kamar anak kelas satu sudah kepenuhan. Kamu tahu sendiri kan anak kelas tiga kayak gimana? Jangankan pinjam sandal, salah taruh gayung mandi saja bisa disuruh push-up lima puluh kali di koridor."
+Danang mengangkat bahu. "Mana kutahu, Jar. Anak itu ngomong seperlunya saja. Ditanya soal PR saja jawabnya sepotong-sepotong."
 
-Fajar terdiam lama sekali. Matanya terus menatap Miko yang kini bangkit berdiri dengan susah payah. Anak itu menaruh piring kotornya di baskom cuci, lalu melangkah tertatih-tatih menuju koridor kelas. Langkahnya pincang, bertumpu sepenuhnya pada tumit kanan agar jempol kirinya yang luka tidak tertekan sol sandal karet yang keras.
+Fajar terdiam, sendok di tangannya berhenti di udara. Matanya terus menatap Miko yang kini bangkit berdiri dengan susah payah. Anak itu menaruh piring kotornya di baskom cuci, lalu melangkah tertatih-tatih menuju koridor kelas. Langkahnya pincang, bertumpu sepenuhnya pada tumit kanan agar jempol kirinya yang luka tidak tertekan sol sandal karet yang keras.
 
 Sore harinya, sehabis salat asar, Fajar melihat pemandangan lain.
 
-Di sumur belakang asrama—sebuah area terbuka berlantai semen lumutan tempat anak-anak biasa mencuci baju dan menimba air—Miko sedang berjongkok sendirian di depan seember cucian pakaian seragam. Hari sudah mulai temaram, dan angin sore pegunungan mulai berhembus dingin. Anak itu mengucek pakaiannya dengan tangan yang merah kedinginan, sementara kedua kakinya telanjang di atas lantai semen yang licin.
+Di sumur belakang asrama—sebuah area terbuka berlantai semen lumutan tempat anak-anak biasa mencuci baju—Miko sedang berjongkok sendirian di depan seember cucian pakaian seragam. Anak itu mengucek pakaiannya dengan tangan yang merah kedinginan, sementara kedua kakinya telanjang di atas lantai semen yang licin.
 
 Tiba-tiba dari arah lorong dapur, terdengar suara langkah sepatu bot karet yang berat. Kang Misbah, sang pengurus keamanan asrama, melangkah masuk ke area sumur membawa senter panjang dan buku catatan piket.
 
@@ -140,6 +140,8 @@ Tinggallah Fajar dan Miko berdua di pelataran sumur yang dingin. Air sabun menga
 
 "Makasih ya," bisik Miko pelan sekali, tangannya menarik ujung kaus seragamnya yang basah. Ia bahkan tidak berani mengangkat wajahnya untuk menatap Fajar.
 
+Ia seperti hendak menambahkan sesuatu. "Sandal saya itu... talinya putus, terus—" Suaranya berhenti di situ. Miko menggeleng pelan, lalu menunduk lagi.
+
 Fajar tidak menjawab sepatah kata pun. Ia hanya memandangi kaki Miko yang pucat, lalu mengangguk singkat sebelum berbalik menuju kamarnya tanpa menoleh lagi.
 
 Malam itu, sehabis salat isya berjamaah, Fajar kembali duduk di meja belajar kamarnya. Di atas sobekan kertas Fisika yang baru, ia menulis surat balasan kedua dengan pulpen birunya:
@@ -150,17 +152,15 @@ Kertas itu kembali ia selipkan di balik peniti sandalnya sebelum ia meletakkanny
 
 Pagi berikutnya saat subuh, balasan dari Miko sudah kembali mendarat di rak nomor tujuh kamar 2A:
 
-> *Uang kiriman bulananku belum sampai dari dusun, Fajar. Ibu bilang wesel posnya baru bisa dicairkan minggu depan karena kantor pos kecamatan sedang gangguan jaringan kabel. Uang sakuku yang tersisa di saku cuma delapan ribu rupiah, kurang lima ribu buat beli sandal di koperasi, dan aku malu mau berutang sama pengurus kantin.*
+> *Uang kiriman bulananku belum sampai dari dusun, Fajar. Ibu bilang wesel posnya baru bisa dicairkan minggu depan. Uang sakuku yang tersisa di saku cuma delapan ribu rupiah, kurang lima ribu buat beli sandal di koperasi, dan aku malu mau berutang sama pengurus kantin.*
 >
-> *Aku pinjam malam-malam karena jalanan ke sumur sepi jam segitu, jadi nggak ada anak-anak lain atau pengurus yang lihat aku jalan pincang kayak orang cacat. Aku beneran minta maaf sudah lancang. Kalau kamu keberatan dan marah, malam ini nggak akan kupinjam lagi sama sekali. Sandal hijaumu tadi subuh sudah kubersihkan lagi pakai sikat gigi bekas dan sabun colek sampai wangi. — Miko*
+> *Di kamar aku juga nggak berani pinjam punya kakak-kakak senior di 4B. Salah taruh gayung saja pernah disuruh push-up lima puluh kali di koridor. Aku pinjam malam-malam karena jalanan ke sumur sepi jam segitu, jadi nggak ada anak-anak lain atau pengurus yang lihat aku jalan pincang kayak orang cacat. Aku beneran minta maaf sudah lancang. Kalau kamu keberatan dan marah, malam ini nggak akan kupinjam lagi sama sekali. Sandal hijaumu tadi subuh sudah kubersihkan lagi pakai sikat gigi bekas dan sabun colek sampai wangi. — Miko*
 
-Fajar duduk di tepian dipannya sambil memegang robekan kertas itu lama sekali. Di luar jendela kamar, kabut tipis perlahan-lahan terangkat disapu sinar matahari pagi yang keemasan. Suara burung gereja yang bersarang di talang seng terdengar riuh bersahut-sahutan.
+Fajar duduk di tepian dipannya sambil memegang robekan kertas itu lama sekali. Di luar jendela kamar, suara burung gereja yang bersarang di talang seng terdengar riuh bersahut-sahutan.
 
 Fajar membayangkan dirinya sendiri setahun lalu, ketika pertama kali diantar Mas Gani menaiki bus antarkota dari desa mereka di pelosok Blora menuju asrama ini.
 
-Saat itu ia baru berusia empat belas tahun. Hari pertama ditinggal sendirian, ia menangis sesenggukan di balik selimut lorengnya sampai matanya bengkak karena merasa terbuang dari rumah. Masakan dapur asrama terasa seperti gumpalan garam dan minyak hambar di lidahnya, dan ia terlalu ciut untuk sekadar bertanya kepada anak-anak senior di mana letak tali jemuran yang tidak bocor terkena tetesan air genting.
-
-Rasa takut, rasa asing, dan malu karena miskin itu masih hapal betul di badannya sendiri.
+Saat itu ia baru berusia empat belas tahun. Hari pertama ditinggal sendirian, ia menangis sesenggukan di balik selimut lorengnya sampai matanya bengkak. Masakan dapur asrama terasa seperti gumpalan garam dan minyak hambar di lidahnya, dan ia terlalu ciut untuk sekadar bertanya kepada anak-anak senior di mana letak tali jemuran yang tidak bocor terkena tetesan air genting.
 
 Tanpa bicara sepatah kata pun pada Danang yang masih asyik menyisir rambut di depan cermin lemari, Fajar bangkit berdiri. Ia melangkah ke sudut kamar tempat lemari pakaiannya berada.
 
@@ -186,13 +186,13 @@ Danang mengerutkan keningnya heran. "Buat apa? Uang kirimanmu kan baru datang mi
 
 "Bukan. Nanti pas kiriman Mas Gani datang minggu depan, langsung kuganti tiga ribu. Seribu buat bunganya."
 
-Danang tertawa kecil melihat ekspresi wajah Fajar yang luar biasa serius, lalu ia merogoh saku celana abu-abunya dan meletakkan dua keping koin seribu rupiah yang berkilau ke atas telapak tangan Fajar. "Nggak usah pakai bunga, kayak rentenir pasar saja kamu. Tapi awas ya kalau sampai lupa bayar!"
+Danang tertawa kecil melihat Fajar memasang muka kayak mau maju perang, lalu ia merogoh saku celana abu-abunya dan meletakkan dua keping koin seribu rupiah yang berkilau ke atas telapak tangan Fajar. "Nggak usah pakai bunga, kayak rentenir pasar saja kamu. Tapi awas ya kalau sampai lupa bayar!"
 
 "Makasih, Nang!"
 
 Fajar tidak membuang waktu sedetik pun. Ia langsung melesat keluar kamar, menuruni tangga lantai dua dengan langkah bergegas menuju gedung koperasi asrama yang terletak di samping kantor tata usaha.
 
-Penjaga koperasi, seorang mahasiswa magang tingkat akhir bernama Mas Yoga yang berkacamata bulat, sedang sibuk menata buku-buku tulis bergaris di etalase kaca.
+Mas Yoga, penjaga koperasi yang berkacamata bulat, sedang menata buku tulis di etalase kaca.
 
 "Pagi, Mas Yoga," sapa Fajar terengah-engah.
 
@@ -228,9 +228,9 @@ Di atas sol sandal biru yang bersih itu, Fajar meletakkan selembar kertas robeka
 >
 > *— Fajar (Kamar 2A)*
 
-Setelah memastikan kertas itu tertindih batu dengan aman dan tidak akan terbang tertiup angin sore, Fajar melangkah pergi. Langkahnya terasa lebih ringan daripada ketika ia datang.
+Fajar menekan batu itu sekali lagi dengan ujung jempol kakinya, memastikan kertasnya tidak bergeser, lalu melangkah pergi.
 
-Malam itu, jam belajar malam di aula terasa berjalan sangat cepat. Fajar tidak lagi merasa cemas atau penasaran. Ia mengerjakan soal-soal latihan Matematika dengan tenang, mendengarkan desau angin malam yang menggoyang dahan pohon mahoni di luar jendela.
+Malam itu, jam belajar malam di aula terasa berjalan sangat cepat. Ia mengerjakan soal-soal latihan Matematika dengan tenang, mendengarkan desau angin malam yang menggoyang dahan pohon mahoni di luar jendela.
 
 Pukul sembilan malam, Fajar sengaja berjalan santai bersama Danang menuruni tangga masjid.
 
@@ -246,11 +246,11 @@ Di bawah dua butir permen itu, terselip selembar robekan kertas kecil yang bertu
 
 > *Terima kasih banyak, Fajar. Sandalnya pas sekali di kakiku, empuk dan dingin, lukaku sama sekali nggak terasa sakit pas kupakai jalan ke sumur tadi malam.*
 >
-> *Permen jahe ini dikirim ibuku dari Palembang kemarin sore bersama surat kabar desa. Nanti malam sehabis isya, aku boleh mampir ke Kamar 2A? Aku memang nggak bisa main gitar, tapi aku bawa keripik pisang buatan ibu satu toples besar yang belum kubuka sama sekali.*
+> *Permen jahe ini dikirim ibuku dari Palembang kemarin sore bersama surat kabar desa. Nanti malam sehabis isya, aku ~~pengin~~ boleh mampir ke Kamar 2A? Aku nggak bisa main gitar, tapi aku bawa keripik pisang buatan ibu satu toples. Belum kubuka sama sekali.*
 >
 > *— Miko*
 
-Fajar tersenyum lebar. Ia memasukkan dua butir permen jahe itu ke dalam saku celana training-nya, membuka salah satu bungkusnya, lalu memasukkan permen beraroma pedas manis itu ke dalam mulutnya. Rasa hangat seketika menjalar di lidah dan tenggorokannya, mengusir dinginnya udara subuh pegunungan.
+Fajar tersenyum lebar. Ia memasukkan dua butir permen jahe itu ke dalam saku celana training-nya, membuka salah satu bungkusnya, lalu memasukkan permen beraroma pedas manis itu ke dalam mulutnya. Pedas jahenya langsung menyengat lidah, lalu manisnya menyusul pelan-pelan.
 
 Ia memasang sandal hijau bututnya ke kedua kakinya.
 
