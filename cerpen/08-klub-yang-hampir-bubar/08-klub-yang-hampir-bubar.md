@@ -50,9 +50,9 @@ Damar mendengus pendek. Ia tidak menarik tangannya, melainkan mengetuk tabung te
 
 "Lihat itu," kata Damar, mendongak menatapku dari bawah poninya yang berantakan. "Buku manualmu itu ditulis buat teleskop di kamar ber-AC di Jerman, Ras. Bukan buat barang hibah tahun 2011 yang sepuluh tahun disimpan di samping ember pel. Pilihannya cuma dua: kamu patuh ke buku terus malam ini kita nonton awan sambil megangi tabung yang letoy, atau pasang ini biar kepalanya anteng."
 
-Aku menelan ludah. Kutatap leher poros yang terayun menyedihkan itu, lalu jemariku yang menahan lengan Damar perlahan turun. Aku mundur selangkah.
+Aku menatap leher poros yang terayun lunglai itu. Lembar buku petunjuk alat di genggamanku merenyuk oleh keringat dingin telapak tangan. Perlahan, jemariku yang menahan lengan Damar merenggang dan turun. Aku melangkah mundur satu tapak, membiarkan cowok itu mengambil alih tabung.
 
-"Awas kalau lecet," desisku kaku.
+"Awas kalau sampai lecet," desisku kaku.
 
 Damar tidak mendebat. Ia menerima potongan karet ban dalam dari Niko, melilitkannya di leher drat, lalu memasang klem pipa besi dua inci. Dengan obeng minus dan kunci pas nomor sepuluh, ia mengencangkan klem perlahan sampai karetnya memadat dan menjepit poros.
 
@@ -68,21 +68,21 @@ Niko berjongkok memegangi jeriken sementara Damar membelitkan kawat bendrat ke p
 
 "Biar nggak njungkel ditiup angin, intinya begitu," sahut Damar datar. Ia memotong sisa kawat dengan tang potong. *Krek.*
 
-Begitu jeriken terikat, Niko bangkit mendekati tabung. Tangannya memutar sekrup kuningan di samping tabung okuler ke arah luar.
+Begitu jeriken terikat, Niko bangkit mendekati tabung. Tanpa izin, jemarinya memutar sekrup pemfokus kuningan di samping leher okuler ke arah luar.
 
 *Klek.*
 
-Baut pengunci melonggar terlalu banyak. Lensa okuler yang belum terkunci miring dan meluncur keluar dari dudukannya.
+Baut penahan melonggar terlalu banyak. Lensa okuler yang belum terkunci miring dan meluncur keluar dari selongsongnya.
 
 "Niko!" pekikku tertahan.
 
-Damar menyambar badan silinder lensa tepat sejengkal sebelum membentur semen. Niko terlonjak, kedua tangannya mematung kaku di udara.
+Damar menyambar badan silinder lensa tepat sejengkal sebelum mencium plester semen. Niko tersentak mundur, kedua tangannya mematung kaku di udara.
 
-"Jangan diutak-atik tanpa izin!" tegurku tajam. "Lensa sepuluh milimeter ini nggak ada gantinya kalau pecah ke lantai. Ini bukan simulasi layar sentuh yang bisa di-*undo*!"
+"Jangan sok utak-atik tanpa izin!" tegurku tajam. "Lensa sepuluh milimeter ini nggak ada gantinya kalau pecah ke lantai. Ini optik sungguhan, Niko, bukan simulasi layar sentuh yang bisa di-*undo*!"
 
-Niko menarik tangannya ke dada, bahunya menciut. "Maaf, Kak... tadi mau nyetel rasionya..."
+Niko menarik tangannya ke dada, bahunya menciut. "Maaf, Kak... tadi mau ngepasin pemfokusnya..."
 
-Damar meniup selongsong lensa, memasukkannya kembali ke tempatnya, lalu mengencangkan sekrup penahan dengan dua putaran jempol. "Tanganmu simpan di saku dulu, Bocah. Belajar megang baut sebelum nyentuh kaca optik."
+Damar meniup selongsong lensa, memasukkan tabung optik itu kembali ke dudukannya, lalu mengencangkan sekrup penahan dengan dua putaran jempol. "Tanganmu simpan di saku dulu, Bocah. Belajar megang baut sebelum sok nyetel optik."
 
 Damar berdiri, lalu menunjuk ke atas dengan obengnya. "Sekarang tinggal satu musuh kita."
 
@@ -208,7 +208,7 @@ Sebuah piringan bulat berwarna putih kekuningan mengambang di tengah lingkaran l
 
 Empat bulan Galilea: Io, Europa, Ganymede, dan Callisto.
 
-Pemandangan itu bukan simulasi grafis di ponsel Niko. Cahaya nyata yang menempuh ratusan juta kilometer menembus ruang hampa, terpantul cermin cekung berdebu yang kami ganjal klem pipa dan potongan ban dalam, sampai ke mata.
+Bukan simulasi grafis di ponsel Niko. Piringan kecil itu nyata, dipantulkan cermin cekung berdebu yang disangga klem pipa dan bantalan ban dalam bekas.
 
 "Bu Retno dulu," kataku, melangkah mundur selangkah memberi ruang. "Silakan, Bu. Tempelkan mata pelan-pelan, jangan pegang tabung birunya."
 
@@ -274,7 +274,7 @@ Aku menahan napas.
 
 Pak Harun berbalik, menuruni anak tangga tanpa menunggu balasan terima kasih. Langkah kakinya yang berat berdentang teratur di lantai semen, makin lama makin menjauh.
 
-*Serahin kuncinya ke Pak Harun ya, Ras. Nggak apa-apa kok.* Kalimat ketua lama itu terlintas sekilas, lalu lenyap ke udara malam. Kuncinya tidak jadi kuserahkan.
+*Serahin kuncinya ke Pak Harun ya, Ras. Nggak apa-apa kok.* Kata "nggak apa-apa" dari ketua lama itu lenyap bersama derap langkah Pak Harun yang menjauh. Kuncinya tidak jadi kuserahkan.
 
 Aku memeluk buku tamu itu di dada. Di sekitarku, anak-anak masih bergantian mengintip ke dalam tabung teleskop.
 
@@ -320,6 +320,6 @@ Tatapanku melayang ke arah tabung teleskop biru dongker yang kini terdiam kaku d
 
 Aku menarik kembali ujung stabilo itu.
 
-Bunyi *klik* terdengar saat tutup stabilo jingga kupasang kembali rapat-rapat. Aku menyelipkannya ke dalam saku kemeja seragam. Di lembar paling belakang binder, lipatan sobekan artikel bergambar cincin Saturnus masih terselip rapi.
+Bunyi *klik* terdengar saat tutup stabilo jingga kupasang kembali rapat-rapat. Aku menyelipkannya ke dalam saku kemeja seragam. Di lembar paling belakang binder, lipatan sobekan artikel bergambar cincin Saturnus yang kusimpan sejak SD masih terselip rapi.
 
 Di atas kertas putih bergaris itu, baris kesepuluh kubiarkan tetap putih polos.
