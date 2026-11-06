@@ -8,6 +8,7 @@ description: Membangun dan merawat bibel cerita (story bible) per novel yang mem
 ## Kapan Dipakai
 - Segera setelah `rencana-novel` selesai sebelum menulis bab apa pun.
 - Selama proses penulisan untuk merawat kontinuitas, memperbarui perkembangan tokoh, dan menambahkan fakta baru yang muncul di naskah.
+- Perancangan tokohnya sendiri (variabel pembentukan: temperamen/MBTI/golongan darah, keluarga, lingkungan, pendidikan, pertemanan, pengalaman formatif) mengikuti skill `karakter-dan-psikologi`; berkas bibel di sini adalah tempat kartu tokoh hasil rancangan itu disimpan dan dirawat.
 
 ## Alur Kerja Langkah demi Langkah
 1. **Pemetaan Tokoh (`bibel/tokoh.md`)**:

@@ -10,7 +10,7 @@ Pusat keahlian menulis fiksi sastra berbahasa Indonesia untuk proyek kepenulisan
 
 ---
 
-## 📚 Indeks Kumpulan Skill Menulis Fiksi (19 Skill)
+## 📚 Indeks Kumpulan Skill Menulis Fiksi (20 Skill)
 
 | No | Nama Skill | Direktori | Satu Baris Fungsi |
 |---|---|---|---|
@@ -33,6 +33,7 @@ Pusat keahlian menulis fiksi sastra berbahasa Indonesia untuk proyek kepenulisan
 | 17 | **adaptasi-format** | [`agent/adaptasi-format/`](./adaptasi-format/SKILL.md) | Mengalihformatkan karya: cerpen menjadi novel, novel menjadi sinopsis/naskah, dan sebaliknya, dengan menjaga inti cerita dan tokoh. |
 | 18 | **penerbitan** | [`agent/penerbitan/`](./penerbitan/SKILL.md) | Alur menerbitkan karya sendiri: naskah final, penyiapan berkas terbit, keterangan/metadata karya, daftar periksa prarilis, sampai karya dirilis ke platform pilihan. |
 | 19 | **sampul-dan-ilustrasi** | [`agent/sampul-dan-ilustrasi/`](./sampul-dan-ilustrasi/SKILL.md) | Brief visual untuk sampul karya dan ilustrasi tokoh/latar: merumuskan arahan gambar yang konsisten dengan isi dan bibel cerita untuk ilustrator atau generator gambar. |
+| 20 | **karakter-dan-psikologi** | [`agent/karakter-dan-psikologi/`](./karakter-dan-psikologi/SKILL.md) | Merancang tokoh dengan variabel pembentukan berlapis (MBTI, golongan darah, temperamen, keluarga, lingkungan, pendidikan, pertemanan, pengalaman formatif) menjadi kartu tokoh yang hidup dan kontradiktif; metode perancangan pasangan bibel-cerita, plus uji diagnosis tokoh datar saat revisi. |
 
 ---
 
