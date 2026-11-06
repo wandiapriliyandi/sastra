@@ -10,7 +10,7 @@ Damar tidak langsung menyahut. Cowok kelas dua belas itu duduk di pinggir meja k
 
 "Dua puluh orang itu gampang kalau langitnya kooperatif, Ras," gumam Damar. Suaranya serak dan lambat, seperti orang baru bangun tidur. "Masalahnya, baut tripod kita dol. Kamu sentuh dikit saja pakai bulu mata, tabungnya langsung ndeprok ke bawah."
 
-"Jangan mulai lagi dengan perumpamaan sawahmu, Kak," tukasku. Kacamata bulatku melorot sedikit, dan aku mendorongnya naik dengan punggung kelingking. "Ini masalah mekanis. Harusnya kamu selesaikan sejak Rabu kemarin."
+"Jangan mulai cari alasan, Kak," tukasku. Kacamata bulatku melorot sedikit, dan aku mendorongnya naik dengan punggung kelingking. "Ini masalah mekanis. Harusnya kamu selesaikan sejak Rabu kemarin."
 
 "Lha kan anggarannya ditolak bos kesiswaanmu," sahut Damar. Ia menyelipkan obeng ke saku jaket, lalu mengambil potongan kerupuk putih yang melempem dari kantong plastik di sampingnya. "Uang servis tiga ratus lima puluh ribu melayang buat beli kostum futsal. Kamu mau aku nyervis pakai daun mahoni?"
 
@@ -228,7 +228,7 @@ Anak-anak Paskibra berbaris di belakang Fajar tanpa disuruh. Fajar membungkuk di
 
 "Ganymede yang mana, Nik? Titik paling kiri itu ya?" bisik anak Paskibra yang mengantre di belakangnya sambil menyipitkan mata.
 
-Tiga anak kelas sepuluh teman sekelas Niko ikut merapat, menahan napas bergantian menunggu giliran di depan laras logam. Keriuhan itu menarik perhatian dari bawah. Empat murid yang baru selesai dari musala dan dua anak yang menunggu jemputan di pos satpam ikut menaiki tangga. Teras yang tadinya sepi kini dipenuhi langkah kaki dan obrolan penasaran.
+Tiga anak kelas sepuluh teman sekelas Niko ikut merapat, menahan napas bergantian menunggu giliran di depan tabung logam. Keriuhan itu menarik perhatian dari bawah. Empat murid yang baru selesai dari musala dan dua anak yang menunggu jemputan di pos satpam ikut menaiki tangga. Teras yang tadinya sepi kini dipenuhi langkah kaki dan obrolan penasaran.
 
 Di tengah antrean yang terus bergerak, derap sepatu pantofel terdengar menaiki anak tangga terakhir.
 
@@ -274,7 +274,7 @@ Aku menahan napas.
 
 Pak Harun berbalik, menuruni anak tangga tanpa menunggu balasan terima kasih. Langkah kakinya yang berat berdentang teratur di lantai semen, makin lama makin menjauh.
 
-*Serahin kuncinya ke Pak Harun ya, Ras. Nggak apa-apa kok.* Kata "nggak apa-apa" dari ketua lama itu lenyap bersama derap langkah Pak Harun yang menjauh. Kuncinya tidak jadi kuserahkan.
+*Serahin kuncinya ke Pak Harun ya, Ras. Nggak apa-apa kok.* Gema kata "nggak apa-apa" dari ketua lama itu luruh bersama derap langkah Pak Harun yang menjauh di tangga. Kunci di saku rokku tidak berpindah tangan.
 
 Aku memeluk buku tamu itu di dada. Di sekitarku, anak-anak masih bergantian mengintip ke dalam tabung teleskop.
 
@@ -306,7 +306,7 @@ Aku duduk di bangku semen yang dingin, menyalakan senter berkepala mika merah, d
 
 Cahaya merah buram menyinari selembar kertas putih bergaris di bawahnya. Sepuluh baris rencana kerja yang kutulis rapi sejak hari Senin terbentang di depan mataku.
 
-Sembilan baris teratas sudah tertutup sapuan stabilo jingga neon yang tebal dan menyala. Kotak-kotak kecil di sampingnya sudah terisi tanda centang hitam sempurna.
+Sembilan baris teratas sudah tertutup sapuan stabilo jingga neon yang tebal dan menyala. Kotak-kotak kecil di sampingnya sudah terisi tanda centang hitam rapi.
 
 Tinggal satu baris paling bawah. Baris nomor sepuluh.
 
