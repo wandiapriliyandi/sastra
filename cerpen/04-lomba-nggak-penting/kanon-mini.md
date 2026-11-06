@@ -1,4 +1,4 @@
-# Bibel Mini: Lomba Nggak Penting
+# Kanon Mini: Lomba Nggak Penting
 
 ## 1. Premis & Tema
 - **Premis**: Empat anak laki-laki sekamar memperlakukan lomba sepele kerapian lemari asrama layaknya final piala dunia: strategi lipat kardus militer, spionase musuh bebuyutan, insiden pomade tumpah, bedak chamomile darurat, hingga kekalahan kocak oleh kamar anak baru yang lemarinya kosong karena bajunya belum kering di jemuran.

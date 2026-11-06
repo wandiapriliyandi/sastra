@@ -1,4 +1,4 @@
-# Bibel Mini: Telepon Antrean
+# Kanon Mini: Telepon Antrean
 
 ## 1. Premis & Tema
 - **Premis**: Di tengah antrean satu telepon umum asrama yang menjadi panggung kabar rumah, seorang anak rantau pulau terpencil yang tidak pernah ditelepon justru menjadi operator kurir pemanggil nama—sampai suatu malam gerimis namanya sendiri dipanggil karena ayahnya menyeberang laut naik perahu demi menelepon dua menit.

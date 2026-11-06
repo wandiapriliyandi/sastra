@@ -105,7 +105,7 @@ Semua karya fiksi harus mematuhi struktur direktori berikut:
   - `bab/`         : Naskah draf prosa per bab (`bab-01.md`, `bab-02.md`, ...).
 - **Cerpen**: `cerpen/<nomor>-<judul-cerpen>/`
   - `<nomor>-<judul-cerpen>.md` : Naskah prosa cerpen utuh (standar panjang bawaan: **3.000–4.500 kata**).
-  - `bibel-mini.md`     : Catatan tokoh, latar, premis, dan tema cerpen (bila dibuat).
+  - `kanon-mini.md`     : Catatan tokoh, latar, premis, dan tema cerpen (bila dibuat).
 
 ---
 

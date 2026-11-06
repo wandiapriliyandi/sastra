@@ -34,7 +34,7 @@ description: Menjalankan alur lengkap penulisan cerita pendek dari ide hingga na
    - Selaraskan dengan preferensi di `agent/profil-gaya.md`.
 5. **Penyuntingan & Penyimpanan**:
    - Pangkas minimal 10–15% kata mubazir dan rapikan ejaan EYD V.
-   - Simpan ke subfolder tersendiri: `cerpen/<nomor>-<judul-cerpen>/<nomor>-<judul-cerpen>.md` (nomor dua digit urutan buat berikutnya) (didampingi `bibel-mini.md` bila ada catatan tokoh/latar).
+   - Simpan ke subfolder tersendiri: `cerpen/<nomor>-<judul-cerpen>/<nomor>-<judul-cerpen>.md` (nomor dua digit urutan buat berikutnya) (didampingi `kanon-mini.md` bila ada catatan tokoh/latar).
 
 ## Aturan Mutu
 - **Dual Appeal**: Menyentuh relung hati santri tanpa membuat remaja umum merasa di luar pagar.
@@ -42,7 +42,7 @@ description: Menjalankan alur lengkap penulisan cerita pendek dari ide hingga na
 - **Folder Per Judul**: Naskah cerpen tersimpan rapi di dalam subdirektori judulnya masing-masing.
 
 ## Format Keluaran
-Berkas disimpan di: `cerpen/<nomor>-<judul-cerpen>/<nomor>-<judul-cerpen>.md` (dan `bibel-mini.md`)
+Berkas disimpan di: `cerpen/<nomor>-<judul-cerpen>/<nomor>-<judul-cerpen>.md` (dan `kanon-mini.md`)
 
 ```markdown
 # [JUDUL CERPEN DALAM KAPITAL]

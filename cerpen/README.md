@@ -11,7 +11,7 @@ Sesuai arahan terbaru, setiap karya cerpen disimpan dalam **subdirektori tersend
 ```
 cerpen/<nomor>-<judul-cerpen>/
 ├── <nomor>-<judul-cerpen>.md   # Naskah prosa cerpen utuh
-└── bibel-mini.md               # Catatan tokoh, latar, premis, dan tema (bila dibuat)
+└── kanon-mini.md               # Catatan tokoh, latar, premis, dan tema (bila dibuat)
 ```
 
 Contoh struktur nyata:

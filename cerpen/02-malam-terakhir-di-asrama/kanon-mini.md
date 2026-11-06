@@ -1,4 +1,4 @@
-# Bibel Mini: Malam Terakhir di Asrama
+# Kanon Mini: Malam Terakhir di Asrama
 
 ## 1. Premis & Tema
 - **Premis**: Semalaman sebelum sahabat sekamarnya pindah sekolah ke luar kota karena ayahnya sakit, dua remaja asrama menyelinap ke atap laboratorium tua untuk menuntaskan titik terakhir dari peta rahasia tempat-tempat persembunyian mereka.

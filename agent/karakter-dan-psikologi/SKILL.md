@@ -6,7 +6,7 @@ description: Merancang tokoh fiksi dengan variabel pembentukan berlapis — temp
 # Skill: Karakter dan Psikologi
 
 ## Kapan Dipakai
-- Saat merancang tokoh baru (novel maupun cerpen), SEBELUM menulis: hasil akhirnya disimpan sebagai kartu tokoh di `bibel/tokoh.md` (novel, dikelola `bibel-cerita`) atau di `bibel-mini.md` (cerpen).
+- Saat merancang tokoh baru (novel maupun cerpen), SEBELUM menulis: hasil akhirnya disimpan sebagai kartu tokoh di `bibel/tokoh.md` (novel, dikelola `bibel-cerita`) atau di `kanon-mini.md` (cerpen).
 - Saat mendiagnosis tokoh yang terasa datar dalam revisi: jalankan Uji Tokoh di bawah, temukan variabel yang kosong, lalu perbaiki rancangannya (bukan sekadar mengedit adegannya).
 - Bukan untuk menyimpan data: penyimpanan dan perawatan kanon tetap tugas `bibel-cerita`; sidik suara dialog dieksekusi oleh skill `dialog`.
 
@@ -66,7 +66,7 @@ description: Merancang tokoh fiksi dengan variabel pembentukan berlapis — temp
 3. Pasang ≥1 gesekan internal (mis. MBTI F dominan × didikan "laki-laki tidak menangis") dan ≥1 penyimpangan dari stereotip variabelnya.
 4. Untuk tokoh utama: rencanakan SATU momen tidak sempurna sejak desain (iri kecil, egois, pengecut sesaat, bohong kecil) — tokoh tanpa momen ini akan dinilai datar oleh `pembaca-beta` (aspek tokoh & rasa manusia).
 5. Turunkan idiolek awal (3 penanda: kosakata khas, tempo, hal yang TIDAK pernah ia katakan) — eksekusi dialognya oleh skill `dialog`.
-6. Simpan kartu ke `bibel/tokoh.md` / `bibel-mini.md`; selama penulisan, fakta baru kembali ke sana lewat `bibel-cerita`.
+6. Simpan kartu ke `bibel/tokoh.md` / `kanon-mini.md`; selama penulisan, fakta baru kembali ke sana lewat `bibel-cerita`.
 
 ## Aturan Mutu (dilarang keras)
 - **Tokoh santa**: protagonis tanpa cacat yang BERHARGA (cacat harus pernah merugikannya di cerita, bukan cacat kosmetik seperti "terlalu baik").
@@ -106,4 +106,4 @@ description: Merancang tokoh fiksi dengan variabel pembentukan berlapis — temp
 - **Idiolek (awal)**: kosakata […], tempo […], tak pernah berkata […]
 - **Busur**: dari […] menjadi […] — dibayar oleh pilihan: […]
 ```
-Simpan di `bibel/tokoh.md` (novel) atau bagian tokoh `bibel-mini.md` (cerpen).
+Simpan di `bibel/tokoh.md` (novel) atau bagian tokoh `kanon-mini.md` (cerpen).

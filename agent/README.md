@@ -66,5 +66,5 @@ Disimpan dalam subdirektori per judul di bawah `cerpen/`:
 ```
 cerpen/<nomor>-<judul-cerpen>/
 ├── <nomor>-<judul-cerpen>.md   # Naskah prosa cerpen utuh (metadata + draf naskah)
-└── bibel-mini.md               # Catatan tokoh, latar, premis, dan tema (bila dibuat)
+└── kanon-mini.md               # Catatan tokoh, latar, premis, dan tema (bila dibuat)
 ```

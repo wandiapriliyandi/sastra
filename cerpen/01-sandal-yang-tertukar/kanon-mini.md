@@ -1,4 +1,4 @@
-# Bibel Mini: Sandal yang Tertukar
+# Kanon Mini: Sandal yang Tertukar
 
 ## 1. Premis & Tema
 - **Premis**: Sandal jepit butut seorang anak asrama yang diganjal peniti selalu dipinjam misterius tiap malam; surat-menyurat rahasia lewat sandal membongkar kisah anak baru yang kakinya terluka dan mengubah prasangka menjadi empati persahabatan.
