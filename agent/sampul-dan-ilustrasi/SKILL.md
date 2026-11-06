@@ -1,6 +1,6 @@
 ---
 name: sampul-dan-ilustrasi
-description: Merumuskan brief visual terstruktur untuk perancangan sampul buku (cover art) dan ilustrasi tokoh/adegan/latar; memastikan konsistensi kanon fisik dengan isi naskah dan bibel cerita untuk panduan ilustrator atau generator gambar.
+description: Merumuskan brief visual terstruktur untuk perancangan sampul buku (cover art) dan ilustrasi tokoh/adegan/latar; memastikan konsistensi kanon fisik dengan isi naskah dan kanon cerita untuk panduan ilustrator atau generator gambar.
 ---
 
 # Skill: Sampul dan Ilustrasi (Visual Brief)
@@ -10,9 +10,9 @@ description: Merumuskan brief visual terstruktur untuk perancangan sampul buku (
 - Saat membutuhkan ilustrasi adegan kunci, sketsa peta dunia, atau potret tokoh untuk disertakan dalam buku atau materi promosi.
 
 ## Alur Kerja Langkah demi Langkah
-1. **Penyelarasan dengan Kanon Bibel**:
-   - Buka `bibel/tokoh.md` untuk rincian fisik tokoh (bentuk wajah, warna kulit, pakaian khas, bekas luka).
-   - Buka `bibel/dunia.md` untuk arsitektur, lanskap alam, kondisi cuaca, dan nuansa pencahayaan.
+1. **Penyelarasan dengan Kanon Kanon**:
+   - Buka `kanon/tokoh.md` untuk rincian fisik tokoh (bentuk wajah, warna kulit, pakaian khas, bekas luka).
+   - Buka `kanon/dunia.md` untuk arsitektur, lanskap alam, kondisi cuaca, dan nuansa pencahayaan.
 2. **Pemilihan Momen / Simbol Sentral**:
    - Tentukan apakah ilustrasi bersifat:
      - **Figuratif / Karakter**: Menampilkan tokoh sentral dalam gestur emosi kuat.

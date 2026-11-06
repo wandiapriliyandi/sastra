@@ -1,6 +1,6 @@
 ---
 name: riset-latar
-description: Menjalankan riset cepat, presisi, dan terverifikasi secukupnya mengenai latar geografi, profesi, era/zaman, istilah teknis, dan adat istiadat; meringkas hasil temuan untuk diintegrasikan ke bibel cerita karya terkait.
+description: Menjalankan riset cepat, presisi, dan terverifikasi secukupnya mengenai latar geografi, profesi, era/zaman, istilah teknis, dan adat istiadat; meringkas hasil temuan untuk diintegrasikan ke kanon cerita karya terkait.
 ---
 
 # Skill: Riset Latar
@@ -18,8 +18,8 @@ description: Menjalankan riset cepat, presisi, dan terverifikasi secukupnya meng
 3. **Penyaringan & Ekstraksi Inti**:
    - Buang 80% materi ensiklopedis teoritis.
    - Ambil 20% fakta konkret yang langsung bersentuhan dengan emosi atau tindakan fisik tokoh.
-4. **Integrasi ke Bibel Cerita**:
-   - Catat intisari ke dalam berkas `novel/<judul-novel>/bibel/dunia.md` atau `bibel/riset-[topik].md`.
+4. **Integrasi ke Kanon Cerita**:
+   - Catat intisari ke dalam berkas `novel/<judul-novel>/kanon/dunia.md` atau `kanon/riset-[topik].md`.
 
 ## Aturan Mutu
 - **Riset secukupnya (Just-Enough Research)**: Berhenti meneliti segera setelah detail yang dibutuhkan untuk membangun adegan yang meyakinkan terkumpul. Penulis fiksi bukan sedang menulis tesis ilmiah.
@@ -27,7 +27,7 @@ description: Menjalankan riset cepat, presisi, dan terverifikasi secukupnya meng
 - **Format Poin Padat**: Seluruh hasil riset wajib disusun dalam poin-poin ringkas agar tidak membebani jendela konteks token saat dibaca ulang.
 
 ## Format Keluaran
-Disimpan di: `novel/<judul-novel>/bibel/dunia.md` atau sub-bagian riset karya terkait.
+Disimpan di: `novel/<judul-novel>/kanon/dunia.md` atau sub-bagian riset karya terkait.
 
 ```markdown
 ## Catatan Riset: [Topik / Profesi / Lokasi / Era]

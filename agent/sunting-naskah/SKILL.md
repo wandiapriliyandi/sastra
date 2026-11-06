@@ -1,6 +1,6 @@
 ---
 name: sunting-naskah
-description: Melakukan penyuntingan naskah (novel per bab atau cerpen) mencakup kesinambungan bibel, konsistensi tokoh, lintasan khusus rasa manusia (anti-AI slop), pacing, dan kebahasaan, dengan keluaran daftar temuan serta perbaikan bedah.
+description: Melakukan penyuntingan naskah (novel per bab atau cerpen) mencakup kesinambungan kanon, konsistensi tokoh, lintasan khusus rasa manusia (anti-AI slop), pacing, dan kebahasaan, dengan keluaran daftar temuan serta perbaikan bedah.
 ---
 
 # Skill: Sunting Naskah
@@ -10,8 +10,8 @@ description: Melakukan penyuntingan naskah (novel per bab atau cerpen) mencakup 
 - Dijalankan per satuan kecil (per bab atau per cerpen), bukan seluruh buku sekaligus.
 
 ## Alur Kerja Langkah demi Langkah
-1. **Pemeriksaan Kontinuitas & Kepatuhan Bibel**:
-   - Bandingkan naskah dengan berkas di `bibel/` (tokoh, dunia, garis waktu).
+1. **Pemeriksaan Kontinuitas & Kepatuhan Kanon**:
+   - Bandingkan naskah dengan berkas di `kanon/` (tokoh, dunia, garis waktu).
    - Catat jika ada diskrepansi fisik, umur, atau lini masa.
 2. **Lintasan Khusus: Pemeriksaan Rasa Manusia (Human Touch Pass)**:
    - **Pindai terukur dulu (wajib, lihat AGENTS.md §4.7)**: hitung penanda simile per kata ("laksana"/"layaknya" ≤ 5 untuk kata yang sama; total `laksana+layaknya+bagai+seolah-olah` ≤ 12) dan kata penguat ("mendadak" ≤ 4, "luar biasa" ≤ 3) per cerpen 3.000–4.500 kata. Pengulangan berpola adalah tanda mesin nomor satu dan TIDAK terlihat tanpa menghitung. Cantumkan angka hitungan di laporan sunting.
@@ -44,16 +44,16 @@ Hasil penyuntingan berupa naskah yang telah diperbarui serta laporan temuan ring
 
 ## 1. Ringkasan Eksekutif Mutu
 - **Status Naskah**: [Layak / Perlu Revisi Minor / Perlu Revisi Mayor]
-- **Kepatuhan Bibel**: [Konsisten / Ada Diskrepansi]
+- **Kepatuhan Kanon**: [Konsisten / Ada Diskrepansi]
 - **Uji Rasa Manusia**: [Lolos / Terdapat Perbaikan Anti-Slop]
 
 ## 2. Daftar Temuan Kunci & Solusi
 | No | Kategori | Temuan di Naskah | Perbaikan yang Diterapkan |
 |---|---|---|---|
 | 1 | Rasa Manusia | Diksi klise AI ("senyum tipis terukir di bibirnya"). | Diganti gestur konkret ("ia mengetuk-ngetukkan jari ke meja kayu"). |
-| 2 | Kontinuitas | Umur tokoh di bab tertulis 28 thn, padahal di bibel 32 thn. | Disesuaikan menjadi 32 tahun sesuai bibel/tokoh.md. |
+| 2 | Kontinuitas | Umur tokoh di bab tertulis 28 thn, padahal di kanon 32 thn. | Disesuaikan menjadi 32 tahun sesuai kanon/tokoh.md. |
 | 3 | Ejaan / EYD | Kata "merubah" dan "nafas". | Diubah menjadi "mengubah" dan "napas". |
 
 ## 3. Catatan Tindak Lanjut untuk Bab Berikutnya
-- [Catatan jika ada fakta baru yang perlu diperbarui ke bibel cerita]
+- [Catatan jika ada fakta baru yang perlu diperbarui ke kanon cerita]
 ```

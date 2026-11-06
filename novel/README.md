@@ -11,7 +11,7 @@ Setiap proyek novel disimpan dalam folder tersendiri: `novel/<nomor>-<judul-nove
 ```
 novel/<nomor>-<judul-novel>/
 ├── sinopsis.md                 # Premis, logline, tema, struktur babak, dan sinopsis lengkap
-├── bibel/                      # Bibel cerita per karya
+├── kanon/                      # Kanon cerita per karya
 │   ├── tokoh.md                # Profil watak, want/need, idiolek dialog
 │   ├── dunia.md                # Latar tempat, budaya, aturan sosial, riset
 │   ├── relasi.md               # Peta hubungan antartokoh
@@ -30,5 +30,5 @@ novel/<nomor>-<judul-novel>/
 
 ## ⚡ Aturan Pengerjaan Novel
 - Rujuk pedoman kerja di [`/home/hatch/workspace/sastra/AGENTS.md`](file:///home/hatch/workspace/sastra/AGENTS.md).
-- Gunakan kumpulan keahlian di direktori [`agent/`](file:///home/hatch/workspace/sastra/agent/README.md) (`rencana-novel`, `bibel-cerita`, `kerangka-bab`, `tulis-bab`, `sunting-naskah`, `dialog`, `pembaca-beta`, dll.).
+- Gunakan kumpulan keahlian di direktori [`agent/`](file:///home/hatch/workspace/sastra/agent/README.md) (`rencana-novel`, `kanon-cerita`, `kerangka-bab`, `tulis-bab`, `sunting-naskah`, `dialog`, `pembaca-beta`, dll.).
 - Terapkan disiplin [`agent/efisiensi-token`](file:///home/hatch/workspace/sastra/agent/efisiensi-token/SKILL.md): tulis bertahap bab per bab dengan konteks minimal yang cukup.

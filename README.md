@@ -14,7 +14,7 @@ Ruang kerja terstruktur untuk kepenulisan sastra fiksi berbahasa Indonesia di `/
 ├── agent/                             # Pustaka Keahlian Menulis Fiksi (Agent Skills)
 │   ├── README.md                      # Indeks 19 skill & konvensi berkas
 │   ├── rencana-novel/SKILL.md         # Premis, logline, tema, struktur babak, sinopsis
-│   ├── bibel-cerita/SKILL.md          # Bibel cerita: dunia, tokoh, relasi, garis waktu
+│   ├── kanon-cerita/SKILL.md          # Kanon cerita: dunia, tokoh, relasi, garis waktu
 │   ├── kerangka-bab/SKILL.md          # Kerangka per bab: tujuan, konflik, adegan, pancingan
 │   ├── tulis-bab/SKILL.md             # Draf prosa bab patuh kanon & uji rasa manusia
 │   ├── tulis-cerpen/SKILL.md          # Alur lengkap cerpen dari ide sampai draf jadi
@@ -47,5 +47,5 @@ Ruang kerja terstruktur untuk kepenulisan sastra fiksi berbahasa Indonesia di `/
 Semua agen wajib mematuhi pedoman di [`AGENTS.md`](file:///home/hatch/workspace/sastra/AGENTS.md):
 1. **Sasaran Pembaca Bawaan (Remaja 13–18 Tahun)**: Berakar pada dinamika sekolah/madrasah/pesantren, persahabatan, keluarga, cita-cita, dan pencarian jati diri.
 2. **Posisi Karya (Universalitas vs Santri)**: Menjangkau anak pesantren secara nyata, tetapi **tidak boleh terlihat dibuat "untuk santri"**. Nilai-nilai adab dan ketulusan dihadirkan secara tersirat (*subtle*), kemasan terbuka dan memikat bagi seluruh remaja umum tanpa berbau dakwah atau eksklusif sektarian.
-3. **Disiplin Efisiensi Token**: Membaca naskah per potongan, menulis bertahap dengan konteks minimal yang cukup, merawat bibel dalam butir-butir poin, dan menyunting bedah setempat.
+3. **Disiplin Efisiensi Token**: Membaca naskah per potongan, menulis bertahap dengan konteks minimal yang cukup, merawat kanon dalam butir-butir poin, dan menyunting bedah setempat.
 4. **Aturan Rasa Manusia**: Ritme kalimat dinamis bervariasi, detail inderawi spesifik lokal Nusantara, dialog wajar berperilaku manusia, membasmi klise AI, serta menyisakan ruang tafsir bagi pembaca.

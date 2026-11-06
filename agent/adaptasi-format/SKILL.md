@@ -22,7 +22,7 @@ description: Mengalihformatkan karya fiksi lintas bentuk: memekarkan cerpen menj
    - **Pemuaian (Cerpen -> Novel)**:
      - Buka ruang untuk sub-plot B (relasi interpersonal) dan sub-plot C (perjalanan batin).
      - Kembangkan tokoh pendukung dari sekadar bayangan menjadi karakter tiga dimensi.
-     - Bangun dunia dan latar secara lebih berjenjang; bagi alur menjadi struktur babak di `sinopsis.md`, lalu buat `bibel/` dan `kerangka/`.
+     - Bangun dunia dan latar secara lebih berjenjang; bagi alur menjadi struktur babak di `sinopsis.md`, lalu buat `kanon/` dan `kerangka/`.
    - **Pemadatan (Novel -> Cerpen / Naskah Singkat)**:
      - Pangkas seluruh ranting sub-plot; fokus hanya pada satu garis konflik utama.
      - Konsolidasikan peran beberapa tokoh pendukung menjadi satu tokoh fungsional.

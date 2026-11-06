@@ -1,6 +1,6 @@
 ---
 name: dialog
-description: Menggarap percakapan sastra berbobot, membedakan sidik suara tokoh (idiolek) sesuai bibel cerita, menanamkan subteks tersembunyi, mengatur ritme tutur, serta menerapkan gerbang uji rasa manusia.
+description: Menggarap percakapan sastra berbobot, membedakan sidik suara tokoh (idiolek) sesuai kanon cerita, menanamkan subteks tersembunyi, mengatur ritme tutur, serta menerapkan gerbang uji rasa manusia.
 ---
 
 # Skill: Dialog
@@ -12,8 +12,8 @@ description: Menggarap percakapan sastra berbobot, membedakan sidik suara tokoh 
 > **Aturan Posisi Karya (Wajib AGENTS.md)**: Dialog santri/remaja berbunyi wajar layaknya anak muda sungguhan; dilarang berceramah/berkhotbah, tanpa kutipan dalil artifisial; nilai kebaikan tercermin dari laku dan sikap tokoh secara inklusif (remaja umum tidak merasa diceramahi, santri mengenali dunianya secara diam-diam).
 
 ## Alur Kerja Langkah demi Langkah
-1. **Pemeriksaan Sidik Suara (Idiolek) dari Bibel**:
-   - Buka `bibel/tokoh.md` untuk tokoh yang terlibat.
+1. **Pemeriksaan Sidik Suara (Idiolek) dari Kanon**:
+   - Buka `kanon/tokoh.md` untuk tokoh yang terlibat.
    - Periksa karakteristik wicara masing-masing: panjang rata-rata kalimat, pilihan kosakata, dan nada emosi dasar.
 2. **Penyusunan Lapisan Subteks**:
    - Tentukan *Teks* (kata harfiah yang keluar dari mulut tokoh).

@@ -6,24 +6,24 @@ description: Pedoman dan tata kerja disiplin konsumsi token untuk proyek kepenul
 # Skill: Efisiensi Token dalam Proyek Sastra
 
 ## Kapan Dipakai
-- **Wajib dipatuhi setiap saat** oleh seluruh agen dan asisten yang bekerja di proyek sastra ini, mencakup proses perencanaan, perancangan bibel, penulisan prosa, hingga penyuntingan.
+- **Wajib dipatuhi setiap saat** oleh seluruh agen dan asisten yang bekerja di proyek sastra ini, mencakup proses perencanaan, perancangan kanon, penulisan prosa, hingga penyuntingan.
 
 ## Prinsip Pokok Disiplin Token Fiksi
 
 1. **Pembacaan Selektif (Per Potongan / Chunking)**:
    - Baca berkas per potongan: per bab, per adegan, atau per rentang baris/judul bagian.
-   - **DILARANG** memuat seluruh naskah novel (puluhan ribu kata) atau seluruh berkas bibel jika yang dibutuhkan hanya satu tokoh atau satu adegan tertentu.
+   - **DILARANG** memuat seluruh naskah novel (puluhan ribu kata) atau seluruh berkas kanon jika yang dibutuhkan hanya satu tokoh atau satu adegan tertentu.
    - Gunakan pencarian kata kunci atau `grep` untuk melompat langsung ke bagian yang relevan.
 
-2. **Bibel & Kerangka Ringkas (Poin-Poin)**:
-   - Tulis bibel cerita (`bibel/*.md`) dan kerangka bab (`kerangka/*.md`) dalam bentuk butir-butir poin padat (*bullet points*), bukan narasi paragraf panjang.
+2. **Kanon & Kerangka Ringkas (Poin-Poin)**:
+   - Tulis kanon cerita (`kanon/*.md`) dan kerangka bab (`kerangka/*.md`) dalam bentuk butir-butir poin padat (*bullet points*), bukan narasi paragraf panjang.
    - Format poin jauh lebih hemat token saat dibaca ulang berulang kali dan mempermudah pencarian fakta.
 
 3. **Penulisan Bertahap Bersatuan Kecil (Minimal Context)**:
    - Tulis naskah secara bertahap: **satu bab atau satu adegan per giliran**.
    - Muat hanya konteks minimal yang cukup:
      - 1 paragraf sinopsis babak terkait dari `sinopsis.md`.
-     - Potongan entri tokoh/latar yang relevan dari `bibel/`.
+     - Potongan entri tokoh/latar yang relevan dari `kanon/`.
      - Berkas kerangka bab bersangkutan (`kerangka/bab-[XX].md`).
    - Jangan menyertakan bab-bab sebelumnya ke dalam jendela konteks kecuali benar-benar diperlukan untuk kontinuitas langsung kalimat pembuka.
 
@@ -41,7 +41,7 @@ description: Pedoman dan tata kerja disiplin konsumsi token untuk proyek kepenul
 
 ## Aturan Mutu & Audit Token
 - [ ] Apakah saya hanya membaca berkas yang langsung berkaitan dengan bab/tugas ini?
-- [ ] Apakah bibel ditulis dalam poin-poin hemat kata?
+- [ ] Apakah kanon ditulis dalam poin-poin hemat kata?
 - [ ] Apakah draf naskah dikerjakan satu satuan bab per sesi?
 - [ ] Apakah revisi dilakukan secara bedah lokal tanpa mencetak ulang seluruh bab?
 - [ ] Apakah tanggapan saya bebas dari kutipan teks raksasa yang mubazir?

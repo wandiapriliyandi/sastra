@@ -1,13 +1,13 @@
 ---
 name: tulis-bab
-description: Menulis draf prosa satu bab novel secara bertahap mengikuti kerangka bab, bibel cerita, dan sinopsis; patuh pada kanon bibel, gaya bahasa konsisten, berorientasi Show Don't Tell, dan lolos uji rasa manusia.
+description: Menulis draf prosa satu bab novel secara bertahap mengikuti kerangka bab, kanon cerita, dan sinopsis; patuh pada kanon kanon, gaya bahasa konsisten, berorientasi Show Don't Tell, dan lolos uji rasa manusia.
 ---
 
 # Skill: Tulis Bab
 
 ## Kapan Dipakai
 - Saat menulis draf isi bab novel tertentu (dikerjakan bab per bab, bukan maraton seluruh novel sekaligus).
-- Prasyarat: `novel/<judul-novel>/sinopsis.md`, berkas relevan di `bibel/`, dan `kerangka/bab-[XX].md` sudah siap.
+- Prasyarat: `novel/<judul-novel>/sinopsis.md`, berkas relevan di `kanon/`, dan `kerangka/bab-[XX].md` sudah siap.
 
 > **Aturan Sasaran & Posisi Karya (Wajib AGENTS.md)**: 
 > - Sasaran: **Remaja umum (13–18 tahun)**.
@@ -17,14 +17,14 @@ description: Menulis draf prosa satu bab novel secara bertahap mengikuti kerangk
 1. **Pemuatan Konteks Minimal (Hemat Token)**:
    - Baca ringkasan `sinopsis.md` (hanya bagian babak yang relevan dan konfirmasi sasaran pembaca).
    - Baca berkas `kerangka/bab-[XX].md` untuk bab yang akan ditulis.
-   - Buka entri tokoh dan latar di `bibel/` HANYA untuk tokoh dan latar yang muncul di bab tersebut.
+   - Buka entri tokoh dan latar di `kanon/` HANYA untuk tokoh dan latar yang muncul di bab tersebut.
    - Baca preferensi suara di `agent/profil-gaya.md` jika tersedia.
 2. **Eksekusi Penulisan Prosa**:
    - Mulai dengan *hook* kalimat pembuka sesuai kerangka.
    - Kembangkan urutan adegan dengan aksi nyata, dialog hidup, dan suasana indrawi konkret.
    - Terapkan *Show Don't Tell*: perlihatkan kegelisahan batin lewat gestur fisik dan pilihan tindakan tokoh.
 3. **Penyelarasan Fakta & Posisi Karya**:
-   - Pastikan fakta 100% konsisten dengan `bibel/`.
+   - Pastikan fakta 100% konsisten dengan `kanon/`.
    - Hindari kesalehan performatif; biarkan tokoh santri atau remaja memiliki kerapuhan, keraguan, dan perjuangan batin manusiawi.
 4. **Pemeriksaan Rasa Manusia (Langkah Wajib Akhir)**:
    - Periksa ritme kalimat: variasikan panjang-pendek; hilangkan irama monoton mesin.
@@ -36,7 +36,7 @@ description: Menulis draf prosa satu bab novel secara bertahap mengikuti kerangk
    - Simpan naskah draf di: `novel/<judul-novel>/bab/bab-[XX].md` (contoh: `bab-01.md`).
 
 ## Aturan Mutu
-- **Kepatuhan Kanon & Posisi Karya**: Selaras dengan bibel, aman bagi remaja, dan bernilai universal.
+- **Kepatuhan Kanon & Posisi Karya**: Selaras dengan kanon, aman bagi remaja, dan bernilai universal.
 - **Konsistensi Sudut Pandang**: Jaga sudut pandang tetap di kepala tokoh POV yang ditentukan di kerangka; dilarang *head-hopping*.
 - **Rasa Manusia Hidup**: Draf berdegup emosi organik, bebas dari kekakuan bahasa mesin atau ceramah moral.
 

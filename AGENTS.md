@@ -18,7 +18,7 @@ Secara bawaan (*default*), **seluruh karya tulis fiksi dalam proyek ini ditujuka
 4. **Tokoh Utama Sebaya**:
    - Protagonis utama umumnya berusia sebaya dengan pembaca target (13–18 tahun) atau menghadapi transisi penting menuju kedewasaan awal.
 5. **Pencatatan Pengecualian**:
-   - Bila pemilik menetapkan sasaran selain remaja (misal: dewasa umum, anak-anak, atau akademis), pengecualian tersebut wajib dicatat secara tertulis pada `sinopsis.md`, `bibel/`, dan `INDEKS_KARYA.md`.
+   - Bila pemilik menetapkan sasaran selain remaja (misal: dewasa umum, anak-anak, atau akademis), pengecualian tersebut wajib dicatat secara tertulis pada `sinopsis.md`, `kanon/`, dan `INDEKS_KARYA.md`.
 
 ---
 
@@ -47,9 +47,9 @@ Aturan ini **BERLAKU UNTUK SEMUA KARYA** tanpa pengecualian:
    - Baca berkas per bab, per adegan, atau per rentang baris yang relevan menggunakan pencarian kata kunci.
 2. **Konteks Minimal Cukup Saat Menulis**:
    - Tulis bertahap per satuan kecil (satu bab atau satu adegan per giliran).
-   - Muat hanya: potongan sinopsis terkait + profil tokoh bersangkutan di bibel + kerangka bab itu saja.
-3. **Bibel & Kerangka Berbasis Poin**:
-   - Tulis bibel cerita (`bibel/`) dan kerangka bab (`kerangka/`) secara ringkas dalam bentuk poin-poin padat, bukan paragraf panjang bertele-tele.
+   - Muat hanya: potongan sinopsis terkait + profil tokoh bersangkutan di kanon + kerangka bab itu saja.
+3. **Kanon & Kerangka Berbasis Poin**:
+   - Tulis kanon cerita (`kanon/`) dan kerangka bab (`kerangka/`) secara ringkas dalam bentuk poin-poin padat, bukan paragraf panjang bertele-tele.
 4. **Penyuntingan Bedah Setempat**:
    - Sunting secara bedah pada paragraf/adegan yang bermasalah. Jangan menulis ulang seluruh bab hanya untuk perbaikan setempat.
 5. **Keluaran Laporan Padat**:
@@ -100,7 +100,7 @@ Semua karya fiksi harus mematuhi struktur direktori berikut:
 - **Penomoran Judul (urutan buat)**: Setiap karya diberi nomor urut dua digit sesuai urutan pembuatannya, dipakai sebagai awalan nama folder dan berkas utama — cerpen dan novel dinomori terpisah (misal `01`, `02`, ...). Nomor tidak diubah dan tidak dipakai ulang walau karya dihapus. Judul di dalam naskah tetap bersih tanpa nomor; nomor hanya untuk pengurutan berkas dan indeks.
 - **Novel**: `novel/<nomor>-<judul-novel>/`
   - `sinopsis.md` : Premis, tema, struktur babak, sasaran pembaca, dan sinopsis lengkap.
-  - `bibel/`       : Bibel cerita (`tokoh.md`, `dunia.md`, `relasi.md`, `garis-waktu.md`, dll.).
+  - `kanon/`       : Kanon cerita (`tokoh.md`, `dunia.md`, `relasi.md`, `garis-waktu.md`, dll.).
   - `kerangka/`    : Kerangka per bab (`bab-01.md`, `bab-02.md`, ...).
   - `bab/`         : Naskah draf prosa per bab (`bab-01.md`, `bab-02.md`, ...).
 - **Cerpen**: `cerpen/<nomor>-<judul-cerpen>/`

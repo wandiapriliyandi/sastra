@@ -7,7 +7,7 @@ description: Membuat kerangka operasional per bab yang memuat tujuan bab, konfli
 
 ## Kapan Dipakai
 - Sebelum menulis draf prosa suatu bab tertentu pada proyek novel.
-- Setelah `sinopsis.md` dan `bibel/` tersedia. Dikerjakan bertahap (per bab atau per gelombang beberapa bab), bukan sekaligus jika belum dibutuhkan.
+- Setelah `sinopsis.md` dan `kanon/` tersedia. Dikerjakan bertahap (per bab atau per gelombang beberapa bab), bukan sekaligus jika belum dibutuhkan.
 
 ## Alur Kerja Langkah demi Langkah
 1. **Identifikasi Posisi Bab**:

@@ -7,7 +7,7 @@ description: Menyusun premis, logline, tema, struktur besar (babak), dan sinopsi
 
 ## Kapan Dipakai
 - Saat memulai proyek novel baru dari nol atau mengembangkan ide mentah menjadi rencana narasi utuh.
-- Sebelum membuat bibel cerita (`bibel/`), kerangka bab (`kerangka/`), atau draf bab (`bab/`).
+- Sebelum membuat kanon cerita (`kanon/`), kerangka bab (`kerangka/`), atau draf bab (`bab/`).
 
 > **Aturan Sasaran & Posisi Karya**:
 > - **Sasaran Bawaan**: Pembaca **Remaja (13–18 tahun)**, kecuali ada catatan khusus di sinopsis.
