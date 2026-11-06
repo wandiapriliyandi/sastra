@@ -76,7 +76,7 @@ Disusul seberkas cahaya senter kuning panjang yang menyapu permukaan lapangan ba
 
 "Pak Joko!" bisikku panik sambil menarik ujung kaus Bayu keras-keras.
 
-Kami berdua langsung menjatuhkan diri ke balik gundukan tanah galian pipa air yang ditumbuhi semak putri malu. Dadaku menempel rapat di tanah yang dingin dan lembap, bau tanah basah dan daun busuk menusuk hidungku. Hatiku berdegup begitu kencang laksana genderang drum band upacara bendera, takut setengah mati kalau-kalau sorot senter satpam tua itu menemukan punggung kami.
+Kami berdua langsung menjatuhkan diri ke balik gundukan tanah galian pipa air yang ditumbuhi semak putri malu. Dadaku menempel rapat di tanah yang dingin dan lembap, bau tanah basah dan daun busuk menusuk hidungku. Hatiku berdegup kencang sekali, sampai telingaku sendiri berdenging, takut setengah mati kalau-kalau sorot senter satpam tua itu menemukan punggung kami.
 
 Pak Joko melintas dengan tenang di atas sepeda ontel tuanya, pipa rokok kretek aroma cengkihnya mengepulkan asap putih tipis ke udara malam. Berkas cahaya senternya menyapu tiang ring basket, memantul di papan pantul tripleks, lalu perlahan bergerak menjauh menuju pos jaga belakang di dekat kandang ayam yayasan.
 
@@ -90,7 +90,7 @@ Kami berdua menghembuskan napas lega secara bersamaan, saling pandang di kegelap
 
 Kami melanjutkan langkah, menembus deretan pohon pisang kipas yang rimbun, menyeberangi parit irigasi kering yang dipenuhi batu kali, hingga akhirnya kami tiba di pelataran belakang gedung laboratorium Fisika lama.
 
-Gedung tua itu berdiri terpencil di bibir tebing jurang kecil yang berbatasan langsung dengan kebun salak milik warga desa. Cat dindingnya yang berwarna abu-abu semen sudah mengelupas parah dimakan lumut hitam dan jamur lembap, sementara kaca-kaca jendelanya buram berdebu laksana mata kakek-kakek yang katarak. Gedung ini dulunya tempat praktikum fisika dasar era tahun 1980-an, tetapi sejak laboratorium baru dibangun di gedung sayap barat, bangunan ini dibiarkan merana sendirian, hanya digunakan untuk menyimpan bangkai meja kayu dan tabung kaca pecah.
+Gedung tua itu berdiri terpencil di bibir tebing jurang kecil yang berbatasan langsung dengan kebun salak milik warga desa. Cat dindingnya yang berwarna abu-abu semen sudah mengelupas parah dimakan lumut hitam dan jamur lembap, sementara kaca-kaca jendelanya buram berdebu, beberapa retak rambut dan ditutup sarang laba-laba di sudut-sudutnya. Gedung ini dulunya tempat praktikum fisika dasar era tahun 1980-an, tetapi sejak laboratorium baru dibangun di gedung sayap barat, bangunan ini dibiarkan merana sendirian, hanya digunakan untuk menyimpan bangkai meja kayu dan tabung kaca pecah.
 
 Di dinding belakang bagian barat gedung tersebut, menempel sebuah tangga monyet vertikal yang terbuat dari pipa besi hitam berdiameter lima sentimeter. Tangga itu membentang setinggi delapan meter lurus ke atas, menghubungkan tanah berbatu dengan bibir atap dak beton tempat tandon air utama asrama bertengger.
 
@@ -142,8 +142,6 @@ Ia menarik napas panjang yang gemetar, lalu melanjutkan: "Ibu sendirian jaga Aya
 
 Aku terdiam seribu bahasa. Di hadapan kenyataan hidup yang begitu keras dan dingin seperti itu, semua nasihat penghiburan yang biasa dibaca di buku-buku motivasi mendadak terdengar murahan dan memalukan.
 
-Seorang anak laki-laki berusia enam belas tahun yang harus melepaskan masa mudanya, teman-temannya, dan sudut-sudut pelarian asramanya demi menjadi tiang penopang keluarganya yang sedang roboh.
-
 Aku tidak tahu harus berkata apa. Maka aku hanya merogoh saku dalam celana training-ku, mengeluarkan sebuah bungkusan kertas koran bekas yang sudah kusiapkan sejak sore tadi dari lemari kamarku.
 
 "Nih," kataku sambil menyodorkan bungkusan itu ke pangkuan Bayu.
@@ -166,7 +164,7 @@ Bayu menatap ubi itu beberapa detik, lalu sudut bibirnya terangkat tipis. Tawa k
 
 Rasa manis legit karamel ubi dingin itu memenuhi rongga mulut kami, bercampur dengan dinginnya udara malam yang semakin larut menusuk kulit.
 
-Kami memakan ubi itu dalam keheningan yang panjang, damai, dan khidmat. Tidak ada pidato perpisahan yang mengharu-biru. Tidak ada janji-janji klise bahwa kami akan saling berkirim kabar lewat surat pos setiap minggu. Kami hanya dua anak remaja laki-laki yang sedang duduk berdampingan di atas atap sebuah bangunan tua yang terlupakan, menikmati detik-detik terakhir dari sebuah persahabatan yang telah menyelamatkan kami dari rasa kesepian masa remaja.
+Kami memakan ubi itu dalam keheningan yang panjang, damai, dan khidmat. Tidak ada pidato perpisahan yang mengharu-biru. Tidak ada janji-janji klise bahwa kami akan saling berkirim kabar lewat surat pos setiap minggu. Kami cuma duduk berdampingan saja dan mengunyah pelan-pelan.
 
 Setelah ubi itu habis tak bersisa, Bayu merogoh saku belakang celananya. Ia mengeluarkan drawing pen Snowman 0.2 hitam miliknya yang tintanya seret tadi, lalu berlutut menghadap ke dinding silinder tandon air beton di samping kami.
 
@@ -188,7 +186,7 @@ Di bawah tulisan itu, ia menambahkan dua baris inisial pendek yang diukir dengan
 
 "Keren banget, Bay," bisikku pelan, menatap tulisan tinta hitam yang kini terpatri abadi di dinding semen tandon air itu. "Nanti pas balik ke kamar, kita langsung salin ke kertas kalkirnya."
 
-Bayu memasukkan pulpennya kembali ke saku celananya, lalu berdiri mematikan senterku. Di kegelapan malam yang kembali menyelimuti kami, ia menatap dinding tandon air itu beberapa detik lebih lama, seolah-olah sedang menitipkan separuh jiwanya di atas dak beton tersebut.
+Bayu memasukkan pulpennya kembali ke saku celananya, lalu berdiri mematikan senterku. Di kegelapan malam yang kembali menyelimuti kami, ia menatap dinding tandon air itu beberapa detik lebih lama, tidak bilang apa-apa.
 
 "Ham," panggil Bayu pelan.
 
@@ -248,4 +246,4 @@ Mobil minibus biru itu berbelok di tikungan kebun salak dan perlahan-lahan mengh
 
 Aku mendongakkan kepalaku ke atas.
 
-Jauh di puncak bukit sana, di atas atap laboratorium tua yang sepi dan terpencil, menara tandon air beton itu tampak berdiri kokoh disinari cahaya fajar yang hangat. Dan di dindingnya yang tinggi menjulang, goresan tinta hitam kami masih berdiri tegak menyongsong langit terbuka—sebuah tanda bisu bahwa persahabatan masa remaja kami pernah ada, pernah hidup, dan tidak akan pernah benar-benar lenyap ditelan waktu.
+Jauh di puncak bukit sana, di atas atap laboratorium tua yang sepi dan terpencil, menara tandon air beton itu tampak berdiri kokoh disinari cahaya fajar yang hangat. Dan di dindingnya yang tinggi menjulang, goresan tinta hitam kami masih berdiri tegak menyongsong langit terbuka.
