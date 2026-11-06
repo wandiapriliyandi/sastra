@@ -286,7 +286,7 @@ Angin malam kembali meniup gumpalan mendung tebal dari arah barat, menutup celah
 
 Teras lantai empat kembali hening. Suara deru motor murid-murid terdengar sayup-sayup menjauh dari gerbang utama di bawah.
 
-Niko sedang membungkuk di sudut selasar, menggulung kabel speaker kecil dengan senyum lebar yang tidak mau lepas dari bibirnya. "Kak, tadi si Dimas anak Paskibra nanya, minggu depan kita kumpul hari apa. Katanya dia mau ikut daftar kalau ada pengamatan lagi."
+Niko sedang membungkuk di sudut selasar, merapikan sisa lembaran fotokopi poster ke ranselnya dengan senyum lebar yang tidak mau lepas dari bibirnya. "Kak, tadi si Dimas anak Paskibra nanya, minggu depan kita kumpul hari apa. Katanya dia mau ikut daftar kalau ada pengamatan lagi."
 
 "Hari Kamis," jawabku sambil membereskan botol termos dan cangkir-cangkir plastik yang berserakan. "Bawa formulir pendaftaran dari laci meja."
 
