@@ -2,419 +2,277 @@
 
 Hukuman itu berbunyi resmi sekali waktu dibacakan Pak Darma di depan kantor piket: "Raka, Kamar 2C. Menukar jadwal jaga malam tanpa izin. Piket dapur, satu minggu, mulai sore ini." Anak-anak yang lewat menoleh. Ada yang senyum-senyum. Aku ikut senyum, padahal perutku rasanya turun ke lutut. "Siap, Pak," kataku. "Aman, aman."
 
-Yang kulakukan sebenarnya sepele. Jadwal jaga malamku kutukar ke anak kelas satu yang memang tidak bisa tidur cepat, lalu aku menyelundup ke ruang TV guru buat nonton final bola. Seru. Kami menang. Dan Pak Darma berdiri di pintu ruang TV tepat saat selebrasi gol kedua, membawa senter dan daftar nama. Senternya menyorot wajahku lama sekali, lebih lama dari yang perlu.
+Yang kulakukan sebenarnya sepele. Jadwal jaga malamku kutukar ke anak kelas satu yang memang susah tidur cepat, lalu aku menyelundup ke ruang TV guru buat nonton final bola. Seru. Tim kami menang. Sialnya, Pak Darma berdiri di pintu ruang TV tepat saat selebrasi gol kedua, membawa senter dan buku catatan. Senternya menyorot wajahku lama sekali.
 
-Sore pertama, aku datang ke dapur pukul setengah lima dengan seragam masih lengkap. Dapur asrama sore hari itu uap dan bunyi: dandang besar mengepulkan nasi, bak cuci penuh rendaman piring makan siang, lantai semen basah di mana-mana. Bau bawang merah menusuk dari arah meja kayu panjang di sudut, tempat seorang anak duduk mengupas bawang satu baskom penuh tanpa menoleh.
+Sore pertama, aku datang ke dapur pukul setengah lima dengan seragam lengkap. Dapur asrama sore hari itu uap dan bunyi: dandang mengepulkan nasi, bak cuci penuh rendaman piring, lantai semen basah di mana-mana. Bau bawang merah menusuk dari arah meja kayu panjang di sudut, tempat seorang anak duduk mengupas bawang sebaskom penuh tanpa menoleh.
 
 "Yang baru?" katanya.
 
 "Iya. Raka. Hukuman seminggu."
 
-"Duta." Ia mengangguk ke arah celemek yang tergantung di paku. "Pakai itu. Tanganmu jangan dekat-dekat wajan kalau belum kusuruh."
+"Duta." Ia mengangguk ke arah celemek di paku dinding. "Pakai itu. Tanganmu jangan dekat-dekat wajan kalau belum kusuruh."
 
-Celemeknya kebesaran, talinya kulilit dua kali di pinggang. Bu Lastri muncul dari ruang belakang membawa ember, menatapku dari ujung rambut sampai sepatu, lalu berkata, "Cuci beras. Empat kali." Habis itu ia pergi lagi, seperti aku ini tambahan perabot yang tidak perlu dijelaskan.
+Celemeknya kebesaran, talinya kulilit dua kali di pinggang. Bu Lastri muncul dari ruang belakang membawa ember, menatapku dari ujung rambut sampai sepatu, lalu berkata, "Cuci beras. Empat kali." Habis itu ia pergi lagi, seolah aku perabot tambahan yang tak perlu banyak cakap.
 
-Mencuci beras ternyata ada tekniknya, dan aku tidak punya teknik itu. Air kubuang terlalu miring, berasnya ikut meluncur ke bak cuci. Duta menghela napas lewat hidung — bukan marah, lebih seperti orang yang sudah menduga. "Pakai tangan. Tahan pakai tangan." Ia menunjukkan sekali, pelan, telapaknya menahan beras sementara air keruh tumpah ke bak. "Empat kali. Sampai airnya tidak putih lagi."
+Mencuci beras ternyata ada tekniknya, dan aku tidak punya itu. Air kubuang terlalu miring, berasnya ikut meluncur ke bak cuci. Duta menghela napas lewat hidung—bukan marah, lebih seperti orang yang sudah menduga. "Pakai tangan. Tahan." Ia mencontohkan sekali, telapaknya menahan beras sementara air keruh tumpah. "Empat kali. Sampai airnya bening."
 
 "Siap. Aman, aman."
 
 "Jangan kebanyakan janji. Kerja saja."
 
-Hari pertama tugasku tidak naik kelas dari urusan bawang. Duduk di bangku kayu rendah, mengupas bawang merah sebaskom, dan menangis tanpa suara karena perihnya. Duta mengupas di ujung meja yang sama, cepat, kulit bawang terlepas utuh seperti ia memang dilahirkan dengan kuku khusus bawang. Sesekali ia melirik tumpukan kupasanku yang bentuknya sudah tidak karuan — bawang-bawangku terkupas sampai dagingnya ikut terkerat.
+Hari pertama tugasku mentok di urusan bawang. Duduk di bangku kayu rendah, mengupas bawang merah sebaskom, dan menangis tanpa suara karena perihnya. Duta mengupas di ujung meja yang sama, cepat, kulit bawang terlepas utuh seperti kuku jarinya memang dirancang untuk itu. Sesekali ia melirik tumpukan kupasanku yang dagingnya ikut terkerat tebal.
 
-"Itu bukan dikupas. Itu disiksa," katanya.
+"Itu bukan dikupas. Itu disiksa," komentarnya datar.
 
-"Di rumahku bawang sudah datang dalam keadaan kupas," kataku membela diri. "Kadang sudah dalam bentuk sambal."
+"Di rumahku bawang sudah datang dalam keadaan kupas," belaku. "Kadang sudah jadi sambal botolan."
 
-Ia tidak tertawa. Tapi sudut mulutnya bergerak sedikit, dan itu kuanggap kemenangan.
+Ia tidak tertawa, tapi sudut mulutnya bergerak sedikit. Kuanggap itu kemenangan kecil.
 
-Yang tidak kukira: bau bawang itu tidak mau pergi. Jam tujuh lewat, pembagian makan malam selesai, aku mencuci tangan di bak dengan sabun colek, menggosoknya dua kali. Di kamar mandi kuulang lagi. Sela kuku, punggung tangan, pergelangan. Gosok sampai perih dan kulitku merah. Tetap saja, waktu memegang bantal di kamar, bau itu menyapa duluan.
+Yang tidak kuduga: bau bawang itu enggan pergi. Jam tujuh lewat, pembagian makan malam tuntas, aku mencuci tangan di bak dengan sabun colek dua kali. Di kamar mandi kuulang lagi. Sela kuku, punggung tangan, pergelangan. Kugosok sampai kulitku merah perih. Tetap saja, waktu merebahkan kepala di kamar, aroma langu itu menyapa duluan.
 
-Di kamar, lampu belum dimatikan. Galih, yang dipannya di seberangku, sedang membongkar tasnya. "Kamu dari mana saja, Ka? Habis asar menghilang, baru muncul jam segini."
+Di kamar, lampu neon masih benderang. Galih, yang dipannya berseberangan denganku, sedang membongkar tas. "Dari mana saja, Ka? Habis asar lenyap, baru nongol jam segini."
 
-Tanganku bergerak lebih cepat menggantung seragam di dekat jendela. "Les tambahan," kataku santai. "Bu Ratna. Matematika. Aku kan remedial terus."
+Tanganku bergegas menggantung seragam di dekat jendela. "Les tambahan," sahutku santai. "Bu Ratna. Matematika. Kan aku remedial terus."
 
-"Les kok bau bawang?"
+"Les kok baunya kayak dapur umum?"
 
-Itu Fandi. Ia tidak menatapku; ia membolak-balik buku tulisnya, dan kalimatnya keluar begitu saja, seperti membacakan cuaca. Leherku panas. Aku tertawa — yang keluar lebih keras dari yang kumaksudkan.
+Itu Fandi. Ia membolak-balik buku tulis tanpa menatapku. Nada suaranya datar, persis pembaca ramalan cuaca. Leherku panas. Aku tertawa—sedikit lebih keras dari yang kuinginkan. "Masjid habis masak buat syukuran. Aku bantu angkat-angkat tadi sebelum les. Aman, aman."
 
-"Masjid habis masak buat acara. Aku bantu angkat-angkat tadi sebelum les," kataku. "Aman, aman."
+Galih mengangguk dan kembali ke tasnya. Fandi menutup bukunya perlahan. Ia menatapku dua detik, lalu menyahut, "Iya. Dia les. Tadi kulihat namanya di daftar hadir Bu Ratna."
 
-Galih mengangguk dan kembali ke tasnya. Fandi menutup bukunya. Ia menatapku dua detik lebih lama dari perlu, lalu bilang, "Iya. Dia les. Tadi aku lihat daftar hadirnya di kelas Bu Ratna."
+Aku menelan ludah. Fandi berbohong semudah itu untukku. Di satu sisi aku lega setengah mati. Di sisi lain, bohong yang dirangkai orang lain untuk melindungimu rasanya jauh lebih menekan daripada dustamu sendiri.
 
-Aku menelan ludah. Fandi berbohong semudah itu, tanpa berkedip, untukku. Di satu sisi aku berterima kasih setengah mati. Di sisi lain, entah kenapa, bohong yang diucapkan orang lain untuk menutupimu rasanya lebih berat daripada bohongmu sendiri.
+Hari kedua dan ketiga, ritme dapur mulai terbaca, meski tanganku masih kaku. Cuci beras empat kali. Kupas bawang. Sikat tumpukan piring seng. Duta bekerja seperti mesin hitung: bumbu ditakar sebelum api menyala, pisau dikembalikan ke talenan sehabis dipakai, lantai disiram setiap kali ada kuah tumpah. Kalau aku merusak urutan, ia tidak membentak; ia hanya mengulang dari awal dengan nada dingin yang bikin jengkel.
 
-Hari kedua dan ketiga, dapur mulai punya pola di kepalaku, meski tanganku belum sepakat. Cuci beras empat kali. Kupas bawang. Cuci piring gunungan dengan spons yang sudah tipis di tengah. Duta bekerja seperti daftar yang dicentang satu-satu: bumbu ditakar sebelum api menyala, pisau dicuci dan dikembalikan ke talenan setiap selesai dipakai, lantai disiram setiap ada yang tumpah. Kalau aku mengacaukan urutan, ia tidak memarahi. Ia hanya mengulang dari awal dengan suaranya yang datar, dan itu lebih menyebalkan daripada dimarahi.
+"Katanya anak kota," celetuknya suatu sore saat melihat caraku memegang pisau seperti memegang obeng.
 
-"Katanya anak kota," katanya suatu sore, melihatku memegang pisau seperti memegang obeng.
+"Anak kota memang begini. Kami kenal pesan antar."
 
-"Anak kota memang begini. Kami pesan antar."
+"Di warteg ibuku, anak kelas empat sudah bisa balik telur dadar."
 
-"Di warteg ibuku, anak kelas empat sudah bisa membalik telur."
+"Telurnya yang kelewat pintar, berarti."
 
-"Telurnya yang hebat, berarti."
+Kali ini ia tertawa pendek—kaget pada suaranya sendiri, lalu cepat-cepat kembali mengaduk wajan. Di sela desis tumisan, kudengar ia bersenandung dangdut pelan. Lagu lama radio yang biasa didengar ibuku di rumah. Anak sekaku Duta ternyata menyimpan nada di balik wajannya. Aku memilih diam. Ada hal-hal yang kalau ditegur malah layu.
 
-Kali ini ia benar-benar tertawa — pendek, kaget pada tawanya sendiri, lalu cepat-cepat kembali ke wajannya. Di sela desis tumisan, kudengar ia bersenandung pelan. Dangdut. Lagu lama yang biasa diputar di radio dapur rumahku. Anak sekaku Duta, yang mengupas bawang pun pakai hitungan, ternyata punya satu bagian yang tidak masuk daftar: senandung itu. Aku tidak berkomentar. Ada hal-hal yang kalau disebut malah hilang.
+Sore ketiga, langkahku terhenti di depan kantin. Kertas seleksi tim futsal asrama baru saja ditempel dan dikerubungi anak-anak. Pendaftaran dibuka, latihan fisik diadakan tiap sore. Bagiku, sore adalah jam yang sudah disita dapur. Aku memang tidak berniat ikut—lariku lambat dan kakiku kaku di lapangan—tapi tetap saja ada dongkol kecil melihat tulisan "latihan sore". Rasa dongkol itu sirna saat Duta memanggil dari pintu belakang: "Beras."
 
-Sore ketiga, jadwalku bertabrakan dengan pengumuman. Di papan dekat kantin, kertas seleksi tim futsal antar-asrama baru ditempel, dikerumuni anak-anak. Aku membacanya sambil lalu: pendaftaran dibuka, seleksi mulai Senin depan, semua latihan sore hari. Dari dapur, sore hari adalah jam yang tidak kupunya. Tahun ini aku memang tidak berencana ikut — kakiku pas-pasan, nilaiku di lapangan lebih sering jadi bahan tertawaan daripada ancaman — tapi tetap saja ada rasa kesal kecil membaca kata "sore hari" itu. Kesal yang tidak penting. Kesal yang cepat hilang begitu Duta memanggil dari pintu dapur: "Beras."
+Namun pemandangan setelahnya tidak mudah kulupakan. Duta berdiri di ambang pintu memegang baskom kosong, menatap selebaran futsal itu jauh lebih lama dariku. Lalu ia berbalik masuk, mengisi air, dan kembali bekerja seolah kertas itu tak pernah ada. Wajahnya terkunci rapat seperti gudang beras yang tak boleh dimasuki sembarang orang.
 
-Yang tidak hilang justru pemandangan sesudahnya. Duta berdiri di ambang pintu dapur dengan baskom kosong, dan ia juga membaca papan pengumuman itu dari jauh. Ia membacanya lebih lama dariku. Lalu ia berbalik masuk, mengisi baskom dengan air, dan bekerja seperti biasa, seperti tidak ada kertas apa pun di dunia ini. Aku hampir bertanya. Tapi wajahnya waktu itu tertutup rapat, seperti pintu gudang beras yang memang tidak pernah ia buka di depanku.
+Di kamar, rantai bohongku makin bercabang. Hari kedua kubilang membersihkan kelas Bu Ratna. Hari ketiga: piket perpustakaan. Mengarang detail kian melelahkan; aku harus mengingat warna baju guru hingga jam tutup perpus, menjawab tiap pertanyaan teman dengan jeda gugup yang kusembunyikan di balik tawa.
 
-Di kamar, bohongku bertambah cabang. Hari kedua aku bilang membantu Bu Ratna membereskan kelas. Hari ketiga: perpustakaan, mengembalikan buku yang telat. Setiap versi kuberi detail kecil supaya terdengar meyakinkan — Bu Ratna memakai batik hijau, perpustakaan sekarang tutup jam delapan. Mengarang detail ternyata melelahkan. Aku harus mengingatnya semua, dan setiap kali Galih atau yang lain bertanya hal sepele, aku menjawab sesudah jeda setengah detik yang terasa seperti satu jam.
+Hari keempat, Fandi mencegatku di samping dipan sebelum lampu padam.
 
-Hari keempat, Fandi menarikku ke sisi dipan sebelum lampu dimatikan. Teman-teman lain sudah di kamar mandi atau pura-pura tidur.
+"Masih mau alasan les besok sore?" bisiknya dingin.
 
-"Les tambahan lagi nanti sore?" tanyanya pelan.
+"Iya. Kenapa emangnya?"
 
-"Iya. Kenapa?"
+"Galih tanya ke aku tadi. Katanya Bu Ratna ikut rapat dinas luar kota sepanjang minggu ini." Darahku serasa beku. "Terus kamu jawab apa?"
 
-"Galih tadi tanya ke aku. Katanya Bu Ratna tidak mengadakan les minggu ini. Ada rapat guru atau apa."
+"Kubilang mungkin kamu les sama guru lain." Fandi menatapku tajam tanpa menaikkan suara. "Tapi ini yang terakhir, Ka. Aku bukan juru bicaramu. Kamu cuma dihukum piket dapur, bukan dipenjara. Yang bikin berat itu bukan wajannya, tapi bohongmu."
 
-Darahku seperti berhenti di tengah jalan. "Terus kamu jawab apa?"
+Ia beranjak mengambil handuk. Kata-katanya menampar tepat di ulu hati karena kami berdua tahu ia benar.
 
-"Aku bilang mungkin kamu les sama guru lain. Terakhir, Ka." Ia menatapku lurus, tanpa nada mengancam, dan justru karena itu beratnya terasa penuh. "Kemarin itu terakhir aku nutupin kamu. Aku bukan humasmu."
-
-"Fan, sekali ini saja—"
-
-"Kamu dihukum piket dapur. Itu saja. Bukan dicopot kepalanya." Ia bangkit dan mengambil handuknya. "Yang bikin berat itu bukan piketnya. Bohongmu."
-
-Ia pergi ke kamar mandi. Aku duduk lama di tepi dipan dengan kalimat terakhirnya berputar-putar, dan yang paling menyebalkan dari kalimat itu adalah ia benar, dan kami berdua tahu.
-
-Berita itu ternyata tidak menunggu besok. Entah dari siapa mulainya — belakangan kuketahui dari anak piket gudang yang sore tadi melihatku mengangkat dandang — yang jelas malam itu juga, beberapa menit sesudah Fandi kembali dari kamar mandi, Galih berkata dengan nada yang terlalu biasa:
+Aib itu akhirnya meledak malam itu juga. Anak piket gudang rupanya memergokiku menggotong dandang nasi sore tadi. Saat Fandi baru keluar kamar mandi, Galih menyapa dari atas kasurnya dengan seringai lebar:
 
 "Jadi anak dapur sekarang, Ka?"
 
-Kamar itu diam dengan cara yang berbeda dari diam biasanya. Tiga kepala menoleh. Aku tertawa, seperti yang selalu kulakukan, dan tawa itu terdengar kosong bahkan di telingaku sendiri.
+Kamar 2C senyap sesaat sebelum ledakan tawa membahana. Tiga kepala menoleh serentak.
 
-"Siapa bilang?"
+"Pesen nasi goreng satu, Ka! Telurnya ceplok!"
 
-"Pesen satu porsi, Ka," kata yang lain dari dipan atas, dan tawa meledak di kamar. Bukan tawa jahat. Itu yang lebih parah: tawa biasa, tawa teman-teman yang menemukan bahan baru. "Rendangnya jangan pedas-pedas!"
+"Rendangnya jangan pedas-pedas, Chef!"
 
-"Nasgor satu, Ka! Pakai telur!"
+Aku membalas tertawa, melempar gurauan soal ongkos kirim dan diskon teman sekamar. Guyonan itu lumayan manjur meredakan suasana. Namun saat lampu dipadamkan dan tawa mereda, sebutan itu berdengung di telingaku: anak dapur.
 
-Aku ikut tertawa. Aku membalas dengan lelucon tentang harga dan ongkos kirim, dan leluconku bahkan lumayan berhasil. Tapi sepanjang malam, setiap kali tawa itu reda, kata-katanya kembali: anak dapur. Anak dapur. Dulu, kelas satu, kata-katanya berbunyi lain — anak mami — karena ibuku menitip rantang lewat satpam dan antrean di belakangku melihatnya. Seminggu penuh kata itu menempeliku. Seminggu penuh aku makan dengan kepala tertunduk, berdoa semoga minggu berganti dan semua orang lupa. Sekarang aku lima belas tahun dan kata-katanya cuma diganti dua huruf di depan, tapi rasanya persis sama: kepalaku ingin masuk ke dalam kerah bajuku sendiri dan tidak keluar lagi.
+Dulu, waktu kelas satu, julukannya berbunyi lain—anak mami—sebab ibuku menitip rantang makanan lewat pos satpam dan antrean asrama melihatnya. Seminggu penuh aku jadi bahan olok-olok, makan dengan kepala menunduk dalam-dalam. Kini di usia lima belas tahun, rasa malunya terulang dengan bentuk yang sama: kepalaku ingin menyelinap ke dalam kerah baju dan lenyap dari muka bumi.
 
-Jumat datang dengan bau tanah basah sisa hujan tengah malam.
+Jumat tiba dengan bau tanah basah sisa gerimis semalam.
 
-Udara subuh dingin menusuk sarung, tapi leherku sudah panas sejak melangkah ke koridor. Ejekan semalam ternyata berumur panjang. Di antrean wudhu masjid, dua anak Kamar 2B sengaja menepuk bahuku sambil tersenyum lebar.
+Udara subuh dingin menusuk sarung, tapi kupingku sudah panas sejak melangkah ke koridor. Ejekan itu berlanjut di antrean wudhu masjid. Dua anak Kamar 2B menepuk bahuku sambil cengengesan: "Pagi, Chef! Masak apa kita hari ini?" Aku cuma membalas dengan dengusan kecut dan ancaman air tajin.
 
-"Pagi, Chef Raka. Sarapan apa kita hari ini? Bumbu racik atau pesan katering?"
+Masalah kian runyam saat pengumuman baru terpampang di kantor asrama: jamuan makan siang dua puluh pengurus yayasan dan donatur pusat digelar di aula ba’da salat Jumat.
 
-Aku mendengus, memasang cengiran andalan, lalu pura-pura memeriksa kuku. "Khusus kalian berdua, menunya air tajin campur garam dapur."
+Pukul sembilan, Pak Darma mencegatku di depan kelas dengan muka kaku. "Raka. Hari terakhir hukumanmu dimajukan. Jam sepuluh teng kamu wajib lapor ke Bu Lastri. Tamu yayasan datang dari luar kota. Jangan bikin malu asrama, atau hukuman piketmu kuperpanjang dua pekan."
 
-Mereka terbahak dan melenggang pergi. Dadaku agak sesak, tapi setidaknya aku masih bisa membalas. Masalahnya, ejekan itu tidak berhenti di lorong. Di papan pengumuman samping kantor pengurus, selembar karton putih baru ditempel rapi dengan lakban hitam: jamuan makan siang pengurus yayasan dan dewan penyantun pusat, dua puluh orang lebih, digelar di aula utama sehabis salat Jumat.
+Dua pekan? Aku lekas mengangguk patuh: "Siap, Pak. Aman, aman."
 
-Waktu bel istirahat pertama berbunyi pukul sembilan, Pak Darma sudah berdiri di dekat pintu kelasku. Wajahnya yang kotak tampak kaku seperti biasa.
+Pukul sepuluh kurang sedikit, aku sudah berada di dapur belakang. Sisa gerimis masih menetes dari talang seng, berbaur dengan uap pekat yang merayap keluar dari celah pintu. Suasana di dalam bergolak kacau. Dua dandang tembaga menderu di atas tungku bata, memuntahkan aroma serai dan kunyit yang menusuk hidung. Di atas meja kayu panjang, dua baskom seng raksasa penuh gunungan potongan ayam teronggok di samping tumpukan lengkuas dan daun salam yang belum sempat dirapikan.
 
-"Raka."
+Tetapi Bu Lastri tidak berdiri di depan kompor.
 
-"Siap, Pak."
+Perempuan paruh baya itu duduk lunglai di dingklik kayu dekat rak piring. Kerah daster batiknya melorot, menampakkan garis-garis merah tua bekas kerokan koin di punggungnya. Bau minyak kayu putih bertarung sengit dengan aroma bumbu dapur.
 
-"Hari ini hari terakhir hukumanmu. Tapi jadwalmu dimajukan. Jam sepuluh teng, kamu harus lapor ke Bu Lastri di dapur belakang. Tamu yayasan datang dari luar kota. Jangan sampai bikin kacau, atau hukuman piketmu kuperpanjang sampai akhir bulan."
+"Perutku melilit dari subuh, kepala pusing berputar," gumam Bu Lastri serak saat kulihat cangkir jahenya bergetar di tangan. Ia menolak kusuruh istirahat ke klinik. "Tamu yayasan sampai jam setengah satu. Dua puluh orang lebih orang penting. Kalau makan siang ini telantar, siapa yang nanggung malu di depan Kiai? Sudah, bantu Duta kupas lengkuas sama geprek serai itu sampai tuntas!"
 
-Dua minggu tambahan di dapur? Membayangkannya saja membuat punggungku dingin. "Siap, Pak. Jam sepuluh saya di tempat. Aman, aman."
+Duta sudah mandi peluh di depan meja, memotong jahe dengan pisau berirama cepat. Aku segera mengenakan celemek kebesaran dan menarik keranjang serai. "Berapa batang, Dut?"
 
-"Nggak usah kebanyakan aman. Laksanakan."
+"Tiga puluh. Geprek bonggolnya saja, jangan sampai remuk seratnya," jawabnya tanpa menoleh.
 
-Pukul sepuluh kurang sepuluh menit, aku sudah menyeberangi halaman rumput becek di belakang asrama.
+Kami berpacu dengan waktu dalam keheningan dapur yang cuma diisi dentang ulekan dan rintih pelan Bu Lastri. Dari jendela kawat kasa, sayup-sayup terdengar sorak riuh seleksi futsal di lapangan rumput belakang. Kulihat rombongan Kamar 2C melintas membawa bola; Fandi berjalan di belakang sambil menenteng sepatu.
 
-Begitu mendorong pintu seng dapur yang berderit nyaring, hawa panas langsung menyambar mukaku. Dua dandang tembaga besar di atas tungku bata menderu mengeluarkan uap bumbu kuning. Di meja kayu, daging ayam menumpuk dalam dua baskom seng raksasa. Lengkuas, serai, daun salam, dan bawang putih teronggok di dekat talenan tebal.
+Aku menunduk dalam-dalam menghantam batang serai.
 
-Namun Bu Lastri tidak sedang berdiri di depan wajan.
+"Teman sekamarmu?" tanya Duta tiba-tiba, memecah kesunyian.
 
-Perempuan itu duduk lunglai di bangku kayu dekat rak piring. Kerah daster batik cokelatnya ditarik ke bawah, memperlihatkan tengkuk dan punggungnya yang dipenuhi jalur merah pekat bekas kerokan koin. Aroma minyak kayu putih menyengat tajam dari tubuhnya, bertarung dengan bau tumisan. Wajahnya pucat kehijauan, kedua tangannya memegangi cangkir seng berisi seduhan jahe panas.
+"Iya. Lagi heboh seleksi turnamen," sahutku kaku. "Semalam rahasiaku bocor, Dut. Sekamar tahu aku piket dapur. Habis aku diledekin koki sewaan. Gengsiku remuk."
 
-"Masuk angin, Bu?" tanyaku dari pintu.
+Kupikir Duta bakal mencibir. Tetapi ia justru meletakkan pisaunya, lalu menyeka kening dengan lengan baju. Matanya menatap jelaga hitam di dinding seng.
 
-Bu Lastri mendongak lemah. Ia terbatuk pendek sebelum bersuara serak, "Dari subuh perutku melilit. Mas Min sudah bantu ngerok, tapi kepala masih berputar."
+"Nggak ada yang perlu dimalukan, Ka," suaranya mengalun rendah. "Tahun lalu, aku ikut seleksi itu. Dua minggu aku lari subuh keliling lapangan. Sepatuku jebol, kujahit sendiri pakai benang kasur sama lem aibon. Aku main habis-habisan sampai lutut lecet."
 
-"Kalau begitu Ibu istirahat saja di kamar dinas," kataku. "Biar nanti Pak Darma cari anak lain—"
+Aku menghentikan ulekan batuku. "Terus?"
 
-"Cari siapa?" potong Bu Lastri ketus, meski suaranya tipis. "Anak-anak sebentar lagi Jumatan. Tamu yayasan sampai jam setengah satu. Dua puluh orang lebih orang penting, bawa keluarga. Kalau jamuan ini terlantar, siapa yang tanggung jawab di depan Kiai? Kamu?"
+"Hari terakhir, pelatih ngumpulin tiga puluh anak di lapangan becek. Dibacain dua belas nama yang lolos tim inti. Nama pertama sampai terakhir... namaku nggak disebut." Duta menarik napas tipis. "Anak-anak yang lolos pelukan, teriak-teriak senang. Yang gugur pada nangis dirangkul temannya. Cuma aku yang berdiri sendirian di garis pinggir megang sepatu jebol berlumpur. Nggak ada yang noleh ke aku."
 
-Aku langsung mengunci mulut.
+"Kamu nggak balik ke asrama?"
 
-"Duta sudah mulai dari tadi," lanjutnya, mengibaskan tangan pelan ke sudut kompor. "Bantu dia. Kupas lengkuas sama geprek serai itu sampai habis. Bumbu ungkepnya harus sudah masuk dandang sebelum azan pertama."
+"Nggak. Aku langsung jalan kaki ke warteg ibuku di terminal. Masih pakai seragam kotor dan celana belepotan tanah, aku duduk di pojokan beralas dingklik reot, ngupas tiga karung bawang merah sampai jam sepuluh malam. Truk-truk gandeng lewat menderu di jalanan Pantura, klaksonnya bising, tapi nggak ada yang lebih sepi dari rasanya berdiri sendirian di lapangan bola itu." Duta menuang air ke mangkuk bumbu, mengaduknya tenang dengan sendok kayu tebal. "Di lapangan bola, orang cuma peduli kalau kamu cetak gol. Begitu gagal, kamu nggak dianggap. Tapi di dapur, orang lapar nggak peduli tampang atau kehebatanmu gocek bola. Wajan nggak nanya gengsimu. Yang penting nasi matang, lauk gurih, dan orang kenyang."
 
-Duta berdiri di depan meja bumbu dengan celemek abu-abunya yang kusam. Kaus oblong hitamnya basah kuyup oleh peluh di punggung. Tangannya memegang pisau lebar, mencincang jahe dan lengkuas dengan irama cepat: *tuk-tuk-tuk-tuk!*
+Ia menyodorkan baskom ayam ke dekat tungku. "Serainya masukkan ke dandang. Bumbunya sudah mendidih."
 
-Aku mengambil celemek di paku dinding, melilitkan talinya dua kali di pinggang, lalu duduk di hadapannya. Keranjang serai kutarik ke dekat lutut.
+Perkataan Duta menghunjam tepat di dadaku. Olok-olok "anak dapur" yang semalam kuratapi mendadak terasa teramat kerdil dibanding sunyinya anak yang berdiri menenteng sepatu rusak di tepi lapangan.
 
-"Berapa batang, Dut?"
+Pukul 11.35, azan pertama salat Jumat berkumandang dari masjid. Langkah kaki santri yang bergegas ke tempat wudhu mulai ramai terdengar di luar.
 
-"Tiga puluh," jawab Duta tanpa menoleh. "Geprek bonggolnya sampai pecah, jangan hancur berantakan. Nanti seratnya ngotorin kuah."
+"Ayam harus digoreng sekarang," kata Duta cemas. "Dua puluh porsi paha dan dada. Tamu keluar masjid jam 12.25. Lewat dari itu, ayamnya bakal dingin dan berminyak."
 
-Kami bekerja dalam ritme tergesa. Hanya suara pisau Duta dan hantaman batuku di atas batang serai yang mengisi ruangan. Sesekali terdengar desis kompor gas tekanan tinggi di sudut dan rintih pelan Bu Lastri yang menyandarkan kening ke dinding papan.
+Wajan nomor tiga puluh—wajan besi hitam selebar tampah—dipasang di atas tungku bertekanan tinggi. Api biru menyala menderu. Dua jeriken minyak dituangkan hingga sepertiga wajan tergenang.
 
-Dari luar, suara peluit dan teriakan anak-anak terdengar dari arah lapangan futsal. Seleksi penyisihan sedang ramai sebelum salat Jumat. Sorak-sorai meledak setiap kali ada bola yang membentur tiang gawang.
+Duta buru-buru menyiapkan potongan ayam dari dandang ungkep. "Tiriskan sisa ayam di atas nyiru, Ka! Airnya jangan sampai netes ke minyak!"
 
-Di celah kawat kasa jendela, kulihat beberapa anak Kamar 2C melintas membawa botol air dan kaus tim. Fandi berjalan paling belakang, menenteng sepatu futsal dengan tali terikat di leher. Langkahnya santai, tertawa mendengar lelucon Galih.
+Aku bergerak cepat memindahkan ayam ke nyiru bambu. Namun Duta terlampau terburu-buru. Sepotong paha ayam yang masih basah kuyup oleh kuah ungkepan dingin terlepas dari capitnya sebelum posisinya pas di bibir wajan.
 
-Aku buru-buru menunduk, memusatkan pandangan pada batang serai kelima belas.
-
-"Anak-anak kamarmu?" tanya Duta tiba-tiba, memecah ketukan pisau.
-
-Aku terkesiap pelan, mengusap hidung dengan lengan baju. "Iya. Lagi heboh seleksi turnamen antarasrama."
-
-"Kenapa nggak ikut?"
-
-"Kakiku kaku," sahutku mencoba bercanda, meski tawa yang keluar terdengar garing. "Lagian semalam kamarku heboh. Rahasiaku bocor."
-
-Duta berhenti memotong sesaat. Matanya melirikku sekilas. "Rahasia apa?"
-
-"Ya... hukuman dapur ini." Aku mendesah, menghantam ulekan batu ke serai sedikit lebih keras dari perlu. "Seminggu ini aku ngibul sana-sini, bilang les matematika, bilang jaga perpus. Pas ketahuan semalam, sekamar ngetawain aku. Manggil aku 'anak dapur', minta dipesenin rendang sama nasi goreng. Gengsiku anjlok ke tanah."
-
-Kupikir Duta bakal mengejekku. Tapi ia tidak tersenyum sedikit pun. Ia menaruh pisau di atas talenan, lalu menyeka kening dengan punggung tangan.
-
-"Di sini nggak ada yang perlu dimalukan, Ka," katanya pelan.
-
-Aku mendongak, heran mendengar suaranya yang tidak sekaku biasanya.
-
-Duta menatap tumpukan potongan ayam di depannya. Matanya memandang ke dinding seng yang berlumur jelaga hitam. "Tahun lalu, aku ikut seleksi futsal itu. Dua minggu penuh aku lari keliling lapangan tiap subuh. Sepatuku jebol, kujahit sendiri pakai benang sol sama lem aibon bekas tukang kayu. Aku main sampai lututku lecet di penyisihan."
-
-Aku meletakkan serai di pangkuan. "Terus?"
-
-"Hari terakhir seleksi, pelatih ngumpulin tiga puluh anak di tengah lapangan. Gerimis, lapangan becek. Semua anak disuruh baris. Pelatih bacain dua belas nama yang lolos ke tim utama." Duta menarik napas pendek lewat hidung, pelan sekali. "Nama pertama, kedua, ketiga... sampai nama kedua belas. Namaku nggak ada."
-
-"Nggak dipanggil sama sekali?"
-
-"Nggak." Duta mengambil baskom bumbu, menuangkan bubuk kunyit ke mangkuk takar. "Anak-anak yang lolos langsung jingkrak-jingkrak, bikin lingkaran, rangkulan sambil teriak-teriak. Anak-anak yang nggak kepilih pada duduk lesu di pinggir lapangan atau dipuk-puk temannya. Aku cuma berdiri di sana, megang sepatu jebolku yang bau lumpur. Nggak ada yang noleh ke aku. Nggak ada yang peduli."
-
-"Kamu balik ke kamar?"
-
-"Nggak. Aku langsung jalan kaki ke warteg ibuku dekat terminal. Nggak cuci muka, nggak ganti seragam yang kotor. Sampai di warteg, ibuku lagi repot layanin sopir truk. Aku langsung ambil dingklik, duduk di pojokan, ngupas tiga karung bawang merah sampai jam sepuluh malam."
-
-Duta menuang air ke mangkuk bumbu, mengaduknya dengan sendok kayu. Suaranya tetap tenang, tapi tiap kalimat terasa padat.
-
-"Di lapangan futsal, kamu cuma dianggap ada kalau kamu bisa bikin gol atau punya tampang keren di depan penonton. Begitu gagal, kamu cuma penonton di pinggir garis. Tapi di dapur, orang lapar nggak peduli kamu anak siapa, kamu bisa gocek bola atau nggak. Wajan nggak nanya gengsimu. Yang penting masakan matang, bumbunya pas, dan orang bisa makan kenyang."
-
-Ia mengangkat baskom ayam, lalu menatapku lurus. "Bawangnya selesaiin. Dandang sudah mendidih."
-
-Aku tertegun di bangkuku. Ejekan "anak dapur" yang semalam membuatku ingin menghilang mendadak terasa kecil dibanding rasa sepi anak yang berdiri sendirian di tengah lapangan becek sambil memegang sepatu jebol.
-
-"Siap, Dut," kataku. Kali ini kata itu keluar tanpa embel-embel "aman, aman".
-
-Pukul sebelas lewat lima belas, seluruh potongan ayam sudah masuk ke dua dandang besar. Bumbu kuning menggelegak, mengeluarkan letupan wangi rempah yang kental. Bu Lastri mencicipi kuah ungkep dengan sendok teh, lalu mengangguk lemah sebelum kembali duduk memijit pelipis.
-
-"Kurang garam sedikit di dandang kanan," gumamnya.
-
-Duta menambahkan garam kasar, mengaduknya dengan sutil panjang. Wajahnya tegang menatap jam dinding bulat di atas pintu gudang beras. Waktu menunjukkan pukul 11.35. Azan pertama salat Jumat mulai bergema dari pengeras suara masjid asrama.
-
-"Ayam harus mulai digoreng sekarang," kata Duta cemas. "Dua puluh porsi paha dan dada. Tamu yayasan keluar masjid jam 12.25. Kalau baru goreng habis Jumatan, ayamnya belum tiris."
-
-Wajan nomor tiga puluh—wajan besi hitam berdiameter hampir satu meter—sudah terpasang di tungku gas bertekanan tinggi. Duta menyalakan pemantik api. Api biru menyembur menderu di bawah pantat wajan. Dua jeriken minyak dituangkan hingga sepertiga wajan terendam cairan keemasan. Dalam beberapa menit, gelembung halus mulai naik ke permukaan. Asap tipis menari di atas minyak.
-
-Duta menyiapkan baskom pertama berisi potongan ayam yang baru diangkat dari dandang ungkepan. Uap panas masih mengepul dari daging ayam itu.
-
-"Baskom kedua tiriskan dulu di atas nyiru, Ka!" perintah Duta terburu-buru. "Air bumbunya jangan sampai ikut masuk wajan!"
-
-Aku memindahkan sisa ayam ke nyiru bambu. Tapi Duta sendiri terdesak waktu. Di tangannya, sepotong paha ayam yang masih basah kuyup oleh kuah ungkepan dingin terlepas terlalu cepat dari ujung capit saat hendak ditata di wajan.
-
-Daging basah bertemu minyak mendidih bersuhu dua ratus derajat.
+Daging basah menghantam minyak mendidih dua ratus derajat.
 
 *BLARRRR!*
 
-Minyak di wajan meledak seketika. Busa mendidih menyembur ke udara, dan titik-titik minyak panas berhamburan ke segala arah.
+Minyak meledak liar. Gelembung busa menyembur ke udara dan titik-titik minyak panas berhamburan hebat.
 
-"Awas!" jerit Bu Lastri dari sudut.
+"Awas!" jerit Bu Lastri.
 
-Duta memekik tertahan. Tangannya refleks diangkat melindungi wajah, tetapi semburan minyak panas menghantam telak lengan bawah dan pergelangan tangan kanannya.
+Duta memekik tertahan. Tangannya terangkat melindungi muka, tetapi semburan minyak panas menghantam telak lengan bawah dan pergelangan tangan kanannya. Capit besi terlempar membentur dinding seng. Duta terhuyung menabrak rak piring, napasnya tercekat menahan nyeri membakar.
 
-*Pranggg!*
+"Duta!" Aku menghambur menyambar lengannya.
 
-Penjepit besi di tangannya terlempar membentur dinding seng. Duta terhuyung mundur hingga punggungnya menabrak rak piring, napasnya tersedak menahan nyeri.
+Kulit pergelangan tangannya melepuh merah padam seketika. Lepuhan putih sebesar kelereng timbul di dekat urat nadi. Wajah Duta pucat pasi dibasahi keringat dingin.
 
-"Duta!" Aku melompat mendekatinya.
+"Bawa ke kran air!" teriak Bu Lastri panik, bangkit tertatih-tatih.
 
-Pergelangan tangan kanannya memerah padam seketika. Di dekat nadi, lepuhan putih mulai menggelembung melepuh. Duta menggertakkan gigi rapat-rapat, keringat dingin membanjiri pelipisnya.
+Kutuntun Duta ke bak cuci, membiarkan air kran mengguyur lukanya deras-deras. Duta menggigit bibirnya erat-erat menahan pedih. Bu Lastri tergopoh-gopoh mengambil salep dan kain kasa dari kotak obat, lalu membebat luka bakar itu dengan hati-hati.
 
-"Air... bawa ke bak cuci!" teriak Bu Lastri panik, berusaha berdiri dengan kaki gemetar.
+Namun malapetaka belum usai.
 
-Aku menyambar lengan kiri Duta, menariknya ke depan kran bak cuci. Air dingin kutarik deras membasahi luka bakarnya. Duta mengerang panjang, kepalanya mendongak menatap langit-langit dapur dengan mata terpejam rapat.
+Di tengah dapur, minyak di wajan raksasa mulai mengeluarkan kepulan asap kebiruan tebal—tanda minyak mendekati titik bakar kritis. Remahan bumbu di dasar wajan mulai menghitam. Dibiarkan semenit lagi tanpa bahan, seluruh minyak akan rusak terbakar. Sementara dua puluh porsi ayam masih menumpuk mentah di meja.
 
-"Panas..." bisik Duta gemetar. "Panas kayak disetrika..."
+Duta mencoba melangkah kembali ke wajan dengan tangan kiri terangkat gemetar. "Kecilkan apinya... biar kugoreng pakai tangan kiri..."
 
-Bu Lastri tertatih-tatih mengambil minyak kelapa dan kain kasa dari kotak obat di dinding, mengoleskan cairan dingin ke kulit Duta yang melepuh, lalu membebatnya hati-hati dengan kain basah.
+"Jangan nekat kamu, Dut!" cegah Bu Lastri keras. "Uap panasnya bikin melepuh makin parah! Duduk!"
 
-Namun krisis terbesar tidak berhenti di luka Duta.
+"Tapi tamunya sebentar lagi bubar salat, Bu!"
 
-Di tengah ruangan, wajan raksasa itu masih menyala dengan api besar. Minyak di dalamnya mulai mengepulkan asap kebiruan tebal—tanda minyak melewati titik didih amannya. Remah bumbu yang tertinggal di dasar wajan mulai menghitam. Jika dibiarkan dua menit lagi tanpa diisi bahan makanan, minyak itu akan hangus terbakar.
+"Biar Raka balik ke kamar!" sergah Duta berpaling padaku dengan mata memerah menahan sakit. "Balik ke kamarmu, Ka. Hukumanmu harusnya jam sore. Jangan ikut nanggung kekacauan ini."
 
-Sementara itu, baskom ayam untuk dua puluh orang tamu masih teronggok penuh di meja.
+Pada detik genting itu, pintu seng berderit terbuka. Fandi berdiri di ambang pintu, rapi mengenakan baju koko putih dan sarung hijau, memegang peci hitam.
 
-Duta mencoba melangkah kembali ke wajan dengan tangan kiri terangkat. "Kecilkan apinya... biar aku selesaikan pakai tangan kiri..."
+"Ka," bisik Fandi tergesa melihat asap tebal dan tangan Duta yang terbebat kasa. "Ngapain masih di situ? Azan kedua sebentar lagi kelar! Anak-anak sudah di teras samping masjid. Ayo cabut sekarang, nanti habis Jumatan kita langsung nonton babak penentuan futsal."
 
-"Jangan gila kamu, Dut!" bentak Bu Lastri, menahan pundak anak itu. "Tanganmu bisa infeksi kalau kena uap panas lagi! Duduk di sini!"
+Pintu pelarian tersaji sempurna di depanku. Hukuman resmiku hanya sore hari. Aku anak bungsu yang selalu kabur setiap wajan mendesis di rumah. Melangkah pergi bersama Fandi berarti mukaku selamat dan gengsiku terjaga di depan teman-teman Kamar 2C.
 
-"Tapi Bu, tamunya sebentar lagi selesai salat!"
+Tetapi kulihat Duta duduk membungkuk di dingklik kayu, meremas pergelangan tangannya yang sakit dengan tatapan terluka yang sama seperti setahun lalu di lapangan becek. Di sampingnya, Bu Lastri bersandar lunglai di tiang dapur. Dan wajan raksasa itu terus mendesis lapar.
 
-"Biar Raka yang balik ke kamar!" sela Duta tiba-tiba, menoleh padaku dengan mata merah menahan perih. "Ka, balik saja ke kamarmu. Hukumanmu harusnya jam sore. Jangan ikut nanggung masalah ini."
+Ketakutanku pada letupan minyak seketika terasa memalukan. Rasa malu diejek "anak dapur" mendadak seringan serpihan kulit bawang.
 
-Tepat pada detik itu, daun pintu samping dapur yang terhubung ke lorong luar berderit terbuka pelan.
+Kutarik napas dalam-dalam menghirup aroma jelaga dan serai. Kutatap mata Fandi lurus. "Kalian duluan saja ke masjid, Fan."
 
-Sesosok tubuh berdiri di ambang pintu: Fandi.
+Fandi terperangah. "Kamu serius, Ka? Mau ngapain di sini?"
 
-Fandi sudah memakai sarung hijau tua dan baju koko putih bersih, siap melangkah ke masjid. Di tangannya, ia memegang peci hitam. Matanya memandang berkeliling: asap tebal membumbung di atas wajan besar, Bu Lastri yang pucat memegangi botol obat, dan Duta yang duduk meringis dengan lengan kanan terbebat kasa basah.
+"Ada dua puluh tamu yang harus makan siang," jawabku seraya mengencangkan ikatan celemek di pinggang. "Masjid banyak pahala, tapi wajan ini nggak boleh ditinggal sendirian."
 
-"Ka," panggil Fandi setengah berbisik dari pintu. "Ngapain kamu masih pakai celemek di situ? Azan kedua sebentar lagi kelar! Anak-anak 2C sudah ambil saf di teras samping. Ayo berangkat sekarang, biar kamu nggak kena marah pengurus masjid. Habis Jumatan kita langsung nonton lanjutan futsal."
+Fandi menatapku tanpa berkedip selama tiga detik. Lalu ia mengangguk pelan. "Kutitipkan sajadah di saf belakang kalau kamu sempat nyusul," ujarnya sebelum menutup pintu rapat.
 
-Ajakan itu terdengar seperti pintu keluar yang terbuka lebar di tengah ruangan berasap.
+Tinggal kami bertiga di ruang berasap itu. Aku melangkah mantap ke depan wajan tiga puluh, menyambar capit besi panjang dan sutil kayu bertangkai tebal.
 
-Semua alasanku lengkap: hukuman resmiku hanya sore hari, bukan siang bolong begini. Aku tidak punya keahlian memasak apa pun. Aku anak bungsu yang selalu mundur setiap kali wajan mendesis di rumah. Kalau aku melangkah keluar sekarang bersama Fandi, tidak ada yang bisa menyalahkanku. Muka dan citraku sebagai anak santai Kamar 2C bakal kembali aman.
+"Ka... wajan itu bukan mainan," gumam Duta parau dari sudut.
 
-Tapi mataku tertumbuk pada Duta.
+"Biar kuurus," potongku. Aku melangkah merapatkan diri ke bibir tungku. Hawa panas langsung memanggang kulit pipi dan keningku, peluh membanjiri leher hingga kaus oblongku basah melekat ke dada. Jantungku berdentum keras seperti derap lari anak-anak di lapangan futsal tadi.
 
-Anak kaku itu duduk menunduk di bangku kayu, memegangi lengannya yang terluka. Matanya menatap lantai semen basah dengan pandangan yang persis sama seperti saat ia menceritakan seleksi futsal setahun lalu: pandangan seorang anak yang terbiasa ditinggalkan sendirian menanggung kekalahan.
+"Kecilkan kenop gas seperempat putaran," pandu Duta, nada bicaranya kembali fokus. "Jepit pahanya kuat-kuat. Jangan dilempar dari atas, Ka! Luncurkan menyusur dinding wajan!"
 
-Di sampingnya, Bu Lastri terengah-engah bersandar ke tiang kayu, tak berdaya.
-
-Dan di depan sana, wajan raksasa itu terus mendesis menuntut isi.
-
-Ketakutanku pada cipratan minyak mendadak terasa konyol. Rasa malu karena diejek "anak dapur" oleh teman sekamar terasa seringan serpihan kulit bawang.
-
-Aku menarik napas panjang, membiarkan udara berbau jelaga dan rempah memenuhi dadaku.
-
-Aku menoleh ke arah pintu, menatap mata Fandi lurus-lurus.
-
-"Kalian duluan saja ke masjid, Fan," kataku pelan, tapi mantap.
-
-Fandi mematung di ambang pintu. "Kamu serius, Ka? Mau ngapain di sini?"
-
-"Ada dua puluh orang tamu yang harus makan siang habis Jumatan," jawabku, sambil mengencangkan ikatan tali celemek di pinggang. "Masjid penuh pahala, tapi wajan ini nggak bisa ditinggal sendirian."
-
-Fandi terdiam selama tiga detik. Ia menatapku seolah baru pertama kali melihat siapa sebenarnya teman sekamarnya ini. Lalu ia mengangguk perlahan.
-
-"Saf belakang kutitipkan sajadah buat kamu kalau sempat nyusul," katanya pendek.
-
-Pintu seng ditutup dari luar. Suara langkah Fandi menjauh menuju masjid.
-
-Dapur kembali menyisakan kami bertiga dan dengung kompor yang mengancam.
-
-Aku melangkah ke meja persiapan, mengambil capit besi bergagang panjang yang tadi tergeletak di dekat talenan, lalu meraih sutil kayu bermata lebar.
-
-"Ka..." panggil Duta lirih dari sudut. "Kamu nggak pernah pegang wajan segede itu."
-
-"Sekarang bakal pernah," sahutku. Aku berdiri tepat di depan bibir wajan nomor tiga puluh.
-
-Hawa panas langsung menyengat wajahku, membuat kulit pipiku perih dan peluh mengalir deras menuruni leher. Jantungku berdegup kencang seperti tabuhan genderang upacara.
-
-"Kecilkan kenop gas seperempat putaran," instruksi Duta dari belakang, suaranya kembali menemukan ketegasan meski serak. "Minyaknya sudah terlalu panas."
-
-Aku memutar kenop besi di bawah tungku dengan sandal jepit. Deru api mereda menjadi desis stabil.
-
-"Ambil sepotong paha. Jepit kuat-kuat di bagian tulangnya," lanjut Duta. "Jangan dilempar dari atas, Ka! Tempelkan dagingnya ke bibir wajan sebelah dalam, terus luncurkan pelan-pelan ke minyak."
-
-Tanganku gemetar saat capit besi mencengkeram potongan ayam pertama dari nyiru bambu. Aku maju setengah langkah. Minyak di bawahku berkilau keemasan, memantulkan bayangan mukaku yang tegang.
-
-Aku menahan napas. Ujung daging menyentuh minyak.
+Kujepit potongan paha pertama. Tanganku sedikit gemetar saat mendekati permukaan minyak keemasan. Kutahan napas, menempelkan ujung ayam ke dinding besi wajan.
 
 *CYSSSSSSSSSH!*
 
-Minyak mendidih seketika melingkari potongan ayam. Buih putih bergolak liar. Butiran minyak panas memercik ke udara, mengenai kain celemekku dan mendarat di punggung tangan kiriku—panas menusuk seperti sundutan korek api.
+Minyak berbuih garang melingkari daging ayam. Butiran minyak panas memercik ke udara, satu titik mendarat perih di punggung tanganku seperti sundutan abu rokok.
 
-Kakiku refleks ingin mundur selangkah. Itu insting lamaku, insting anak manja yang selalu lari saat ada minyak meletup.
+Kakiku refleks ingin meloncat mundur. Naluri lamaku berteriak untuk lari.
 
-Tapi kali ini, aku mengunci tumitku di atas lantai semen.
+Tetapi kutanam tumitku kokoh di lantai semen basah. Aku bergeming.
 
-Aku tidak mundur.
+"Bagus! Tahan posisimu!" seru Duta. "Masukkan yang lain di sisi berseberangan!"
 
-"Bagus! Tahan posisimu!" seru Duta dari bangkunya. "Masukkan potongan berikutnya di sisi yang berlawanan biar suhunya seimbang!"
+Potongan kedua meluncur. Ketiga, kelima, hingga potongan keenam. Ketakutan yang membayangi kepalaku tersapu oleh kesibukan tangan. Mataku mengawasi perubahan warna kulit ayam yang perlahan kuning kecokelatan.
 
-Potongan kedua meluncur. Lalu ketiga. Keempat. Keenam.
+"Balik yang pertama!" pekik Bu Lastri dari bangkunya. "Ungkit bawahnya pakai sutil biar nggak lengket!"
 
-Setiap kali daging masuk, minyak menyembur garang, tapi tanganku mulai terbiasa dengan desisnya. Ketakutan yang selama ini membelengguku perlahan terkikis oleh kesibukan gerak. Otakku tidak punya waktu lagi untuk panik; mataku harus mengawasi warna kulit ayam yang mulai berubah dari putih pucat menjadi kuning kecokelatan.
+Kuselipkan bilah sutil di bawah paha ayam. Dengan satu entakan pergelangan tangan—gerakan yang kuamati dari Duta sepanjang pekan—kubalik potongan itu. Bagian bawahnya telah garing kecokelatan sempurna. Aroma gurih rempah lengkuas dan ketumbar membubung harum menyelimuti seisi dapur.
 
-"Balik yang potongan pertama!" seru Bu Lastri, menunjuk dengan ujung jarinya yang gemetar. "Pakai sutil kayu, ungkit dari bawah biar kulitnya nggak lengket di besi!"
+Dua belas potong ayam mengapung di minyak bergolak. Di giliran pertama ini, dua potong dada agak kehitaman di tepinya karena terlambat kubalik, namun sisanya matang merekah dengan remahan bumbu yang kriuk.
 
-Aku menyelipkan bilah sutil ke bawah daging paha ayam. Minyak bergolak melawan gerakan tanganku. Dengan satu hentakan pergelangan tangan—seperti yang kuamati dari Duta selama empat hari ini—aku membalik potongan itu. Bagian bawahnya sudah mengering, berwarna cokelat keemasan yang cantik.
+"Angkat ke serok kawat!" komando Duta.
 
-Aroma gurih yang pekat membubung bersama uap putih, memenuhi seluruh rongga dapur. Bau lengkuas parut, ketumbar sangrai, dan bawang putih goreng berpadu menjadi wangi sedap.
+Kuceburkan serok kawat besar ke dasar wajan, menguras potongan ayam panas itu ke atas. Minyak menetes deras sebelum kutumpahkan ke nampan beralas kertas minyak. Bunyi kulitnya berderak renyah.
 
-Dua belas potong ayam mengapung di wajan pertama. Aku membolak-baliknya dengan ritme yang semakin tenang. Di putaran pertama ini, ada dua potong dada yang bagian ujungnya agak gelap karena terlalu lama menempel di dasar wajan, tapi sisanya matang sempurna: renyah, merekah, dan berkerak bumbu gurih.
+Tanpa jeda, kumasukkan potongan baskom kedua. Kali ini gerakanku jauh lebih luwes. Tidak ada yang gosong. Semua potongan terangkat dengan warna keemasan merata.
 
-"Angkat! Tiriskan di serok kawat!" komando Duta.
+Tepat saat paha terakhir ditiriskan ke nampan, suara selawat penutup salat Jumat terdengar sayup dari aula depan. Jam dinding menunjukkan pukul 12.23.
 
-Aku mengangkat serok kawat selebar tampah, menenggelamkannya ke dasar minyak, lalu menguras potongan-potongan ayam panas itu ke atas. Minyak menetes deras bergemercik kembali ke wajan. Bunyi krispi kulit ayam terdengar begitu renyah saat kutumpahkan ke atas nampan seng beralas kertas minyak.
+Kumatikan kenop kompor. Api biru padam dengan desis panjang.
 
-Tanpa membuang waktu, aku memasukkan giliran kedua. Kali ini tanganku jauh lebih luwes. Tidak ada lagi ayam yang gosong. Semua potongan matang dengan warna keemasan yang seragam.
+Kusandarkan punggungku ke meja dapur, mengembuskan napas lega yang tertahan sejam lamanya. Kausku basah kuyup oleh peluh, celemekku berminyak penuh noda kunyit, wajahku memerah terpanggang hawa tungku. Namun dua puluh porsi ayam goreng telah tertata rapi, mengepul hangat dan siap santap.
 
-Tepat saat potongan terakhir dari baskom kedua diangkat ke atas nampan, suara selawat penutup salat Jumat mulai terdengar sayup-sayup dari arah aula depan.
+Pak Darma bersama staf asrama muncul di pintu beberapa menit berselang. Ia sempat terpaku menatap wajan berasap, kain kasa di tangan Duta, dan diriku yang masih memegang capit dengan celemek dekil.
 
-Jam dinding dapur menunjukkan pukul 12.23.
+"Duta kena minyak tadi, Pak," lapor Bu Lastri tegas dari tempat duduknya. "Untung ada Raka. Jamuan tamu beres tepat waktu digoreng sama dia."
 
-Aku mematikan kenop kompor. Api biru padam dengan desah panjang.
+Pak Darma memandangiku lekat-lekat. Senter piketnya tak ada, tapi ada dengusan geli yang mengangkat ujung kumis lebatnya. "Kerja bagus, Raka," ucapnya pendek sebelum membopong nampan jamuan keluar.
 
-Aku menjatuhkan sutil ke meja, bersandar pada rak piring, dan mengembuskan napas panjang yang terasa seperti sudah kutahan selama satu jam penuh. Kausku basah kuyup oleh peluh, celemekku bernoda minyak dan bercak kunyit, mukaku terasa tebal terpanggang hawa tungku.
+Dapur kembali lengang. Dari arah aula, terdengar riuh sendok beradu dengan piring porselen dan suara obrolan santai para tamu menikmati santap siang.
 
-Tapi seluruh dua puluh porsi ayam goreng telah tertata rapi, mengepul hangat, siap disajikan.
+Bu Lastri melangkah perlahan ke meja makan, lalu menyendokkan nasi putih hangat ke tiga piring seng. Di atas piringku, ia menaruh dua potong paha ayam paling besar dan merekah, disiram sesendok penuh kremesan lengkuas garing.
 
-Pak Darma dan dua staf pengurus asrama bergegas masuk ke dapur lima menit kemudian untuk mengangkut nampan jamuan ke ruang makan tamu.
+Perempuan tua itu menepuk pundakku lembut. "Makan, Ka. Jangan tunggu dingin."
 
-Pak Darma sempat tertegun di depan pintu, menatap wajan raksasa yang masih berasap, Duta yang tangannya terbalut kain, dan aku yang berdiri dengan celemek belepotan sambil memegang lap kain.
+Duta duduk di sampingku, menyodorkan segelas teh manis hangat dengan tangan kirinya. Pergelangan kanannya yang terbebat sudah tenang. Ia melirik piringku, lalu tersenyum lepas—senyum paling utuh yang pernah kulihat darinya.
 
-"Duta kenapa tangannya?" tanya Pak Darma terkejut.
+"Lumayan," bisiknya.
 
-"Kena cipratan minyak tadi, Pak," jawab Bu Lastri dari bangkunya, suaranya tenang dan tegas. "Untung ada Raka. Semua ayam goreng tamu diselesaikan sama dia tepat waktu."
+"Lumayan doang?" protesku tertawa kecil seraya mencuil daging ayam yang mengepul empuk. "Itu taruhan nyawa di depan wajan, Dut."
 
-Pak Darma menatapku lama sekali. Senter di ruang TV minggu lalu tidak ada di tangannya, tapi tatapannya kali ini terasa berbeda—kumis tebalnya terangkat sedikit dalam senyum tipis yang tulus.
+"Lumayan buat anak kota yang tadinya pegang pisau kayak pegang obeng."
 
-"Kerja bagus, Raka," kata Pak Darma pendek, lalu membantu mengangkat nampan besar keluar menuju aula.
+Kami tertawa berbarengan di atas dingklik kayu reot, menandaskan nasi hangat di sudut dapur yang sarat wangi rempah dan minyak goreng.
 
-Pintu tertutup. Dapur kembali sepi.
+Malam harinya selepas isya, aku mendatangi kantor piket mengambil kartu sanksi. Pak Darma membubuhkan paraf di kolom terakhir tanpa banyak tanya. Hukuman semingguku resmi tuntas.
 
-Dari kejauhan aula, terdengar denting sendok garpu di atas piring porselen dan suara obrolan hangat para tamu yayasan yang menikmati santap siang mereka.
+Aku melangkah santai menyusuri lorong menuju Kamar 2C.
 
-Bu Lastri bangkit pelan-pelan dari duduknya. Ia melangkah ke meja penyajian, mengambil tiga piring seng, lalu menyendokkan nasi putih hangat dari dandang.
+Di dalam kamar, anak-anak sedang berkumpul melingkar di atas karpet tipis, mengunyah biskuit kaleng sambil memperdebatkan keputusan wasit pada pertandingan futsal sore tadi. Fandi duduk bersandar di dipan bawah, membaca novel lusuh dengan kaki terlipat tenang. Begitu pintu berderit dan aku melangkah masuk, obrolan mereka terhenti sejenak.
 
-Di atas piringku, Bu Lastri meletakkan dua potong paha ayam yang paling besar dan mulus, lalu menyiramnya dengan dua sendok penuh remahan kremes lengkuas yang garing.
+Galih mendongak dengan mata berbinar jail. "Nah! Ini dia juragan dapur kita! Besok pagi sarapan kita dimasakin apa, Chef? Jangan bubur polos ya!"
 
-Tidak ada kata-kata manis. Perempuan tua itu hanya meletakkan piring itu di depanku, menepuk pundakku pelan dengan tangannya yang hangat, lalu berkata singkat:
+Teman-teman lain terkekeh, bersiap menyambut alasan bohong atau cengiran salah tingkahku seperti biasa.
 
-"Makan. Nasi dingin itu nggak enak."
+Tetapi malam ini, leherku tidak panas. Tak ada secuil pun keinginan untuk bersembunyi di balik kerah baju.
 
-Duta duduk di sebelahku, menyodorkan segelas teh manis hangat menggunakan tangan kirinya. Pergelangan tangan kanannya sudah diolesi salep putih dingin. Ia melirik tumpukan ayam di piringku, lalu tersenyum—senyum yang benar-benar lepas, tanpa topeng kaku yang selama ini ia pasang.
+Kulempar handuk ke kasur, lalu menatap Galih santai sambil bersedekap. "Besok sarapan lodeh nangka. Khusus piringmu, sudah kupesan ke Bu Lastri biar dikasih lengkuas segede kepalan tinju."
 
-"Lumayan," bisik Duta.
+Gelas biskuit bergetar oleh tawa seisi kamar. Galih geleng-geleng kepala sembari melempar remahan biskuit ke kakiku. Dari atas dipan, Fandi menutup novelnya perlahan, mengangkat dagunya sekali padaku—isyarat tenang orang yang paham.
 
-"Lumayan doang?" protesku sambil tertawa kecil, menyobek daging ayam yang empuk dan mengepulkan asap. "Itu perjuangan hidup dan mati di depan wajan, Dut."
+Aku berjalan ke kamar mandi belakang asrama. Di depan bak semen dingin, kuputar kran air. Air jernih mengalir membasuh telapak dan punggung tanganku.
 
-"Lumayan buat anak kota yang tadinya megang pisau kayak megang obeng."
+Wadah sabun colek kuning masih teronggok di bibir bak. Tanganku melewatinya begitu saja. Tak ada lagi kulit yang digosok sampai merah perih. Kubiarkan air dingin membilas sela-sela jemariku dengan tenang.
 
-Kami berdua tertawa bersama di atas bangku kayu reot itu, mengunyah nasi hangat di sudut dapur yang berbau rempah dan minyak goreng.
-
-Malam harinya, selepas isya, aku melangkah ke kantor piket untuk mengambil kembali kartu sanksiku. Pak Darma menandatangani kolom terakhir tanpa bertanya apa-apa, hanya mengangguk sekali saat menyerahkan kartu itu padaku.
-
-Hukuman satu mingguku resmi selesai.
-
-Aku berjalan santai menyusuri lorong asrama menuju Kamar 2C.
-
-Di dalam kamar, suasana sedang ramai seperti biasa. Galih, Dimas, dan beberapa anak lain duduk melingkar di atas karpet tipis, sibuk mengunyah biskuit kaleng sambil memperdebatkan jalannya pertandingan futsal sore tadi. Fandi duduk bersandar di dipan bawah, membaca novel bersampul lusuh.
-
-Begitu pintu berderit terbuka dan aku melangkah masuk, obrolan mereka terhenti sejenak.
-
-Galih mendongak, matanya berbinar jail seperti semalam. "Nah! Ini dia juragan dapur kita datang! Gimana, Ka? Besok pagi sarapan kita dimasakin apa? Jangan bilang cuma bubur polos!"
-
-Anak-anak lain mulai terkekeh, bersiap menyambut cengiran panik atau alasan bohongku seperti hari-hari kemarin.
-
-Tapi malam ini, tidak ada rasa terbakar di leherku. Tidak ada keinginan untuk masuk ke dalam kerah baju sendiri.
-
-Aku melempar handuk kering ke atas kasurku, lalu menatap Galih sambil melipat tangan di dada santai.
-
-"Besok sarapan lodeh nangka," kataku enteng. "Tapi khusus piringmu, sudah kupesan ke Bu Lastri biar dikasih lengkuas segede kepalan tinju."
-
-Tawa meledak di seisi kamar. Galih geleng-geleng kepala sambil melempar bungkus biskuit kosong ke arah kakiku.
-
-Dari atas kasurnya, Fandi menutup novelnya perlahan. Ia menatapku, lalu mengangguk kecil dengan senyum tipis yang hanya dipahami kami berdua.
-
-Aku mengambil sabun dan melangkah ke kamar mandi belakang asrama.
-
-Di depan bak semen yang dingin, aku memutar keran air. Gemericik air jernih mengalir membasahi telapak dan punggung tanganku.
-
-Di tempat sabun, wadah sabun colek kuning itu masih ada di sana. Tapi tanganku tidak meraihnya. Aku tidak menggosok kulitku sampai merah perih seperti sore pertama.
-
-Kubiarkan air dingin membilas sela jemariku dengan tenang.
-
-Waktu mengangkat tangan dan mengeringkannya dengan ujung kaus, aroma samar ketumbar dan serai goreng masih tertinggal lembut di ujung jari-jariku—dan malam itu, aku tidak merasa perlu menghilangkannya sama sekali.
+Saat mengusap tangan ke ujung kaus, aroma samar ketumbar dan serai goreng masih tertinggal lembut di sela kuku—dan malam itu, aku tidak berniat menghapusnya sama sekali.
 
 ---
 
