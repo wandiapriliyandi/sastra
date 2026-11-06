@@ -228,7 +228,7 @@ Anak-anak Paskibra berbaris di belakang Fajar tanpa disuruh. Fajar membungkuk di
 
 "Ganymede yang mana, Nik? Titik paling kiri itu ya?" bisik anak Paskibra yang mengantre di belakangnya sambil menyipitkan mata.
 
-Tiga anak kelas sepuluh teman sekelas Niko ikut merapat, menahan napas bergantian menunggu giliran di depan tabung logam. Keriuhan itu menarik perhatian dari bawah. Empat murid yang baru selesai dari musala dan dua anak yang menunggu jemputan di pos satpam ikut menaiki tangga. Teras yang tadinya sepi kini dipenuhi langkah kaki dan obrolan penasaran.
+Tiga anak kelas sepuluh teman sekelas Niko ikut merapat, menahan napas bergantian menunggu giliran di depan tabung logam. Keriuhan itu menarik perhatian dari bawah. Empat murid yang baru selesai dari musala dan dua anak yang menunggu jemputan di pos satpam ikut menaiki tangga. Dari lantai tiga, empat anak kelas tujuh yang mendengar keriuhan ikut menyusul, menenteng botol minum masing-masing. Teras yang tadinya sepi kini dipenuhi langkah kaki dan obrolan penasaran.
 
 Di tengah antrean yang terus bergerak, derap sepatu pantofel terdengar menaiki anak tangga terakhir.
 
@@ -252,7 +252,7 @@ Aku menyerahkan buku tamu bertanda tangan itu.
 
 Pak Harun membuka halamannya di bawah sinar temaram lampu koridor. Jarinya menelusuri kolom nomor satu per satu.
 
-Nama Rini. Fajar. Tiga anak Paskibra. Anak-anak asrama. Bu Retno. Murid-murid kelas sepuluh yang baru naik.
+Nama Rini. Fajar. Empat anak Paskibra. Anak-anak asrama. Bu Retno. Murid-murid kelas sepuluh yang baru naik. Anak-anak kelas tujuh.
 
 Dua puluh tiga nama. Lengkap dengan kelas dan tanda tangan mereka masing-masing.
 
