@@ -1,17 +1,5 @@
 # Sandal yang Tertukar
 
-**Karya: Antigravity**
-
----
-
-> **Metadata Karya:**
-> - **Sasaran Pembaca**: Remaja umum (13–18 tahun)
-> - **Posisi Karya**: Fiksi remaja umum bertekstur kehidupan asrama (bebas label dakwah/eksklusif)
-> - **Tema**: Persahabatan, empati diam-diam, dan prasangka remaja
-> - **Format**: Cerpen mandiri (Standar Baru 3.000–4.500 kata)
-
----
-
 Sandal jepit Swallow hijau milik Fajar sebetulnya sudah lama kehilangan hakikatnya sebagai alas kaki yang terhormat. Tali penjepit sebelah kanannya pernah jebol sebulan lalu saat ia panik melompati parit depan kantin karena dikejar bel masuk kelas. Sekarang, monumen karet tipis itu hanya bertahan hidup berkat sebutir peniti karatan berukuran besar yang ditusukkan menembus sol bawah, diperkuat dengan tiga lilitan karet gelang bekas bungkus nasi uduk.
 
 Kalau dipakai berjalan di atas lantai semen koridor yang lembap sehabis hujan, bunyinya sama sekali tidak mirip sandal jepit normal. Sandal lain berbunyi *plek-plek* yang renyah; sandal Fajar menghasilkan irama ganjil: *sret-klik-sret*. Bunyi *klik* berasal dari kepala peniti yang beradu dengan semen, sementara bunyi *sret* berasal dari telapak karet bagian tumit yang sudah gundul licin sampai warnanya memutih.

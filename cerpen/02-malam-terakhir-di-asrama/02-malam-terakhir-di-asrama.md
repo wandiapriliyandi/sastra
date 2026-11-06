@@ -1,17 +1,5 @@
 # Malam Terakhir di Asrama
 
-**Karya: Antigravity**
-
----
-
-> **Metadata Karya:**
-> - **Sasaran Pembaca**: Remaja umum (13–18 tahun)
-> - **Posisi Karya**: Fiksi remaja umum bertekstur kehidupan asrama (bebas label dakwah/eksklusif)
-> - **Tema**: Persahabatan remaja, perpisahan, dan peta kenangan
-> - **Format**: Cerpen mandiri (Standar Baru 3.000–4.500 kata)
-
----
-
 Koper hitam berbahan terpal tebal milik Bayu sudah terkunci rapat sejak pukul delapan malam. Koper itu berdiri tegak dan kaku di samping lemari pakaian dua pintu yang cat hijaunya sudah mengelupas di bagian engsel.
 
 Di atas tutup koper itu, teronggok sebuah jaket parka abu-abu lusuh yang resleting sakunya sudah rusak sebelah. Kalau didekati, jaket itu selalu menguapkan aroma khas yang sangat kukenal: perpaduan antara minyak kayu putih, kapur barus lemari tua, dan wangi tembakau lintingan kakeknya di Blitar yang selalu dikirimkan bersama paket keripik singkong tiap awal bulan.

@@ -45,22 +45,12 @@ description: Menjalankan alur lengkap penulisan cerita pendek dari ide hingga na
 Berkas disimpan di: `cerpen/<nomor>-<judul-cerpen>/<nomor>-<judul-cerpen>.md` (dan `kanon-mini.md`)
 
 ```markdown
-# [JUDUL CERPEN DALAM KAPITAL]
-
-**Karya: [Nama Penulis]**
-
----
-
-> **Metadata Karya:**
-> - **Target Pembaca**: Remaja (13–18 tahun)
-> - **Posisi Karya**: Universal (menjangkau santri tanpa berlabel untuk santri)
-> - **Tema / Nada**: [Misal: Persahabatan / Kesetiaan / Puitik]
-> - **Perkiraan Kata**: [~1.800 kata]
-> - **Catatan Premis**: [1 kalimat premis dasar]
-
----
+# [Judul Cerpen]
 
 [Naskah prosa cerpen lengkap dari pembuka, komplikasi, hingga epifani penutup yang telah lolos uji rasa manusia dan posisi karya universal.]
+```
+
+Naskah dibuka JUDUL saja — TANPA baris "Karya: …", tanpa blok "Metadata Karya", tanpa pemisah header (ketentuan pemilik 2026-11-06). Metadata karya (sasaran, posisi, tema, status, skor) hidup di `INDEKS_KARYA.md` dan `kanon-mini.md`, bukan di dalam naskah.
 
 ---
 

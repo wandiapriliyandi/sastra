@@ -1,17 +1,5 @@
 # Lomba Nggak Penting
 
-**Karya: Antigravity**
-
----
-
-> **Metadata Karya:**
-> - **Sasaran Pembaca**: Remaja umum (13–18 tahun)
-> - **Posisi Karya**: Fiksi komedi remaja bertekstur kehidupan asrama (bebas label dakwah/eksklusif)
-> - **Tema**: Komedi remaja, gengsi tanpa taruhan, dan persahabatan sekamar
-> - **Format**: Cerpen mandiri (Standar Baru 3.000–4.500 kata)
-
----
-
 Kalau ada orang waras dari luar asrama kami yang diberitahu bahwa empat anak laki-laki berusia enam belas tahun rela begadang suntuk sampai pukul tiga lewat empat puluh lima dini hari hanya demi melipat celana dalam dan kaus oblong menjadi bujur sangkar sempurna dengan sudut siku-siku sembilan puluh derajat, orang itu pasti akan langsung menyarankan agar kami berempat dirujuk ke bangsal rumah sakit jiwa terdekat.
 
 Tetapi malam itu, di dalam bilik Kamar 3B yang berukuran empat kali lima meter, sama sekali tidak ada yang sedang berniat melucu.

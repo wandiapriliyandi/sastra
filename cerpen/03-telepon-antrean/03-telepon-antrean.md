@@ -1,17 +1,5 @@
 # Telepon Antrean
 
-**Karya: Antigravity**
-
----
-
-> **Metadata Karya:**
-> - **Sasaran Pembaca**: Remaja umum (13–18 tahun)
-> - **Posisi Karya**: Fiksi remaja umum bertekstur kehidupan asrama (bebas label dakwah/eksklusif)
-> - **Tema**: Kerinduan keluarga, empati, dan dinamika sosial asrama
-> - **Format**: Cerpen mandiri (Standar Baru 3.000–4.500 kata)
-
----
-
 Telepon umum di samping pos satpam asrama kami itu warnanya abu-abu kusam dengan gagang hitam tebal yang diikat kawat rem sepeda ke tiang besi agar tidak dicopot atau dibawa kabur orang iseng. Kotak logam buatan PT Telkom era awal tahun 2000-an itu menempel di dinding semen berlumut, persis di bawah kanopi seng berkarat selebar dua meter yang kalau dihantam hujan lebat bunyinya memekakkan telinga laksana rentetan senapan mesin di medan tempur.
 
 Bagi dua ratus anak laki-laki usia tiga belas sampai delapan belas tahun yang tinggal di asrama ini—tempat di mana telepon seluler berkamera dan gawai pintar diharamkan total oleh peraturan tata tertib sekolah—kotak telepon berlayar LCD kecil warna hijau itu adalah panggung sandiwara yang paling jujur.
