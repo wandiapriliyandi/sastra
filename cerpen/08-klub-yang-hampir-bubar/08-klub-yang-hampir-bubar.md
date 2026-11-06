@@ -24,7 +24,7 @@ Niko mengangguk mantap, memajukan kacamatanya yang melorot. "Biar menarik minat 
 
 "Saturnus baru terbit lewat tengah malam, Niko," potongku cepat. Di lembar paling belakang binder-ku memang terselip sobekan artikel bergambar cincin Saturnus yang kusimpan sejak kelas lima SD, tapi menaruhnya di poster mading malam ini cuma janji kosong. "Pukul delapan malam nanti posisinya masih di bawah garis cakrawala terhalang atap lab kimia. Pengamatan kita cuma sampai jam sembilan. Kamu mau kita dituduh menipu?"
 
-Niko mengerjap. Semangat di wajahnya surut, lalu ia menatap ponsel di tangan kirinya yang layarnya menyala menampilkan simulasi kubah langit berbintang dari aplikasi *Stellarium*. "Tapi... di simulasi arah azimuth-nya kelihatan bagus..."
+Niko mengerjap. Ia menunduk menatap layar ponselnya yang menyala menampilkan simulasi kubah langit berbintang dari aplikasi *Stellarium*. "Tapi... di simulasi arah azimuth-nya kelihatan bagus..."
 
 "Simulasi di HP-mu itu nggak ngitung tinggi genteng sekolah, Bocah," Damar terkekeh dari atas meja. Ia menepuk pundak Niko sampai anak itu terhuyung selangkah. "Lagian, langit sore ini baunya bau comberan mendung. Coba intip jendela."
 
@@ -140,7 +140,7 @@ Dua temannya ikut bergerak bangkit.
 
 Aku melangkah setengah jengkal ke depan, membuka mulut hendak menahan mereka, tapi gigiku justru bergemeletuk oleh angin. Kalau tiga anak itu menuruni tangga, yang lain pasti ikut beranjak. Dan begitu pintu teras tertutup di belakang mereka, angka tiga belas itu akan menyusut menjadi nol.
 
-Tiba-tiba lampu neon putih di selasar teras mati.
+Lampu neon putih di selasar teras mati.
 
 *Klik.*
 
@@ -180,7 +180,7 @@ Suasana teras hening. Tidak ada lagi keluhan soal mi ayam. Yang terdengar hanya 
 
 Aku melirik ke arah Damar. Cowok itu menatap ke atas dengan tangan di lutut.
 
-Selama ini aku menganggap Damar anggota pasif yang cuma menumpang nama. Aku kesal melihatnya mengabaikan proposal, kesal pada caranya yang santai menanggapi ancaman kesiswaan. Tapi malam ini, Damar justru melakukan hal yang tidak pernah bisa kutulis di tabel jadwal binder: membuat orang-orang mau bertahan dan percaya.
+Selama ini Damar cuma cowok yang datang terlambat dan mengayunkan kaki di pinggir meja laboratorium saat aku sibuk mengejar tanda tangan proposal. Tapi malam ini, dia menahan belasan anak di teras dingin ini tanpa sekali pun menyuruh mereka tinggal.
 
 Pukul delapan lewat lima belas menit—pukul 20.15.
 
@@ -294,7 +294,7 @@ Damar berdiri di dekat teleskop, melonggarkan klem pipa besi dengan kunci pasnya
 
 "Aku duluan ya, Ras," pamit Damar sambil menyampirkan tas kainnya ke pundak. Kunci motor bututnya berdenting di saku jaket parasut. "Baut tripodnya jangan dilepas total. Biarkan posisinya begitu biar dratnya nggak makin gompal."
 
-"Makasih, Kak Damar," kataku tulus.
+"Makasih, Kak Damar," kataku pelan.
 
 Damar menoleh di ambang tangga. Ia melambaikan tangannya pendek tanpa menoleh ke belakang lagi. "Santai. Kayak ngerawat traktor tua sawah aja, yang penting rajin disiram oli."
 
