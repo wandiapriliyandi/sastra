@@ -17,7 +17,7 @@ description: Manajemen inventaris dan koleksi karya sastra: mencatat status dan 
 ## Alur Kerja Langkah demi Langkah
 1. **Pemindaian & Audit Struktur Folder**:
    - Periksa subfolder di `novel/` apakah mematuhi konvensi: `sinopsis.md`, `bibel/`, `kerangka/`, dan `bab/`.
-   - Periksa berkas di `cerpen/` apakah berformat subfolder per judul: `cerpen/<judul>/<judul>.md`.
+   - Periksa berkas di `cerpen/` apakah berformat subfolder per judul: `cerpen/<nomor>-<judul>/<nomor>-<judul>.md` (nomor dua digit sesuai urutan buat).
 2. **Pembaruan Indeks Koleksi Karya (`INDEKS_KARYA.md`)**:
    - Catat status dan sasaran pembaca tiap karya:
      - Sasaran Pembaca: `Remaja (13–18)` (default) atau sasaran khusus yang ditentukan pemilik.

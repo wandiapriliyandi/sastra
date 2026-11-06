@@ -27,8 +27,8 @@ description: Menyusun premis, logline, tema, struktur besar (babak), dan sinopsi
 3. **Penyusunan Sinopsis Lengkap**:
    - Tulis sinopsis naratif 1–3 halaman yang menceritakan alur cerita utuh dari awal sampai akhir.
 4. **Penyimpanan Berkas**:
-   - Buat direktori karya baru: `novel/<judul-novel>/`.
-   - Simpan hasil perencanaan sebagai `novel/<judul-novel>/sinopsis.md`.
+   - Buat direktori karya baru: `novel/<nomor>-<judul-novel>/` (nomor dua digit urutan buat berikutnya).
+   - Simpan hasil perencanaan sebagai `novel/<nomor>-<judul-novel>/sinopsis.md`.
 
 ## Aturan Mutu
 - **Daya Tarik Universal**: Hindari premis yang terdengar seperti brosur dakwah atau fiksi eksklusif santri.
@@ -36,7 +36,7 @@ description: Menyusun premis, logline, tema, struktur besar (babak), dan sinopsi
 - **Ramping & Efisien**: Tuliskan poin-poin struktural secara padat agar hemat token.
 
 ## Format Keluaran
-Berkas disimpan di: `novel/<judul-novel>/sinopsis.md`
+Berkas disimpan di: `novel/<nomor>-<judul-novel>/sinopsis.md`
 
 ```markdown
 # Sinopsis & Rencana Novel: [Judul Novel]

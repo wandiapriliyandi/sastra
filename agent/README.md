@@ -43,7 +43,7 @@ Setiap karya fiksi wajib mengikuti konvensi penamaan dan penempatan berkas berik
 ### 1. Format Karya Novel
 Disimpan dalam subdirektori per judul di bawah `novel/`:
 ```
-novel/<judul-novel>/
+novel/<nomor>-<judul-novel>/
 ├── sinopsis.md                 # Premis, logline, tema, struktur babak, sasaran pembaca, dan sinopsis lengkap
 ├── bibel/                      # Folder bibel cerita (story bible)
 │   ├── tokoh.md                # Profil, watak, idiolek wicara, busur karakter
@@ -63,7 +63,7 @@ novel/<judul-novel>/
 ### 2. Format Karya Cerpen
 Disimpan dalam subdirektori per judul di bawah `cerpen/`:
 ```
-cerpen/<judul-cerpen>/
-├── <judul-cerpen>.md           # Naskah prosa cerpen utuh (metadata + draf naskah)
+cerpen/<nomor>-<judul-cerpen>/
+├── <nomor>-<judul-cerpen>.md   # Naskah prosa cerpen utuh (metadata + draf naskah)
 └── bibel-mini.md               # Catatan tokoh, latar, premis, dan tema (bila dibuat)
 ```

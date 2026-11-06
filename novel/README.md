@@ -6,10 +6,10 @@ Direktori ini diperuntukkan sebagai tempat penyimpanan dan pengerjaan proyek nov
 
 ## 📂 Konvensi Berkas Novel
 
-Setiap proyek novel disimpan dalam folder tersendiri: `novel/<judul-novel>/` dengan struktur baku:
+Setiap proyek novel disimpan dalam folder tersendiri: `novel/<nomor>-<judul-novel>/` (nomor dua digit sesuai urutan buat) dengan struktur baku:
 
 ```
-novel/<judul-novel>/
+novel/<nomor>-<judul-novel>/
 ├── sinopsis.md                 # Premis, logline, tema, struktur babak, dan sinopsis lengkap
 ├── bibel/                      # Bibel cerita per karya
 │   ├── tokoh.md                # Profil watak, want/need, idiolek dialog

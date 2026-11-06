@@ -86,13 +86,14 @@ Karya fiksi yang dihasilkan project ini **TIDAK BOLEH terasa seperti tulisan mes
 
 Semua karya fiksi harus mematuhi struktur direktori berikut:
 
-- **Novel**: `novel/<judul-novel>/`
+- **Penomoran Judul (urutan buat)**: Setiap karya diberi nomor urut dua digit sesuai urutan pembuatannya, dipakai sebagai awalan nama folder dan berkas utama — cerpen dan novel dinomori terpisah (misal `01`, `02`, ...). Nomor tidak diubah dan tidak dipakai ulang walau karya dihapus. Judul di dalam naskah tetap bersih tanpa nomor; nomor hanya untuk pengurutan berkas dan indeks.
+- **Novel**: `novel/<nomor>-<judul-novel>/`
   - `sinopsis.md` : Premis, tema, struktur babak, sasaran pembaca, dan sinopsis lengkap.
   - `bibel/`       : Bibel cerita (`tokoh.md`, `dunia.md`, `relasi.md`, `garis-waktu.md`, dll.).
   - `kerangka/`    : Kerangka per bab (`bab-01.md`, `bab-02.md`, ...).
   - `bab/`         : Naskah draf prosa per bab (`bab-01.md`, `bab-02.md`, ...).
-- **Cerpen**: `cerpen/<judul-cerpen>/`
-  - `<judul-cerpen>.md` : Naskah prosa cerpen utuh (standar panjang bawaan: **3.000–4.500 kata**).
+- **Cerpen**: `cerpen/<nomor>-<judul-cerpen>/`
+  - `<nomor>-<judul-cerpen>.md` : Naskah prosa cerpen utuh (standar panjang bawaan: **3.000–4.500 kata**).
   - `bibel-mini.md`     : Catatan tokoh, latar, premis, dan tema cerpen (bila dibuat).
 
 ---

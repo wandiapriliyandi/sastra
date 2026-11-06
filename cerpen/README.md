@@ -9,16 +9,16 @@ Direktori ini diperuntukkan sebagai tempat penyimpanan dan pengerjaan naskah cer
 Sesuai arahan terbaru, setiap karya cerpen disimpan dalam **subdirektori tersendiri per judul**:
 
 ```
-cerpen/<judul-cerpen>/
-├── <judul-cerpen>.md           # Naskah prosa cerpen utuh
+cerpen/<nomor>-<judul-cerpen>/
+├── <nomor>-<judul-cerpen>.md   # Naskah prosa cerpen utuh
 └── bibel-mini.md               # Catatan tokoh, latar, premis, dan tema (bila dibuat)
 ```
 
 Contoh struktur nyata:
-- `cerpen/sandal-yang-tertukar/sandal-yang-tertukar.md`
-- `cerpen/malam-terakhir-di-asrama/malam-terakhir-di-asrama.md`
-- `cerpen/telepon-antrean/telepon-antrean.md`
-- `cerpen/lomba-nggak-penting/lomba-nggak-penting.md`
+- `cerpen/01-sandal-yang-tertukar/01-sandal-yang-tertukar.md`
+- `cerpen/02-malam-terakhir-di-asrama/02-malam-terakhir-di-asrama.md`
+- `cerpen/03-telepon-antrean/03-telepon-antrean.md`
+- `cerpen/04-lomba-nggak-penting/04-lomba-nggak-penting.md`
 
 ---
 

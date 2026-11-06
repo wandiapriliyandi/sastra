@@ -38,7 +38,7 @@ Ruang kerja terstruktur untuk kepenulisan sastra fiksi berbahasa Indonesia di `/
 │
 └── cerpen/                            # Kumpulan & Manajemen Naskah Cerpen
     ├── README.md                      # Panduan konvensi naskah cerpen
-    └── <judul-cerpen>/                # Subfolder per judul cerpen (<judul>.md + bibel-mini.md)
+    └── <nomor>-<judul-cerpen>/        # Subfolder per judul cerpen, bernomor urut buat (<nomor>-<judul>.md + bibel-mini.md)
 ```
 
 ---
