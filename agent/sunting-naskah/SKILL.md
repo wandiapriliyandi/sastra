@@ -29,6 +29,7 @@ description: Melakukan penyuntingan naskah (novel per bab atau cerpen) mencakup 
 5. **Penerapan Perbaikan Bedah**:
    - Terapkan perbaikan langsung secara bedah ke dalam berkas naskah.
    - Sajikan laporan ringkas berisi daftar temuan utama dan solusinya.
+   - **Loop lolos ambang**: bila pindai terukur masih di atas ambang (AGENTS.md §4.7), perbaiki lalu HITUNG ULANG, ulangi sampai di bawah ambang — dilarang menutup suntingan dengan status "lolos" di atas ambang. Tabel temuan wajib menyertakan angka hitungan SEBELUM dan SESUDAH untuk tiap penanda yang dilanggar.
 
 ## Aturan Mutu
 - **Penyuntingan Bedah (Surgical Editing)**: Dilarang menulis ulang seluruh naskah dari nol bila hanya beberapa paragraf yang bermasalah. Pertahankan suara asli naskah.

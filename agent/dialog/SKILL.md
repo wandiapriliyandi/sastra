@@ -27,6 +27,7 @@ description: Menggarap percakapan sastra berbobot, membedakan sidik suara tokoh 
    - Evaluasi kelenturan percakapan: sisipkan selaan, keraguan, pengulangan kecil, dan partikel wajar Indonesia (*kok, sih, lah, dong, toh*) yang sesuai latar sosial tokoh.
    - Pastikan dialog tidak rapi dan bersih seperti naskah esai akademis; orang asli sering memotong kalimat atau berbicara tidak tuntas saat tertekan.
    - Selaraskan dengan gaya percakapan di `agent/profil-gaya.md`.
+   - Terapkan pindai terukur AGENTS.md §4.7 (hitung penanda simile & penguat, cantumkan angkanya) dan patuhi anggaran gaya di `agent/profil-gaya.md`.
 
 ## Aturan Mutu
 - **Uji Buta Penutur**: Bila nama pembicara ditutup, gaya kalimat harus tetap dapat dikenali milik tokoh tertentu.

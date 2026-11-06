@@ -18,6 +18,7 @@ description: Manajemen inventaris dan koleksi karya sastra: mencatat status dan 
 1. **Pemindaian & Audit Struktur Folder**:
    - Periksa subfolder di `novel/` apakah mematuhi konvensi: `sinopsis.md`, `bibel/`, `kerangka/`, dan `bab/`.
    - Periksa berkas di `cerpen/` apakah berformat subfolder per judul: `cerpen/<nomor>-<judul>/<nomor>-<judul>.md` (nomor dua digit sesuai urutan buat).
+   - Jaga Gerbang Nilai Rilis (AGENTS.md §4.8): status "Jadi" di indeks HANYA untuk karya dengan skor beta independen ≥ 85/100 (rasa manusia ≥ 8/10); karya di bawah ambang berstatus "Revisi (skor terakhir NN)" dan skor + tanggal penilaiannya tercatat di kolom Catatan.
 2. **Pembaruan Indeks Koleksi Karya (`INDEKS_KARYA.md`)**:
    - Catat status dan sasaran pembaca tiap karya:
      - Sasaran Pembaca: `Remaja (13–18)` (default) atau sasaran khusus yang ditentukan pemilik.

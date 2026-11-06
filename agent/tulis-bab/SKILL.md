@@ -31,6 +31,7 @@ description: Menulis draf prosa satu bab novel secara bertahap mengikuti kerangk
    - Hadirkan detail sensorik spesifik latar Nusantara (suasana asrama, aroma hujan di lapangan, derit pintu).
    - Pastikan dialog wajar dengan selaan dan partikel alami (*kok, sih, lah, dong*), tanpa terkesan kaku seperti khotbah.
    - Bersihkan metafora klise AI dan pastikan cerita tetap terbuka bagi pembaca luar pesantren.
+   - **Pindai terukur (AGENTS.md §4.7, proporsional per bab)**: hitung penanda simile & penguat sebelum menyatakan lolos — per bab: satu penanda simile yang sama ≤ 3, total penanda simile ≤ 8, "mendadak" ≤ 3, "luar biasa" ≤ 2; pemeriksa adalah agen/sesi berbeda dari penulis bab, dan angka hitungan dilaporkan. Bab dari novel yang akan dirilis juga tunduk pada Gerbang Nilai Rilis §4.8 (≥ 85/100 per bab dinilai beta independen).
 5. **Penyimpanan Berkas**:
    - Simpan naskah draf di: `novel/<judul-novel>/bab/bab-[XX].md` (contoh: `bab-01.md`).
 

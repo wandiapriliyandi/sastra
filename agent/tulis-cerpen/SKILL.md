@@ -23,6 +23,7 @@ description: Menjalankan alur lengkap penulisan cerita pendek dari ide hingga na
    - Tulis dalam aliran narasi yang padat dan hemat kata (*word economy*).
    - Batasi tokoh aktif hanya 2–3 orang.
    - Hadirkan detail sensorik yang otentik dan hidup; hindari kesalehan performatif atau deskripsi klise.
+   - **Pencegahan saat menulis (bukan menunggu pemeriksaan akhir)**: patuhi anggaran di `agent/profil-gaya.md` SEJAK draf — ±1 kiasan kuat per adegan tanpa mengulang kata penanda yang sama, kata penguat seperlunya, dan larangan menjelaskan emosi yang sudah ditunjukkan adegan. Biarkan sebagian adegan pengantar polos tanpa hiasan. Akhiri adegan/cerita pada gambar atau tindakan, bukan ringkasan makna.
 4. **Pemeriksaan Rasa Manusia (Langkah Wajib Akhir)**:
    - Pindai teks untuk mendeteksi tanda tulisan mesin: pola kalimat monoton, emosi yang dinamai terus-menerus, dan metafora klise AI.
    - **Pindai terukur (wajib, lihat AGENTS.md §4.7)**: hitung kemunculan penanda simile dan kata penguat — "laksana"/"layaknya" per kata yang sama ≤ 5, total penanda simile (`laksana`, `layaknya`, `bagai`, `seolah-olah`) ≤ 12, "mendadak" ≤ 4, "luar biasa" ≤ 3 per cerpen. Di atas ambang = revisi, bukan lolos.

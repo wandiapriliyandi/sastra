@@ -34,6 +34,7 @@ description: Mengalihformatkan karya fiksi lintas bentuk: memekarkan cerpen menj
    - Pastikan hasil adaptasi tidak terasa seperti rangkuman mekanis atau parafrase buatan mesin.
    - Evaluasi ritme kalimat, kealamian dialog, dan kehadiran detail sensorik lokal.
    - Periksa kesesuaian dengan profil gaya di `agent/profil-gaya.md`.
+   - Terapkan pindai terukur AGENTS.md §4.7 (hitung penanda simile & penguat, cantumkan angkanya) dan patuhi anggaran gaya di `agent/profil-gaya.md`.
 
 ## Aturan Mutu
 - **Keluasan Tanpa Busa (Saat Memuai)**: Menambah panjang cerita bukan berarti menjejalkan adegan basa-basi yang tak bermakna (*filler*); setiap babak baru harus memperdalam tema.

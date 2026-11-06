@@ -27,6 +27,7 @@ description: Menangkap dan menyarikan ciri khas tulisan pemilik karya dari sampe
    - Simpan hasil pemetaan ke berkas: `agent/profil-gaya.md`.
 4. **Penerapan pada Draf**:
    - Agen penulis membaca `agent/profil-gaya.md` sebelum menyusun draf agar suara tulisan konsisten dengan nada pemilik.
+   - **Pemeliharaan dari temuan**: bila pembaca beta menemukan pola kelemahan yang sama pada ≥2 karya (mis. simile berpola, emosi dijelaskan ulang), masukkan pola itu ke daftar hindari di `agent/profil-gaya.md` pada kesempatan berikutnya — profil adalah dokumen hidup, bukan arsip sekali buat.
 
 ## Aturan Mutu
 - **Autentik & Bukan AI Slop**: Hindari membuat profil yang generik. Tangkap keunikan gaya pemilik yang menyatu dengan dunia pembaca remaja.

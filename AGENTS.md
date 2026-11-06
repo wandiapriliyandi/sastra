@@ -85,6 +85,11 @@ Karya fiksi yang dihasilkan project ini **TIDAK BOLEH terasa seperti tulisan mes
    - Kepadatan hiasan juga diperiksa: bila hampir semua paragraf sama rapatnya oleh metafora/detail, poloskan sebagian adegan biasa — tulisan manusia timpang, ada bagian yang dibiarkan datar.
    - Pemeriksa wajib BUKAN penulis naskah itu sendiri (agen/sesi berbeda, kacamata pembaca) — penulis menilai karyanya sendiri terbukti meloloskan pola yang sama yang ia hasilkan (kasus 2026-11-06: empat cerpen lolos gerbang awal, tapi pembaca beta independen + hitungan menemukan simile "laksana" sampai 20× di satu cerpen, skor rasa manusia hanya 6–7).
    - Laporan pemeriksaan wajib mencantumkan ANGKA hasil hitungan, bukan hanya klaim "sudah lolos uji rasa manusia".
+   - Acuan suara wajib: `agent/profil-gaya.md` — dibaca sebelum menulis; skill `gaya-penulis` memperbaruinya bila temuan pembaca beta berulang pada ≥2 karya.
+8. **Gerbang Nilai Rilis (Wajib — Standar Pemilik 2026-11-06)**:
+   - Setiap karya wajib dinilai pembaca beta INDEPENDEN (rubrik lima aspek §4: rasa manusia, alur & pacing, tokoh, emosi & kesan, kesesuaian remaja + posisi karya) dan mencapai **total ≥ 85/100 dengan aspek rasa manusia ≥ 8/10** sebelum boleh berstatus "Jadi" di `INDEKS_KARYA.md`.
+   - Di bawah ambang: revisi terarah pada aspek terlemah → nilai ulang → ulangi sampai lolos. Status karya yang belum lolos ditulis "Revisi (skor terakhir NN)".
+   - Skor dan tanggal penilaian dicatat di `INDEKS_KARYA.md` pada kolom Catatan karya bersangkutan.
 
 ---
 

@@ -12,7 +12,10 @@ description: Mengevaluasi naskah dari sudut pandang pembaca awam pertama (first 
 ## Alur Kerja Langkah demi Langkah
 1. **Pembacaan Sekali Duduk (Simulasi Pembaca)**:
    - Baca naskah tanpa membuka kode etik teknis; rasakan alur emosi secara organik sebagai penikmat sastra biasa.
-2. **Identifikasi Titik Kritis**:
+2. **Pindai Terukur (Wajib — sebelum menilai rasa)**:
+   - Hitung penanda pola mesin pada naskah: penanda simile per kata (`laksana`, `layaknya`, `bagai`, `seolah-olah`) dan kata penguat (`mendadak`, `luar biasa`) — bandingkan dengan ambang AGENTS.md §4.7. Cantumkan angkanya di laporan; pelanggaran ambang otomatis menahan skor aspek rasa manusia maksimal 7/10.
+   - Nilai total mengikuti Gerbang Nilai Rilis AGENTS.md §4.8: karya layak rilis bila total ≥ 85/100 dan rasa manusia ≥ 8/10; di bawah itu sebut statusnya "belum lolos" beserta aspek penariknya.
+3. **Identifikasi Titik Kritis**:
    - **Keterpikatitasan (Engagement)**: Di mana awal mula pembaca merasa benar-benar terhanyut?
    - **Zona Lambat (Slog / Pacing Drop)**: Di paragraf atau adegan mana perhatian pembaca mulai melayang atau ingin melompat (*skim*)?
    - **Titik Kebingungan**: Apakah ada motivasi tindakan tokoh yang terasa tiba-tiba atau tidak masuk akal?

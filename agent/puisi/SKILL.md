@@ -26,6 +26,7 @@ description: Menggarap karya puisi bermutu sastra tinggi: pengayaan diksi puitik
    - Basmi metafora klise bawaan AI (*jiwa yang terkoyak, embun menyapa, bintang menari*).
    - Jangan menceramahi pembaca dengan pesan moral klise; hadirkan kejujuran rasa.
    - Selaraskan dengan preferensi di `agent/profil-gaya.md`.
+   - Terapkan pindai terukur AGENTS.md §4.7 (hitung penanda simile & penguat, cantumkan angkanya) dan patuhi anggaran gaya di `agent/profil-gaya.md`.
 5. **Revisi Bedah per Larik**:
    - Uji tutur dengan membaca nyaring untuk merasakan ketukan ritme di lidah.
 

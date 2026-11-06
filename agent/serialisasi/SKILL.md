@@ -27,6 +27,7 @@ description: Menulis karya fiksi bersambung (serial) per episode untuk platform 
    - Periksa ritme kalimat dan dialog agar terdengar seperti percakapan riil anak muda yang hidup, bukan teks terjemahan mesin.
    - Hindari klise bawaan AI dan pastikan konten pantas untuk usia 13–18 tahun.
    - Periksa keselarasan dengan `agent/profil-gaya.md`.
+   - Terapkan pindai terukur AGENTS.md §4.7 (hitung penanda simile & penguat, cantumkan angkanya) dan patuhi anggaran gaya di `agent/profil-gaya.md`.
 6. **Penyimpanan Berkas**:
    - Jika bagian dari novel, simpan di: `novel/<judul-novel>/bab/bab-[XX].md`.
 
