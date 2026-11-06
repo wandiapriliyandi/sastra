@@ -34,7 +34,7 @@ Ujung jemariku menekan tepi sampul mika binder hingga plastiknya melengkung kaku
 
 Kalau malam ini gagal, ruang ini selesai. Papan nama kayu bertuliskan *Klub Astronomi Andromeda* yang dipasang angkatan empat tahun lalu akan dicopot penjaga sekolah. Rak buku modul usang, poster tata surya terbitan 2006 yang pinggirannya melengkung kuning, dan bola dunia langit dari plastik tipis ini bakal dimasukkan ke karung goni.
 
-*Kalau tahun depan nggak ada murid baru, serahin kuncinya ke Pak Harun ya, Ras. Nggak apa-apa kok, wajar.* Kata "nggak apa-apa" dari ketua lama setahun lalu itu masih terngiang di telingaku seperti vonis bahwa aku memang ditakdirkan gagal. Dan namaku, Larasati, akan tercatat di buku tahunan sekolah sebagai ketua yang mengubur klub ini selamanya.
+*Kalau tahun depan nggak ada murid baru, serahin kuncinya ke Pak Harun ya, Ras. Nggak apa-apa kok, wajar.* Kata "nggak apa-apa" dari ketua lama setahun lalu itu masih menancap di dadaku. Dan namaku, Larasati, tidak boleh tercatat di buku tahunan sekolah sebagai ketua yang mengubur klub ini selamanya.
 
 ***
 
@@ -58,7 +58,7 @@ Damar tidak mendebat. Ia menerima potongan karet ban dalam dari Niko, melilitkan
 
 "Coba goyang," perintah Damar.
 
-Aku mengulurkan tangan ragu-ragu, mendorong tabung biru dongker itu ke samping. Tabung itu bergeming. Goyangan longgar yang biasanya limbung kini tertahan oleh bantalan karet.
+Aku mengulurkan tangan, mendorong tabung biru dongker itu ke samping. Tabung itu bergeming. Goyangan longgar yang biasanya limbung kini tertahan oleh bantalan karet.
 
 "Kuat," bisikku.
 
@@ -108,7 +108,7 @@ Kotak di samping poin ketiga masih kosong melompong. Bersih tanpa warna.
 
 "Tapi kalau mereka keburu pulang naik angkot, kita kehilangan delapan orang, Kak!" nada bicara Niko meninggi. Matanya melebar di balik kacamata tebalnya. "Tadi di grup kelas sepuluh pada nanyain, beneran jadi atau nggak. Anak-anak OSIS juga pada ngetawain di kolom komentar statusku, dibilang ekskul pengkhayal nunggu bintang jatuh di musim hujan!"
 
-Darahku berdesir naik ke pelipis. "Aku bilang tunggu ya tunggu, Niko! Kita butuh dua puluh orang yang bertahan sampai jam sembilan, bukan orang yang naik semenit terus kabur sambil ngeledek alat kita rongsokan!"
+Rahangku mengeras. "Aku bilang tunggu ya tunggu, Niko! Kita butuh dua puluh orang yang bertahan sampai jam sembilan, bukan orang yang naik semenit terus kabur sambil ngeledek alat kita rongsokan!"
 
 Niko terdiam. Bibirnya terkatup rapat, dan ia menundukkan kepala memandangi ujung sepatunya. Suasana di teras langsung hening, hanya menyisakan desau angin malam yang menggesek daun-daun pucuk mahoni di bawah.
 
@@ -182,7 +182,7 @@ Aku melirik ke arah Damar. Cowok itu menatap ke atas dengan tangan di lutut.
 
 Selama ini Damar cuma cowok yang datang terlambat dan mengayunkan kaki di pinggir meja laboratorium saat aku sibuk mengejar tanda tangan proposal. Tapi malam ini, dia menahan belasan anak di teras dingin ini tanpa sekali pun menyuruh mereka tinggal.
 
-Pukul delapan lewat lima belas menit—pukul 20.15.
+Pukul delapan lewat lima belas menit—pukul 20.15 di layar ponsel Niko.
 
 "Kak..." bisikan Niko memecah keheningan.
 
@@ -212,7 +212,7 @@ Pemandangan itu bukan simulasi grafis di ponsel Niko. Cahaya nyata yang menempuh
 
 "Bu Retno dulu," kataku, melangkah mundur selangkah memberi ruang. "Silakan, Bu. Tempelkan mata pelan-pelan, jangan pegang tabung birunya."
 
-Bu Retno mendekat ragu-ragu. Guru piket itu membungkuk sedikit, memicingkan mata kirinya dan menatap ke dalam lubang okuler.
+Bu Retno mendekat. Guru piket itu membungkuk sedikit, memicingkan mata kirinya dan menatap ke dalam lubang okuler.
 
 Satu detik. Tiga detik.
 
@@ -238,7 +238,7 @@ Wakil Kepala Sekolah Bidang Kesiswaan itu mengenakan kemeja batik lengan panjang
 
 "Ada apa ini ramai-ramai?" suara berat Pak Harun memecah dengung obrolan.
 
-Aku melirik Damar. Cowok itu hanya mengedipkan satu matanya sambil tetap menahan klem pipa di tripod.
+Aku melirik Damar. Cowok itu hanya mengedipkan sebelah mata sambil tetap menahan klem pipa di tripod.
 
 Aku mengambil buku binder dan buku tamu bersampul batik dari atas meja selasar, lalu melangkah menghampiri Pak Harun.
 
