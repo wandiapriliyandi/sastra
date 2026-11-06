@@ -250,7 +250,7 @@ Pak Harun menatapku lurus-lurus di balik kacamatanya, lalu melayangkan pandangan
 
 Aku menyerahkan buku tamu bertanda tangan itu.
 
-Pak Harun membuka halamannya di bawah sinar temaram lampu koridor. Jarinya menelusuri kolom nomor satu persatu.
+Pak Harun membuka halamannya di bawah sinar temaram lampu koridor. Jarinya menelusuri kolom nomor satu per satu.
 
 Nama Rini. Fajar. Tiga anak Paskibra. Anak-anak asrama. Bu Retno. Murid-murid kelas sepuluh yang baru naik.
 
