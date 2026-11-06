@@ -24,17 +24,17 @@ Tidak ada hadiah uang pembinaan sepeser pun. Tidak ada jatah penambahan lauk aya
 
 Namun, bagi Bagas—ketua kamar kami yang memiliki tingkat kegilaan terhadap simetri dan keteraturan setara jenderal bintang empat korps marinir—kehilangan piala rongsokan itu ke tangan anak-anak Kamar 3A untuk keempat kalinya berturut-turut adalah sebuah aib sejarah yang tidak akan pernah bisa dimaafkan oleh leluhurnya.
 
-"Dengarkan aku baik-baik, prajurit," bisik Bagas dengan suara ditekan rendah namun sarat aura mengancam. Di tangan kanannya, ia menggenggam sebuah penggaris besi baja berukuran tiga puluh sentimeter yang ia acung-acungkan ke udara layaknya tongkat komando pasukan khusus. "Tiga bulan berturut-turut Rendy dan kroni-kroninya di Kamar 3A memasang piala tenis meja buntung itu di pintu kamar mereka. Dan setiap kali aku lewat di depan kamar mereka mau mengambil air wudhu ke lorong toilet, si Rendy sengaja pura-pura mengelap piala itu pakai dasi sekolahnya sambil tersenyum sinis meremehkan kita semua! Besok pagi, piala rongsok itu harus pindah ke atas meja Kamar 3B, apa pun harganya!"
+"Dengarkan aku baik-baik, prajurit," bisik Bagas dengan suara ditekan rendah namun sarat aura mengancam. Di tangan kanannya, ia menggenggam sebuah penggaris besi baja berukuran tiga puluh sentimeter yang ia acung-acungkan ke udara dengan gaya seorang jenderal memamerkan tongkat komandonya. "Tiga bulan berturut-turut Rendy dan kroni-kroninya di Kamar 3A memasang piala tenis meja buntung itu di pintu kamar mereka. Dan setiap kali aku lewat di depan kamar mereka mau mengambil air wudhu ke lorong toilet, si Rendy sengaja pura-pura mengelap piala itu pakai dasi sekolahnya sambil tersenyum sinis meremehkan kita semua! Besok pagi, piala rongsok itu harus pindah ke atas meja Kamar 3B, apa pun harganya!"
 
 Aku, Oki, dan Dimas serentak menelan ludah tegang.
 
-"Misi kita malam ini diberi sandi: Operasi Presisi Lipat," lanjut Bagas sambil menggelar sebuah kardus bekas mi instan rasa kari ayam yang sudah dipotong rapi menjadi lempengan persegi panjang berukuran 25x35 sentimeter. "Semua pakaian seragam, kaus oblong harian, sampai kaus partai oblong hadiah kampanye pemilu milik Dimas, wajib dilipat menggunakan mal cetakan kardus ini. Nggak boleh ada lipatan yang miring setengah milimeter pun dari garis potong kardus. Semua garis tepi tumpukan baju harus lurus vertikal sejajar laksana barisan pasukan upacara istana negara!"
+"Misi kita malam ini diberi sandi: Operasi Presisi Lipat," lanjut Bagas sambil menggelar sebuah kardus bekas mi instan rasa kari ayam yang sudah dipotong rapi menjadi lempengan persegi panjang berukuran 25x35 sentimeter. "Semua pakaian seragam, kaus oblong harian, sampai kaus partai oblong hadiah kampanye pemilu milik Dimas, wajib dilipat menggunakan mal cetakan kardus ini. Nggak boleh ada lipatan yang miring setengah milimeter pun dari garis potong kardus. Semua garis tepi tumpukan baju harus lurus vertikal sejajar, tidak kalah rapi dari barisan pasukan upacara istana negara!"
 
 Oki, yang di kamar kami dijuluki *Si Tangan Setrika* karena kemampuannya menyetrika pakaian seragam hingga kelimannya tajam sanggup mengiris tahu mentah, langsung mengambil posisi di depan papan setrika lipat. Tangannya dengan gerakan lincah dan mekanis membentangkan sehelai kaus putih polos di atas papan, meletakkan mal kardus presisi di tengah punggung kaus, lalu melipat lengan kiri dan kanan dengan irama ketukan yang ritmis:
 
 *Srekk. Plak. Srekk.*
 
-Begitu kardus ditarik keluar dari lipatan, hasilnya sungguh luar biasa mengerikan: tumpukan kaus oblong itu tingginya persis sama rata, permukaannya rata laksana marmer meja biliar, tanpa ada kerutan sehelai benang pun yang tampak di bagian tepi.
+Begitu kardus ditarik keluar dari lipatan, hasilnya sungguh luar biasa mengerikan: tumpukan kaus oblong itu tingginya persis sama rata, permukaannya rata dan padat, tepi-tepinya tajam, tanpa ada kerutan sehelai benang pun yang tampak.
 
 "Sempurna," puji Bagas sambil menempelkan penggaris besinya ke sisi samping tumpukan kaus. Matanya menyipit memeriksa celah udara. "Sekarang susun berdasarkan palet warna monokromatis: putih bersih di tumpukan paling atas, abu-abu muda di tengah, abu-abu tua di bawahnya, dan hitam legam di paling dasar. Jangan sampai ada warna merah menyala yang merusak keanggunan gradasi warna kita!"
 
@@ -72,11 +72,11 @@ Tepat pukul satu lewat dua puluh menit dini hari, pintu kamar kami mendadak dike
 
 Aku buru-buru memutar gerendel pintu dan membuka daun pintu sedikit.
 
-Dimas menyelinap masuk ke dalam kamar laksana agen spionase klandestin yang baru saja berhasil meloloskan diri dari kepungan anjing pelacak perbatasan. Kaus hitamnya basah kuyup oleh keringat dingin, dan napasnya memburu terputus-putus.
+Dimas menyelinap masuk ke dalam kamar dengan langkah berjingkat dan punggung membungkuk, gaya agen spionase yang baru lolos dari kepungan anjing pelacak perbatasan. Bedanya, agen yang ini kaus hitamnya basah kuyup oleh keringat dingin, dan napasnya memburu terputus-putus.
 
 Dimas adalah perwira intelijen kami malam ini. Tugas khususnya: menyusup mengendap-endap di sepanjang koridor luar untuk memata-matai persiapan dan isi lemari Kamar 3A—musuh bebuyutan kami yang kamarnya hanya berjarak empat pintu dari kamar kami.
 
-"Gimana laporannya, Agen Dimas?" tanya Bagas dengan wajah menegang kaku, penggaris besinya kembali terangkat layaknya pedang anggar. "Berapa tinggi tumpukan baju Kamar 3A?"
+"Gimana laporannya, Agen Dimas?" tanya Bagas dengan wajah menegang kaku, penggaris besinya kembali terangkat tinggi-tinggi. "Berapa tinggi tumpukan baju Kamar 3A?"
 
 Dimas menyambar botol air mineral di atas meja, menenggak air dinginnya sampai tersedak separuh sebelum mampu bersuara. "Gawat darurat, Gas... Pasukan 3A punya senjata pemusnah massal..."
 
@@ -86,7 +86,7 @@ Dimas menyambar botol air mineral di atas meja, menenggak air dinginnya sampai t
 
 "Gantungan baju kayu pernis?!" Bagas terhuyung mundur selangkah, tangannya mencengkeram tepi ranjang tingkat.
 
-"Bukan cuma itu yang bikin ngeri," lanjut Dimas dengan mata membelalak lebar. "Di setiap sudut petak rak lemari mereka, si Rendy menaruh kantong kain sutra kecil warna ungu yang diisi bunga lavender kering asli, plus kapur barus wangi impor aroma apel hijau segar! Pas pintunya dibuka sedikit saja, semerbak wanginya kayak lobi hotel bintang lima di Jalan Malioboro! Lemari kita... lemari kita baunya cuma campuran minyak kayu putih, balsem otot Danang, sama kapur barus kiloan pasar malam!"
+"Bukan cuma itu yang bikin ngeri," lanjut Dimas dengan mata membelalak lebar. "Di setiap sudut petak rak lemari mereka, si Rendy menaruh kantong kain sutra kecil warna ungu yang diisi bunga lavender kering asli, plus kapur barus wangi impor aroma apel hijau segar! Pas pintunya dibuka sedikit saja, semerbak wanginya kayak lobi hotel bintang lima di Jalan Malioboro! Lemari kita... lemari kita baunya cuma campuran minyak kayu putih, balsem otot Oki, sama kapur barus kiloan pasar malam!"
 
 Kepanikan massal seketika meledak di dalam Kamar 3B laksana gudang amunisi yang tersambar petir. Seluruh kebanggaan kami atas presisi lipatan kardus mi instan dan teknik gosok pantat panci mendadak terasa hampa dan tidak ada artinya di hadapan kemewahan gantungan kayu pernis dan semerbak aroma apel hijau impor Kamar 3A.
 
@@ -94,7 +94,7 @@ Kepanikan massal seketika meledak di dalam Kamar 3B laksana gudang amunisi yang 
 
 "Kita punya parfum apa saja di kamar ini?!" teriak Oki panik sambil menggeledah laci-laci meja belajar.
 
-Kami berempat serentak membongkar seluruh isi kamar laksana polisi menggeledah sarang penjahat. Seluruh tas ransel, laci meja, kolong dipan, dan saku jaket kami obrak-abrik. Hasil tangkapannya sungguh sangat memalukan:
+Kami berempat serentak membongkar seluruh isi kamar habis-habisan, tanpa menyisakan satu sudut pun. Seluruh tas ransel, laci meja, kolong dipan, dan saku jaket kami obrak-abrik. Hasil tangkapannya sungguh sangat memalukan:
 
 Satu botol kecil minyak wangi melati seribuan milik Dimas yang baunya lebih mirip dupa pemakaman malam selasa kliwon; satu botol semprotan losion anti-nyamuk aroma jeruk nipis yang sudah kedaluwarsa sejak tiga bulan lalu; dan sebotol kaca tebal berisi minyak rambut pomade rasa vanila karamel milik Bagas yang isinya tinggal seperempat botol.
 
@@ -116,11 +116,11 @@ Tutup botolnya terlempar lepas. Dan cairan minyak rambut pomade yang kental, len
 
 Hening.
 
-Keheningan yang seketika tercipta di dalam Kamar 3B malam itu begitu pekat dan mencekam hingga suara detik jarum jam dinding terdengar laksana detak bom waktu yang siap meledakkan seisi gedung.
+Keheningan yang seketika tercipta di dalam Kamar 3B malam itu begitu pekat dan mencekam hingga suara detik jarum jam dinding terdengar begitu jelas — tik... tik... tik... — rasanya seperti hitung mundur bom waktu yang siap meledakkan seisi gedung.
 
-Mata Bagas melotot keluar hingga urat-urat merah di bola matanya tampak jelas. Rahangnya menganga lebar laksana engsel pintu rusak. Penggaris besi di tangannya terlepas dan jatuh membentur lantai semen dengan bunyi dentang yang mengerikan: *pranggg!*
+Mata Bagas melotot keluar hingga urat-urat merah di bola matanya tampak jelas. Rahangnya menganga lebar, terlalu lebar, sampai aku sempat khawatir engselnya copot. Penggaris besi di tangannya terlepas dan jatuh membentur lantai semen dengan bunyi dentang yang mengerikan: *pranggg!*
 
-Oki mematung di tempatnya berdiri dengan kedua tangan masih terangkat di udara laksana orang yang sedang ditodong pistol perampok. Seluruh darah di wajahnya mendadak surut, membuatnya pucat pasi laksana mayat yang baru bangkit dari liang lahat.
+Oki mematung di tempatnya berdiri dengan kedua tangan masih terangkat di udara, tidak berani menurunkannya, persis orang yang sedang ditodong pistol perampok. Seluruh darah di wajahnya mendadak surut, membuatnya pucat pasi laksana mayat yang baru bangkit dari liang lahat.
 
 "Oki..." bisik Bagas. Suaranya begitu dingin, begitu pelan, dan begitu sarat akan hawa pembunuhan hingga bulu kudukku di sekujur tubuh meremang berdiri. "Kamu baru saja... menumpahkan minyak pomade kuning... di atas handuk putih inspeksi kita?"
 
@@ -134,7 +134,7 @@ Aku melirik jam tangan digital hitamku dengan tangan gemetar. "Jam dua lewat emp
 
 "Tunggu dulu! Jangan panik dulu!" seru Dimas mendadak memecah ratapan putus asa Bagas.
 
-Kami semua serentak menoleh ke arah Dimas yang sedang berlutut memeriksa handuk putih bernoda tersebut dengan wajah serius layaknya dokter forensik di tempat kejadian perkara.
+Kami semua serentak menoleh ke arah Dimas yang sedang berlutut memeriksa handuk putih bernoda tersebut dengan wajah seserius dokter forensik di tempat kejadian perkara.
 
 "Handuk ini handuk tebal jenis katun hotel kan?" tanya Dimas cepat.
 
@@ -144,7 +144,7 @@ Kami semua serentak menoleh ke arah Dimas yang sedang berlutut memeriksa handuk 
 
 "Tapi baunya gimana, jenius?!" semprot Bagas frustrasi. "Bau vanila karamel ini pekat banget kayak adonan martabak manis gagal yang gosong di pinggir jalan! Pak Ridwan bakal tahu kalau ada yang nggak beres di tumpukan handuk itu!"
 
-Aku menatap botol pomade yang masih tergeletak di meja, lalu pandanganku beralih ke ransel sekolahku yang tersampir di sandaran kursi. Sebuah kilatan ide gila mendadak menyengat kepalaku laksana sambaran petir.
+Aku menatap botol pomade yang masih tergeletak di meja, lalu pandanganku beralih ke ransel sekolahku yang tersampir di sandaran kursi. Sebuah ide gila mendadak menyengat kepalaku — terang, jelas, dan agak berbahaya.
 
 "Bedak bayi!" seruku lantang.
 
@@ -174,7 +174,7 @@ Kami berempat serentak tumbang bergelimpangan di atas lantai semen kamar yang di
 
 Pukul tujuh pagi teng, bel inspeksi kamar berdentang nyaring tiga kali.
 
-Seluruh penghuni lorong lantai tiga berdiri tegak dan kaku di depan pintu kamar masing-masing laksana serdadu kompi zeni yang sedang menunggu inspeksi jenderal panglima tertinggi. Di seberang koridor semen, Rendy berdiri dengan kemeja seragam yang luar biasa licin, melemparkan pandangan meremehkan sambil tersenyum sinis ke arah Bagas. Bagas hanya membalas tatapan itu dengan dagu terangkat tinggi dan sorot mata elang yang penuh rasa percaya diri.
+Seluruh penghuni lorong lantai tiga berdiri tegak dan kaku di depan pintu kamar masing-masing, tangan rapat di samping celana dan dagu terangkat, gaya serdadu kompi zeni menunggu inspeksi jenderal panglima tertinggi. Di seberang koridor semen, Rendy berdiri dengan kemeja seragam yang luar biasa licin, melemparkan pandangan meremehkan sambil tersenyum sinis ke arah Bagas. Bagas hanya membalas tatapan itu dengan dagu terangkat tinggi dan sorot mata elang yang penuh rasa percaya diri.
 
 Langkah kaki yang berat dan berirama tegas terdengar menaiki tangga koridor.
 
@@ -188,7 +188,7 @@ Rendy berdiri di belakang punggung Pak Ridwan dengan senyum lebar penuh kemenang
 
 Dua menit kemudian, Pak Ridwan melangkah keluar dari Kamar 3A. Matanya yang tajam di balik kacamata tebal menoleh lurus ke arah pintu kami: Kamar 3B.
 
-Jantung kami berempat serentak berdegup kencang laksana genderang perang suku liar.
+Jantung kami berempat serentak berdegup kencang — dug, dug, dug — sampai aku yakin Pak Ridwan pun bisa mendengarnya dari tempatnya berdiri.
 
 "Selamat pagi, anak-anak," sapa Pak Ridwan datar tanpa senyum.
 
@@ -204,7 +204,7 @@ Tangan kanannya yang berurat kokoh memegang pegangan pintu lemari, lalu menarikn
 
 Pintu lemari terbuka lebar.
 
-Dan pada detik itu juga, aroma lembut bedak bayi chamomile yang bersih, tenang, dan segar seketika menguar keluar laksana kabut fajar di pegunungan. Pak Ridwan mendadak terhenti mematung di tempatnya berdiri. Hidungnya yang tajam bergerak-gerak kecil mengendus aroma yang asing namun luar biasa menenangkan tersebut.
+Dan pada detik itu juga, aroma lembut bedak bayi chamomile yang bersih, tenang, dan segar seketika menguar keluar dan menyelimuti ambang pintu. Pak Ridwan mendadak terhenti mematung di tempatnya berdiri. Hidungnya yang tajam bergerak-gerak kecil mengendus aroma yang asing namun luar biasa menenangkan tersebut.
 
 Matanya yang awas mulai memindai setiap petak rak dari atas ke bawah.
 
@@ -250,7 +250,7 @@ Bagas dan Rendy serentak maju setengah langkah ke depan, dada mereka membusung t
 
 Hening total.
 
-Suasana aula yang dipenuhi dua ratus anak laki-laki itu mendadak sunyi senyap laksana kuburan kuno di tengah hutan.
+Suasana aula yang dipenuhi dua ratus anak laki-laki itu mendadak sunyi senyap. Dua ratus anak, dan tidak satu pun berani batuk.
 
 Bagas mematung kaku seperti patung semen taman kota. Rendy melongo lebar dengan mulut terbuka hampir menyentuh dada. Aku, Oki, dan Dimas saling pandang dengan mata terbelalak lebar tak percaya.
 
