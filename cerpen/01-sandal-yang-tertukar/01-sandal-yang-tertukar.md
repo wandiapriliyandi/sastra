@@ -72,7 +72,7 @@ Namun ketika lipatan itu dibuka, Fajar mendapati robekan kertas buku Fisikanya s
 >
 > *Kertasmu sudah kubaca. Maaf kalau lancang dan bikin kamu susah. Besok malam kupinjam lagi jam delapan, jam sepuluh malam sudah pasti kukembalikan ke rak ini dalam keadaan bersih. — M*
 
-Fajar tertegun lama sekali di lorong asrama yang masih lengang. Bunyi gemericik air dari kran wudhu di kejauhan terdengar jelas membelah sunyi. Kemarahan yang sempat mendidih di dadanya sejak kemarin sore mendadak lenyap tanpa bekas, berganti dengan rasa asing yang mengganjal di tenggorokannya.
+Fajar tertegun lama sekali di lorong asrama yang masih lengang. Bunyi gemericik air dari kran wudhu di kejauhan terdengar jelas membelah sunyi. Jemari Fajar yang tadi mengepal erat di sekeliling kertas itu perlahan mengendur. Ia menelan ludah sekali, dan tenggorokannya terasa seret.
 
 "Siapa 'M'?" bisik Danang yang mendadak muncul di sampingnya dengan sarung yang masih melilit pundak, matanya merah sehabis bangun tidur.
 
@@ -104,7 +104,7 @@ Danang melirik sebentar, lalu mengunyah kerupuknya. "Iya, Miko anak kamar 4B. Ke
 
 "Oh, itu. Waktu hari Selasa minggu lalu kan hujan badai, got depan asrama meluap sampai ke jalan paving. Si Miko disuruh anak-anak senior kamar 4B buat beli gorengan di warung seberang parit. Pas mau lompat, sandalnya putus, dia kejungkal ke dasar parit yang banyak beling botol sirup pecah. Kakinya robek dalam banget. Sempat demam dua hari katanya di kamar, tapi nggak ada yang nengok selain petugas PMR."
 
-Fajar menelan ludah dengan susah payah. Nasi pecel di mulutnya mendadak terasa hambar laksana mengunyah kertas basah. Ia teringat kembali kata-kata dalam robekan kertas subuh tadi: *Sandalmu empuk sekali karena karetnya sudah tipis...*
+Fajar menelan ludah dengan susah payah. Nasi pecel di mulutnya mendadak terasa hambar, lengket, dan berat untuk ditelan. Ia teringat kembali kata-kata dalam robekan kertas subuh tadi: *Sandalmu empuk sekali karena karetnya sudah tipis...*
 
 "Kenapa dia nggak pinjam sandal teman sekamarnya saja sih?" tanya Fajar lagi.
 
@@ -112,7 +112,7 @@ Danang mendengus pelan, suaranya dipelankan: "Kamar 4B itu isinya anak-anak seni
 
 Fajar terdiam lama sekali. Matanya terus menatap Miko yang kini bangkit berdiri dengan susah payah. Anak itu menaruh piring kotornya di baskom cuci, lalu melangkah tertatih-tatih menuju koridor kelas. Langkahnya pincang, bertumpu sepenuhnya pada tumit kanan agar jempol kirinya yang luka tidak tertekan sol sandal karet yang keras.
 
-Sore harinya, sehabis salat asar, Fajar melihat pemandangan lain yang semakin mengunci rasa bersalah di dadanya.
+Sore harinya, sehabis salat asar, Fajar melihat pemandangan lain.
 
 Di sumur belakang asrama—sebuah area terbuka berlantai semen lumutan tempat anak-anak biasa mencuci baju dan menimba air—Miko sedang berjongkok sendirian di depan seember cucian pakaian seragam. Hari sudah mulai temaram, dan angin sore pegunungan mulai berhembus dingin. Anak itu mengucek pakaiannya dengan tangan yang merah kedinginan, sementara kedua kakinya telanjang di atas lantai semen yang licin.
 
@@ -140,7 +140,7 @@ Tinggallah Fajar dan Miko berdua di pelataran sumur yang dingin. Air sabun menga
 
 "Makasih ya," bisik Miko pelan sekali, tangannya menarik ujung kaus seragamnya yang basah. Ia bahkan tidak berani mengangkat wajahnya untuk menatap Fajar.
 
-Fajar tidak menjawab sepatah kata pun. Ia hanya memandangi kaki Miko yang pucat, lalu mengangguk singkat sebelum berbalik menuju kamarnya dengan hati yang bergemuruh aneh.
+Fajar tidak menjawab sepatah kata pun. Ia hanya memandangi kaki Miko yang pucat, lalu mengangguk singkat sebelum berbalik menuju kamarnya tanpa menoleh lagi.
 
 Malam itu, sehabis salat isya berjamaah, Fajar kembali duduk di meja belajar kamarnya. Di atas sobekan kertas Fisika yang baru, ia menulis surat balasan kedua dengan pulpen birunya:
 
@@ -160,7 +160,7 @@ Fajar membayangkan dirinya sendiri setahun lalu, ketika pertama kali diantar Mas
 
 Saat itu ia baru berusia empat belas tahun. Hari pertama ditinggal sendirian, ia menangis sesenggukan di balik selimut lorengnya sampai matanya bengkak karena merasa terbuang dari rumah. Masakan dapur asrama terasa seperti gumpalan garam dan minyak hambar di lidahnya, dan ia terlalu ciut untuk sekadar bertanya kepada anak-anak senior di mana letak tali jemuran yang tidak bocor terkena tetesan air genting.
 
-Rasa takut, rasa asing, dan rasa malu karena miskin—Fajar hapal betul bagaimana rasanya semua racun itu mengendap di dada seorang anak laki-laki.
+Rasa takut, rasa asing, dan malu karena miskin itu masih hapal betul di badannya sendiri.
 
 Tanpa bicara sepatah kata pun pada Danang yang masih asyik menyisir rambut di depan cermin lemari, Fajar bangkit berdiri. Ia melangkah ke sudut kamar tempat lemari pakaiannya berada.
 
@@ -228,7 +228,7 @@ Di atas sol sandal biru yang bersih itu, Fajar meletakkan selembar kertas robeka
 >
 > *— Fajar (Kamar 2A)*
 
-Setelah memastikan kertas itu tertindih batu dengan aman dan tidak akan terbang tertiup angin sore, Fajar melangkah pergi dengan hati yang terasa lapang luar biasa.
+Setelah memastikan kertas itu tertindih batu dengan aman dan tidak akan terbang tertiup angin sore, Fajar melangkah pergi. Langkahnya terasa lebih ringan daripada ketika ia datang.
 
 Malam itu, jam belajar malam di aula terasa berjalan sangat cepat. Fajar tidak lagi merasa cemas atau penasaran. Ia mengerjakan soal-soal latihan Matematika dengan tenang, mendengarkan desau angin malam yang menggoyang dahan pohon mahoni di luar jendela.
 
@@ -256,4 +256,4 @@ Ia memasang sandal hijau bututnya ke kedua kakinya.
 
 Ketika ia melangkah menyusuri koridor semen menuju aula makan pagi bersama Danang, sandal itu masih mengeluarkan bunyi khasnya yang ganjil: *sret-klik-sret, sret-klik-sret*.
 
-Namun pagi itu, bunyi peniti karatan dan karet gelang tersebut terdengar laksana denting musik paling merdu dan paling membahagiakan yang pernah menggema di sepanjang lorong asrama.
+Bunyinya tetap jelek, tetap berisik seperti kemarin. Tapi pagi itu, untuk pertama kalinya, Fajar membiarkannya berbunyi sepanjang koridor tanpa satu pun gerutuan.
