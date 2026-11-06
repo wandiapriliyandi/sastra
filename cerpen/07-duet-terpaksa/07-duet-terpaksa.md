@@ -2,9 +2,9 @@
 
 Ember plastik abu-abu di bawah pendingin ruangan meneteskan air setiap empat detik. Bunyi *tik* yang jatuh ke genangan dangkal itu memotong jeda bicara Bu Ratna, teratur menyaingi detik jam dinding.
 
-Galih melirik arlojinya. Pukul empat kurang sepuluh menit. Buku notasi bersampul hitam di atas pangkuannya masih terbuka pada halaman kosong, belum tergores pensil 2B yang ia jepit di antara telunjuk dan jari tengah. Ujung jempol kirinya berulang kali menekan sisi fretboard gitar di dalam tas kain, menghitung ketukan di kepala tanpa suara. Satu, dua, tiga, empat.
+Galih melirik arlojinya. Pukul empat kurang sepuluh menit. Buku notasi bersampul hitam di pangkuannya masih terbuka kosong, belum tergores pensil 2B di sela jarinya. Ujung jempol kirinya berulang kali menekan sisi fretboard gitar di dalam tas kain, menghitung ketukan di kepala tanpa suara. Satu, dua, tiga, empat.
 
-"Kalian berdua penampil nomor tiga," kata Bu Ratna. Kacamata berbingkai oval miliknya melorot sampai ke tengah batang hidung. Suaranya datar, tanpa nada meminta persetujuan. "Pentas seni tutup semester tinggal tiga minggu. Jangan bikin kepala saya tambah pusing."
+"Kalian berdua penampil nomor tiga," kata Bu Ratna. Kacamata berbingkai ovalnya melorot ke tengah hidung. Suaranya datar. "Pentas seni tutup semester tinggal tiga minggu. Jangan bikin kepala saya tambah pusing."
 
 Galih menoleh ke samping.
 
@@ -26,7 +26,7 @@ Galih tidak membalas. Ia menarik ritsleting tas gitarnya sedikit lebih rapat, la
 
 Latihan pertama di ruang musik hari Rabu langsung tersendat sejak menit awal.
 
-Galih meletakkan kertas partitur yang sudah ia salin semalam di atas stand not lipat. Garis paranadanya lurus, digambar rapi dengan mistar besi, lengkap dengan tanda birama empat per empat dan angka tempo: 72 bpm. Di sudut atas ia menuliskan keterangan dinamika: *mezzo-forte* pada intro, lalu turun menjadi *piano* saat vokal pertama masuk.
+Galih meletakkan kertas partitur yang ia salin semalam di atas stand not lipat. Garis paranadanya rapi, lengkap dengan tanda birama empat per empat dan angka tempo 72 bpm, serta keterangan dinamika di sudut atas.
 
 Rengga sama sekali tidak melirik kertas itu. Ia berdiri dua langkah di depan kipas angin dinding yang berderit, memegang mikrofon sekolah yang kepala busanya sudah gompal di satu sisi.
 
@@ -46,7 +46,7 @@ Rengga menurunkan mikrofon dari dagunya, alisnya terangkat. "Salah apanya, Bos? 
 
 "Lha, kalau pelan mana kedengaran di aula belakang?" Rengga mendengus, lalu tertawa kecil sambil menggaruk tengkuknya yang basah oleh keringat. "Musik itu rasa, Bos. Kalau dihitung-hitung pakai penggaris kayak rumus matematika bapakmu, jadinya kaku kayak baris-berbaris. Orang nonton pentas seni mau senang-senang, bukan mau ujian nasional."
 
-Rahang Galih mengeras. Kata 'bapakmu' menyengat telinganya lebih tajam daripada bunyi senar bas yang salah petik. Di rumah, ayahnya selalu memeriksa buku latihan matematika miliknya dengan pulpen merah; garis yang miring setengah milimeter saja harus dihapus sampai kertasnya hampir sobek. Ketepatan adalah satu-satunya hal yang membedakan pemain musik terlatih dari orang yang sekadar membuat kebisingan di jalanan.
+Rahang Galih mengeras. Kata 'bapakmu' menyengat telinganya lebih tajam daripada bunyi senar bas yang salah petik. Di rumah, ayahnya selalu memeriksa buku latihan matematikanya dengan pulpen merah; garis miring sedikit saja harus dihapus sampai kertasnya hampir sobek. Ketepatan adalah pembeda pemain musik terlatih dari pembuat kebisingan di jalanan.
 
 "Kalau nggak mau pakai hitungan," kata Galih, suaranya dingin tertahan, "kamu nyanyi sendiri saja tanpa gitar."
 
@@ -70,7 +70,7 @@ Pertanyaan itu menghantam ulu hati Galih. Jemari tangan kirinya spontan meraba s
 
 *Takut bikin salah satu nada saja?*
 
-Galih ingat betul lantai panggung Gedung Kesenian tiga tahun lalu. Dinginnya kayu pernis cokelat di bawah sepatunya, sorot lampu putih yang membutakan mata sampai ia tidak bisa melihat wajah dewan juri, dan bunyi tajam saat senar nomor satu gitarnya putus di birama keenam belas. Di depan dua ratus pasang mata, jemarinya membeku. Otaknya mendadak bersih dari segala macam notasi yang sudah ia hafal enam bulan di luar kepala. Ayahnya duduk di barisan ketiga dengan kemeja batik rapi, menatap lurus tanpa ekspresi. Galih berdiri, menundukkan kepala sedikit, lalu lari turun ke tangga samping tanpa menyelesaikan bait kedua. Di ruang ganti, ia muntah di wastafel.
+Galih ingat betul lantai panggung Gedung Kesenian tiga tahun lalu. Dinginnya kayu pernis di bawah sepatunya, sorot lampu putih yang membutakan mata dari wajah dewan juri, dan bunyi tajam saat senar nomor satu gitarnya putus di birama keenam belas. Di depan dua ratus penonton, jemarinya membeku. Otaknya mendadak bersih dari notasi yang ia hafal berbulan-bulan. Ayahnya duduk di barisan ketiga dengan kemeja batik rapi, menatap lurus tanpa ekspresi. Galih menunduk sedikit, lalu lari turun tangga samping tanpa menyelesaikan bait kedua. Di ruang ganti, ia muntah di wastafel.
 
 Sejak hari itu, ia tidak pernah naik panggung tanpa dua set senar cadangan di saku jaket, dan tidak pernah bermain tanpa metronom yang berdetak di kepala.
 
@@ -84,7 +84,7 @@ Latihan hari Jumat terpaksa pindah ke luar karena ruang musik dipakai paduan sua
 
 Mereka duduk di lantai semen teras belakang kantin yang menghadap ke kebun pisang. Di sana sepi, hanya ada deretan krat botol teh kosong dan aroma minyak goreng dari dapur warung Bu Ning. Angin sore meniup daun-daun kering mangga yang berserakan di tanah.
 
-Galih memangku gitarnya, sementara Rengga duduk di atas krat plastik terbalik sambil memegang selembar kertas robekan buku bergaris. Kertas itu kotor di bagian pinggir, penuh coretan pulpen biru berupa panah naik dan panah turun di atas kata-kata tertentu.
+Galih memangku gitarnya, sementara Rengga duduk di atas krat plastik terbalik memegang robekan kertas bergaris. Kertas itu kotor di pinggirnya, penuh coretan panah naik dan turun di atas lirik tertentu.
 
 Galih melirik kertas itu. "Itu apa?"
 
@@ -94,13 +94,13 @@ Rengga buru-buru melipat kertasnya menjadi empat bagian kecil, lalu menyelipkann
 
 "Bukan lah. Aku mana ngerti toge-toge bergaris di bukumu itu," kata Rengga sambil menyeringai, berusaha mengembalikan lagak santainya. "Cuma... pengingat napas. Kapan harus narik suara ke hidung, kapan harus ditahan di dada."
 
-Galih terdiam sejenak. Ia baru tahu ada orang yang menghafal dinamika vokal dengan tanda panah buatan sendiri. Di mata Galih, itu terlihat sangat primitif, tetapi ada coretan bekas penghapus berulang kali di kertas tadi yang menunjukkan kertas itu sudah dibaca puluhan kali.
+Galih terdiam. Ia baru tahu ada orang menghafal dinamika vokal dengan panah buatan sendiri. Terlihat bersahaja, tetapi bekas hapusan berulang kali di sana menunjukkan kertas itu sudah dibaca puluhan kali.
 
 "Coba nyanyi bagian refrain yang kemarin," kata Galih. Tangannya mulai memetik kord B minor, berpindah ke E minor, lalu A tujuh. Nada-nada pengantar yang muram tapi mengalir lembut.
 
 Rengga menarik napas dalam-dalam. Kali ini ia tidak mendongak ke langit, tidak pula bergaya berlebihan. Ia memandang ke ujung sepatunya yang bolong.
 
-Suaranya keluar. Agak serak di pangkal nada, tidak sebersih rekaman kaset pita milik ayah Galih di rumah, tetapi getaran vokalnya di nada rendah terasa bulat dan hangat. Saat melodi lagu meminta suara itu naik ke nada tinggi pada bait kedua refrain, Rengga tidak berteriak seperti di ruang musik kemarin. Ia menahan volumenya, membiarkan suaranya terdengar seperti bisikan yang tertahan di tenggorokan, tepat mengikuti tempo petikan gitar Galih.
+Suaranya keluar. Agak serak di pangkal nada, tidak sebersih kaset pita di rumah, tetapi getaran nada rendahnya terasa bulat dan hangat. Saat melodi naik ke nada tinggi pada refrain kedua, Rengga tidak berteriak seperti kemarin. Ia menahan volume, membiarkan suaranya terdengar seperti bisikan tertahan di tenggorokan, tepat mengikuti tempo petikan gitar Galih.
 
 Satu, dua, tiga, empat.
 
@@ -126,13 +126,13 @@ Galih tidak menjawab. Ia memasukkan gitar ke sarungnya, menarik ritsleting sampa
 
 Hari Kamis siang, aula sekolah riuh oleh persiapan panggung.
 
-Semua kursi lipat di bagian tengah sudah disingkirkan ke dinding. Di panggung kayu setinggi satu meter, dua pengeras suara aktif raksasa terpasang di kanan dan kiri, mengeluarkan desis dengung trafo berfrekuensi rendah yang membuat dada bergetar. Kabel-kabel hitam tebal melingkar di karpet merah panggung.
+Semua kursi lipat di tengah sudah disingkirkan ke dinding. Di panggung kayu setinggi satu meter, dua pengeras suara aktif terpasang di kanan-kiri, mendesiskan dengung trafo berfrekuensi rendah. Kabel-kabel hitam tebal melingkar di karpet merah.
 
 Di barisan depan, anak-anak panitia pentas seni duduk berserakan, mengunyah gorengan sambil menertawakan kelompok tari modern yang baru saja salah formasi.
 
 Bu Ratna berdiri di dekat mixer audio di bagian belakang aula, memegang mikrofon komando. "Nomor tiga! Akustik kelas sebelas, naik panggung sekarang!"
 
-Galih menelan ludah. Jaket abu-abunya terasa terlalu tebal di bawah udara aula yang lembap oleh panas tubuh puluhan orang. Ia melangkah menaiki tangga panggung dari sisi kiri. Setiap kali sol sepatunya menginjak anak tangga kayu yang berderit, denyut di pelipisnya bertambah kencang.
+Galih menelan ludah. Jaket abu-abunya terasa tebal di bawah hawa aula yang lembap oleh puluhan orang. Ia menaiki tangga panggung dari sisi kiri. Setiap kali sol sepatunya menginjak anak tangga kayu yang berderit, denyut di pelipisnya bertambah kencang.
 
 Rengga sudah berdiri di atas panggung lebih dulu, memutar-mutar mikrofon bertangkai besi dengan santai, melambaikan tangan ke arah tiga anak perempuan di sudut aula yang membalasnya dengan tawa cekikikan.
 
@@ -142,7 +142,7 @@ Galih menarik sebuah kursi kayu tanpa sandaran ke tengah panggung, tepat di depa
 
 Lampu sorot kuning lima ratus watt di langit-langit aula menyala dengan bunyi *klik* tajam. Panasnya langsung menimpa ubun-ubun dan tengkuk Galih.
 
-Cahaya itu menyilaukan mata. Di depan panggung, wajah anak-anak yang duduk mendadak menjadi bayangan gelap yang berkerumun tanpa bentuk. Suara bising aula meredup di telinga Galih, tergantikan oleh denging frekuensi tinggi yang menusuk kepalanya.
+Cahaya itu menyilaukan mata. Di depan panggung, wajah anak-anak yang duduk tampak mengabur menjadi bayangan gelap tanpa bentuk. Suara bising aula meredup di telinga Galih, tergantikan oleh denging frekuensi tinggi yang menusuk kepalanya.
 
 *Satu, dua, tiga, empat.*
 
@@ -156,7 +156,7 @@ Jari tengahnya salah menekan fret. Senar nomor tiga berbunyi *pret*—mati di uj
 
 Di bawah panggung, dua orang anak laki-laki yang memegang papan jalan menoleh ke arah panggung, salah satunya tersenyum simpul dan berbisik ke temannya.
 
-Galih mencoba mengulang. Tangannya terangkat, tetapi jemari kirinya kaku, terkunci di fret kelima seolah terbuat dari kayu mati. Ketukan metronom di kepalanya lenyap, berganti dengan suara dengung trafo speaker yang menekan gendang telinga. Udara di sekitarnya terasa menipis. Pikirannya kosong melompong—persis seperti detik-detik saat senar gitarnya putus di Gedung Kesenian tiga tahun lalu. Ia tidak bisa mengingat kord pembuka. Rasa malu yang dingin merayap naik dari ujung kaki ke lehernya, membakar kulit wajah.
+Galih mencoba mengulang, tetapi jemari kirinya kaku di fret kelima seolah terpaku di kayu. Ketukan metronom di kepalanya lenyap, berganti dengung trafo speaker yang menekan gendang telinga. Udara di sekitarnya terasa menipis. Pikirannya kosong—persis saat senar gitarnya putus di Gedung Kesenian tiga tahun lalu. Ia tidak bisa mengingat kord pembuka. Rasa malu dingin merayap naik dari ujung kaki, membakar kulit wajah.
 
 Jemari Galih gemetar di atas dawai. Tubuhnya terpaku di kursi.
 
@@ -208,13 +208,13 @@ Rengga mengerjap, langkahnya terhenti dua meter di depan Galih. "Maksud apanya?"
 
 Rengga terdiam. Matanya membulat menatap Galih. Senyum jail dan gaya petakilan di wajah anak warung kopi itu hilang sepenuhnya. Bibirnya terkatup rapat, garis rahangnya mengetat.
 
-"Kamu pikir aku tadi lagi ngelawak?" kata Rengga pelan. Suaranya tidak lagi cempreng; nadanya berat dan dingin. "Tanganmu tadi kaku kayak mayat, Bos. Kalau aku nggak manggil soundman dan ngajak mereka tepuk tangan, kamu mau duduk di situ sampai besok pagi sambil ditonton anak-anak sekelas?"
+"Kamu pikir aku tadi lagi ngelawak?" kata Rengga pelan. Suaranya tidak lagi cempreng; nadanya berat dan dingin. "Tanganmu tadi kaku membatu, Bos. Kalau aku nggak manggil soundman dan ngajak mereka tepuk tangan, kamu mau duduk di situ sampai besok pagi ditonton anak-anak sekelas?"
 
 Galih meremas tali ransel gitarnya sampai buku-buku jarinya memutih. "Aku nggak butuh dikasihani."
 
 Rengga tertawa kecut, suara tawanya kering tanpa ada riak gembira. Ia menggelengkan kepala perlahan.
 
-"Nggak ada yang ngasihani kamu," kata Rengga, suaranya tajam menusuk. "Aku cuma nggak mau ditertawakan lagi di atas panggung itu. Kamu cuma mikirin mukamu sendiri yang takut kelihatan salah. Kamu nggak tahu rasanya berdiri di depan orang sekampung, terus mereka ketawa karena suaramu meleset satu nada."
+"Nggak ada yang ngasihani kamu," kata Rengga, suaranya tajam menusuk. "Aku cuma nggak mau ditertawakan lagi di panggung itu. Kamu cuma mikirin mukamu sendiri yang takut kelihatan salah. Kamu nggak tahu rasanya ditertawakan orang sekampung karena suaramu meleset satu nada."
 
 Rengga menyampirkan jaketnya ke punggung, lalu melangkah melewati Galih tanpa menoleh lagi. Bau tembakau samar dan bubuk kopi yang menempel di jaket belelnya tercium saat ia berjalan menjauh ke arah gerbang sekolah.
 
@@ -224,9 +224,9 @@ Galih berdiri sendirian di bawah lampu neon lorong yang berkedip-kedip, menatap 
 
 Malam pentas seni tiba dengan gerimis tipis yang membasahi aspal lapangan upacara.
 
-Aula sekolah menjelma ruang konser mini. Tiga kipas angin blower besar di sudut-sudut ruangan meniupkan kabut air tipis ke udara, bercampur dengan aroma minyak wangi remaja dan panas tubuh ratusan penonton yang memadati ruangan. Lampu utama aula dipadamkan; hanya lampu panggung beraneka warna yang menyala bergantian, memantul di kaca jendela yang buram oleh uap.
+Aula sekolah menjelma ruang konser mini. Tiga kipas blower meniupkan kabut air tipis, bercampur aroma minyak wangi dan hawa ratusan penonton yang memadati ruangan. Lampu utama aula padam; hanya sorot panggung warna-warni menyala bergantian, memantul di kaca jendela beruap.
 
-Di ruang kelas XI-Bahasa yang dijadikan ruang tunggu di belakang panggung, Galih duduk menyendiri di bangku paling sudut. Gitarnya sudah selesai disetem sejak satu jam lalu menggunakan tuner digital. Jarumnya tepat di angka nol. Ia mengenakan kemeja putih lengan panjang dengan kancing terpasang rapi sampai ke pergelangan tangan, dibungkus jaket abu-abu andalannya.
+Di ruang kelas XI-Bahasa yang dijadikan ruang tunggu, Galih menyendiri di bangku paling sudut. Gitarnya sudah selesai disetem sejak satu jam lalu dengan tuner digital; jarumnya tepat di angka nol. Kemeja putihnya terkancing rapi di balik jaket abu-abu andalannya.
 
 Di saku dalam jaket, dua amplop senar kawat masih tersimpan di tempatnya.
 
@@ -262,7 +262,7 @@ Dari arah aula, tepuk tangan panjang menandakan kelompok puisi musikalisasi suda
 
 Pintu ruang tunggu terbuka lebar. Salah satu anak OSIS menjulurkan kepalanya ke dalam. "Nomor tiga! Duet akustik Galih sama Rengga, standby di sayap panggung sekarang!"
 
-Rengga menegakkan badannya, menarik napas dalam-dalam seolah bersiap melompat ke dalam sumur gelap, lalu melangkah ke pintu.
+Rengga menegakkan badannya, menarik napas dalam-dalam, lalu melangkah ke pintu.
 
 "Tunggu," kata Galih.
 
@@ -302,9 +302,9 @@ Rengga berdiri di depan mikrofon, kedua tangannya memegang tangkai besi penyangg
 
 Galih menarik napas panjang, lalu memetik senar lima dan dua secara bersamaan.
 
-Kord C mayor mengalun di udara aula. Nada dasarnya turun satu tingkat lebih rendah daripada versi aslinya, menghasilkan resonansi kayu yang lebih tebal, lebih dalam, dan bergetar lambat. Petikannya bukan arpeggio cepat yang memamerkan kelincahan jari, melainkan petikan renggang yang memberi jeda udara luas di antara denting senar.
+Kord C mayor mengalun di aula. Nada dasarnya turun satu tingkat, menghasilkan resonansi kayu yang lebih tebal dan bergetar lambat. Petikannya bukan arpeggio cepat, melainkan petikan renggang yang memberi jeda udara luas di antara denting senar.
 
-Galih memainkan intro empat birama dengan ketukan yang ia kendalikan dari napasnya sendiri, bukan dari metronom. Pada ketukan penutup birama keempat, Galih mengangkat pandangannya dan mengangguk pelan satu kali ke arah Rengga.
+Galih memainkan intro empat birama dengan ketukan yang ia kendalikan dari napasnya sendiri, bukan dari metronom. Pada ketukan penutup birama keempat, Galih mengangguk pelan satu kali ke arah Rengga.
 
 Rengga mendekatkan bibirnya ke mikrofon.
 
