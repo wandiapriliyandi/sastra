@@ -12,7 +12,7 @@ Damar tidak langsung menyahut. Cowok kelas dua belas itu duduk di pinggir meja k
 
 "Jangan mulai lagi dengan perumpamaan sawahmu, Kak," tukasku. Kacamata bulatku melorot sedikit, dan aku mendorongnya naik dengan punggung kelingking. "Ini masalah mekanis. Harusnya kamu selesaikan sejak Rabu kemarin."
 
-"Lha kan anggarannya ditolak bos kesiswaanmu," sahut Damar santai. Ia menyelipkan obeng ke saku jaket, lalu mengambil potongan kerupuk putih yang melempem dari kantong plastik di sampingnya. "Uang servis tiga ratus lima puluh ribu melayang buat beli kostum futsal. Kamu mau aku nyervis pakai daun mahoni?"
+"Lha kan anggarannya ditolak bos kesiswaanmu," sahut Damar. Ia menyelipkan obeng ke saku jaket, lalu mengambil potongan kerupuk putih yang melempem dari kantong plastik di sampingnya. "Uang servis tiga ratus lima puluh ribu melayang buat beli kostum futsal. Kamu mau aku nyervis pakai daun mahoni?"
 
 Pintu tripleks ruang klub berderit keras. Niko menerobos masuk memeluk segepok fotokopian A5, dasinya miring, gantungan roket di tas punggungnya bergemerincing.
 
@@ -128,7 +128,7 @@ Kuhitung berulang-ulang di daftar hadir: tiga teman sekelasku—Rini, Fajar, dan
 
 "Ini belum ada bintangnya ya, Nduk?" tanya Bu Retno ramah, melirik arloji di pergelangan tangannya. "Ibu cuma bisa sampai jam delapan lewat sedikit. Mau ngunci gerbang belakang."
 
-"Sebentar lagi, Bu," kataku, menjaga suara tetap tenang. "Angin barat sedang mendorong awan. Sebentar lagi celahnya terbuka."
+"Sebentar lagi, Bu," kataku. "Angin barat sedang mendorong awan. Sebentar lagi celahnya terbuka."
 
 "Dari tadi anginnya cuma mutar-mutar di lapangan, Kak," cetus Fajar sambil meniup ujung jarinya. "Gelap begini mau lihat apa? Dari tadi cuma kelihatan lampu menara pemancar di bukit."
 
@@ -146,7 +146,7 @@ Lampu neon putih di selasar teras mati.
 
 Gelap pekat menyergap. Kerumunan kecil itu berseru kaget, beberapa refleks menyalakan lampu kilat ponsel.
 
-"Matikan lampu HP-nya," suara Damar terdengar tenang dari samping sakelar dinding. "Biar matanya nggak buta malam. Tunggu tiga puluh detik, nanti pupil kalian nyesuaikan sendiri."
+"Matikan lampu HP-nya," kata Damar dari samping sakelar dinding. "Biar matanya nggak buta malam. Tunggu tiga puluh detik, nanti pupil kalian nyesuaikan sendiri."
 
 "Kak Damar, ngapain dimatiin?" bisik Niko di dekatku.
 
@@ -156,7 +156,7 @@ Damar tidak menjawab. Ia menyalakan senter berkepala mika merah buram miliknya. 
 
 Anak-anak Paskibra menoleh. Fajar dan Rini saling lirik. Tidak ada yang bergerak menuruni tangga.
 
-"Kakekku di bukit selatan itu petani tulen," lanjut Damar santai, suaranya mengalun menembus desau angin. "Beliau nggak ngerti apa itu *Orion* atau rasi pemburu Yunani. Tapi tiap masuk bulan Oktober, beliau duduk di pematang sawah nungguin bintang luku muncul."
+"Kakekku di bukit selatan itu petani tulen," lanjut Damar. Suaranya mengalun menembus desau angin. "Beliau nggak ngerti apa itu *Orion* atau rasi pemburu Yunani. Tapi tiap masuk bulan Oktober, beliau duduk di pematang sawah nungguin bintang luku muncul."
 
 "Bintang luku apaan, Kak?" tanya teman sekelas Niko.
 
@@ -208,7 +208,7 @@ Sebuah piringan bulat berwarna putih kekuningan mengambang di tengah lingkaran l
 
 Empat bulan Galilea: Io, Europa, Ganymede, dan Callisto.
 
-Pemandangan itu bukan simulasi grafis di layar ponsel Niko. Itu cahaya nyata yang telah menempuh perjalanan ratusan juta kilometer menembus ruang hampa, terpantul cermin cekung berdebu yang kami ganjal klem pipa dan potongan ban dalam bekas, sampai ke mata.
+Pemandangan itu bukan simulasi grafis di ponsel Niko. Cahaya nyata yang menempuh ratusan juta kilometer menembus ruang hampa, terpantul cermin cekung berdebu yang kami ganjal klem pipa dan potongan ban dalam, sampai ke mata.
 
 "Bu Retno dulu," kataku, melangkah mundur selangkah memberi ruang. "Silakan, Bu. Tempelkan mata pelan-pelan, jangan pegang tabung birunya."
 
@@ -218,7 +218,7 @@ Satu detik. Tiga detik.
 
 "Ya ampun..." bisik Bu Retno tertahan. Tangannya refleks menutupi mulutnya sendiri. "Itu... bintik-bintik kecil di pinggirnya itu apa, Nduk?"
 
-"Satelit alaminya, Bu," sahut Niko bangga, dadanya membusung ke depan. "Ditemukan Galileo Galilei tahun 1610 pakai teropong yang optiknya jauh lebih sederhana dari punya kita!"
+"Satelit alaminya, Bu," sahut Niko cepat, dadanya membusung ke depan. "Ditemukan Galileo Galilei tahun 1610 pakai teropong yang optiknya jauh lebih sederhana dari punya kita!"
 
 "Gantian, Bu! Mau lihat juga!" seru Fajar yang sudah berdiri berjinjit di belakang Bu Retno.
 
@@ -242,7 +242,7 @@ Aku melirik Damar. Cowok itu hanya mengedipkan satu matanya sambil tetap menahan
 
 Aku mengambil buku binder dan buku tamu bersampul batik dari atas meja selasar, lalu melangkah menghampiri Pak Harun.
 
-"Malam pengamatan terbuka Klub Astronomi Andromeda, Pak," kataku tenang. Kacamata bulatku tidak melorot lagi; kepalaku tegak. "Kami sedang mengamati oposisi planet Jupiter."
+"Malam pengamatan terbuka Klub Astronomi Andromeda, Pak," kataku. Kacamata bulatku tidak melorot lagi; kepalaku tegak. "Kami sedang mengamati oposisi planet Jupiter."
 
 Pak Harun menatapku lurus-lurus di balik kacamatanya, lalu melayangkan pandangan ke arah tabung teleskop biru kusam yang dipasangi jeriken pasir dan kawat bendrat. Matanya berhenti lama pada antrean anak-anak yang sedang berebut giliran mengintip.
 
@@ -262,11 +262,11 @@ Di baris nomor dua puluh empat, ia menuliskan namanya sendiri: *Harun Suprayogi 
 
 "Tripodnya diganjal apa itu?" tanya Pak Harun tanpa mengangkat kepala dari buku.
 
-"Klem pipa sama karet ban dalam, Pak," jawab Damar santai dari kejauhan. "Sumbangan swadaya anggota."
+"Klem pipa sama karet ban dalam, Pak," jawab Damar dari kejauhan. "Sumbangan swadaya anggota."
 
 Pak Harun mendengus pelan—bunyi yang samar antara geli dan pasrah. Ia menutup buku tamu itu dengan suara *plak* kecil, lalu menyerahkannya kembali ke tanganku.
 
-"Kalian tidak dapat trofi untuk malam ini," kata Pak Harun tegas, suaranya kembali ke wibawa khas ruang kesiswaan. "Dan proposal tiga ratus lima puluh ribu itu tetap tidak bisa cair semester ini karena pembukuannya sudah dikunci dinas."
+"Kalian tidak dapat trofi untuk malam ini," kata Pak Harun. Suaranya kembali ke wibawa khas ruang kesiswaan. "Dan proposal tiga ratus lima puluh ribu itu tetap tidak bisa cair semester ini karena pembukuannya sudah dikunci dinas."
 
 Aku menahan napas.
 
@@ -320,6 +320,6 @@ Tatapanku melayang ke arah tabung teleskop biru dongker yang kini terdiam kaku d
 
 Aku menarik kembali ujung stabilo itu.
 
-Bunyi *klik* terdengar renyah saat tutup stabilo jingga itu kupasang kembali rapat-rapat. Aku menyelipkannya ke dalam saku kemeja seragamku. Di lembar paling belakang binder, lipatan sobekan artikel bergambar cincin Saturnus itu masih terselip rapi. Malam ini kami memang tidak melihat Saturnus, dan ruang klub ini belum tentu selamat tahun depan.
+Bunyi *klik* terdengar saat tutup stabilo jingga kupasang kembali rapat-rapat. Aku menyelipkannya ke dalam saku kemeja seragam. Di lembar paling belakang binder, lipatan sobekan artikel bergambar cincin Saturnus masih terselip rapi.
 
 Di atas kertas putih bergaris itu, baris kesepuluh kubiarkan tetap putih polos.
