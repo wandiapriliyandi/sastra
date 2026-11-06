@@ -29,7 +29,7 @@
   - *Garis yang tak dilewati*: Tidak ingin membuat keributan yang mempermalukan orang lain, tetapi ia melanggarnya ketika menuduh Dito di depan teman-teman kelas.
 - **Gesekan Internal**: Hasrat tampil santai masa bodoh ala anak B × ketakutan luar biasa diabaikan dan dianggap tidak berguna.
 - **Penyimpangan Stereotip**: Terkenal pelupa dan sembrono, tapi hafal secara tepat detail-detail kecil tata letak kelas dan kebiasaan gerak orang-orang di sekitarnya.
-- **Momen Tidak Sempurna (Cacat Nyata)**: Panik dan gengsi setelah salah menduga Kirana, lalu melampiaskan rasa malunya dengan menuduh Dito memain-mainkannya secara kasar hingga persahabatan mereka retak dua pekan.
+- **Momen Tidak Sempurna (Cacat Nyata)**: Panik dan gengsi setelah salah menduga Kirana, lalu melampiaskan rasa malunya dengan menuduh Dito memain-mainkannya secara kasar hingga persahabatan mereka retak beberapa hari (tuduhan Kamis sore pekan kedua, maaf Senin pekan ketiga).
 - **Idiolek**: 
   - Memberi julukan khas pada hari-hari ("Senin berkabut", "Rabu bau karbol", "Jumat berdebu").
   - Menyelipkan hitungan saat tertekan ("Tiga detik", "Empat langkah lagi").
@@ -45,7 +45,7 @@
 - **Pendidikan**: Murid baru di kelas 10-3. Catatan pelajarannya rapi luar biasa, tetapi nilainya tidak pernah dipamerkan; ia selalu menelungkupkan kertas ujian setelah dibagikan.
 - **Pertemanan**: Belum memiliki kawan dekat; terbiasa menyendiri di bangku saat istirahat dengan buku novel saku atau kotak bekal berisi telur dadar iris.
 - **Formatif**: 
-  - Pada pekan pertamanya di sekolah (awal bulan lalu), ia tidak memahami denah pembuangan sampah dan jadwal piket khusus 10-3. Ia nyaris dilaporkan ke guru tata tertib oleh pengurus OSIS karena bak sampah kelas meluap. Nino yang melihatnya kebingungan langsung menyambar bak sampah itu dan membawanya lari ke TPS belakang tanpa meminta ucapan terima kasih.
+  - Pada pekan pertamanya di sekolah (awal bulan lalu), ia tidak memahami denah pembuangan sampah dan jadwal piket khusus 10-3. Ia nyaris ditegur patroli Pak Sabar (guru tatib) pukul 14.15 karena bak sampah kelas meluap. Nino yang melihatnya kebingungan langsung menyambar bak sampah itu dan membawanya pergi, lalu pulang lewat gerbang samping tanpa sepatah kata.
 - **Fisik & Kebiasaan**: 
   - Selalu memakai jaket parasut abu-abu tipis sebelum bel masuk.
   - Ujung ibu jari kirinya kerap terkena noda tinta pulpen gel hitam.
@@ -81,7 +81,7 @@
 
 ### Kirana (15 tahun) — Siswi yang Dikagumi Nino (Katalis Salah Paham)
 - **Bawaan**: MBTI ENFJ, golongan darah A → rapi, bertanggung jawab, ramah, bendahara kelas 10-3 yang disegani karena pembukuannya tidak pernah meleset satu rupiah pun.
-- **Fisik & Ciri**: Selalu membawa binder ungu dengan pembatas warna-warni dan pulpen multiwarna empat tombol.
+- **Fisik & Ciri**: Selalu membawa binder ungu dengan pembatas warna-warni dan pulpen ungu bertinta cair.
 - **Peran**: Menjadi objek prasangka pertama Nino. Saat didekati Nino yang salah duga, kepolosannya menanggapi soal kas kelas membuat Nino tersadar betapa konyol dugaannya.
 - **Idiolek**: "Uang kas bulan ini udah lunas kok, No," "Itu bukan tulisanku, punyaku miring ke kanan."
 
@@ -102,13 +102,13 @@
 ## 4. Fakta Kunci & Kontinuitas
 1. **Urutan Kronologi Catatan di Laci Meja Nino**:
    - *Catatan 1 (Selasa pagi sesudah bagi ulangan Fisika)*: Kertas persegi kecil dilipat tiga. Isi: *"yang kemarin bukan salahmu."*
-   - *Catatan 2 (Kamis pagi sesudah Nino dimarahi guru Matematika karena melamun)*: *"jendela sebelah kiri lebih silau dari biasanya."*
-   - *Catatan 3 (Senin pekan kedua, setelah insiden canggung dengan Kirana)*: *"nggak apa-apa. besok juga orang lupa."*
-   - *Catatan 4 (Rabu pekan kedua, saat Nino dan Dito mulai perang dingin)*: *"dito cuma bingung. dia memang nggak pintar ngomong."* (Catatan ini memicu kemarahan Nino karena merasa diintai).
+   - *Catatan 2 (Kamis siang, seusai jam Matematika terakhir, sesudah Nino dimarahi guru Matematika karena melamun)*: *"jendela sebelah kiri lebih silau dari biasanya."*
+   - *Catatan 3 (Rabu pekan kedua, setelah insiden canggung dengan Kirana)*: *"nggak apa-apa. besok juga orang lupa."*
+   - *Catatan 4 (Kamis sore pekan kedua, seusai jam olahraga, saat Nino dan Dito mulai perang dingin)*: *"dito cuma bingung. dia memang nggak pintar ngomong."* (Catatan ini memicu kemarahan Nino karena merasa diintai).
    - *Catatan 5 (Jumat pekan kedua, cuaca terik sekali)*: *"kamis kemarin gerah. es teh kantin belakang lebih manis kalau minta es batu sedikit."*
    - *Catatan 6 (Selasa pekan ketiga, catatan terakhir dari Bimo)*: *"laci mejamu selalu penuh remah penghapus."*
 2. **Insiden Piket Pekan Pertama Bimo**:
-   - Terjadi sebulan lalu pada hari Kamis. Bimo yang murid baru tidak tahu tempat pembuangan akhir sampah kelas 10-3 ada di belakang bengkel otomotif dan harus dipilah. Tempat sampah kelas sudah penuh dan tumpah; Pak Sabar (guru tatib) hampir melintas. Nino yang sedang menenteng bola plastik langsung mengambil tempat sampah itu, membawanya lari lewat tangga belakang, mengosongkannya, lalu meletakkannya kembali tanpa sepatah kata pun pada Bimo.
+   - Terjadi sebulan lalu pada hari Kamis. Bimo yang murid baru tidak tahu tempat pembuangan akhir sampah kelas 10-3 ada di belakang bengkel otomotif dan harus dipilah. Tempat sampah kelas sudah penuh dan tumpah; Pak Sabar (guru tatib) berpatroli pukul 14.15. Nino yang sedang menenteng bola plastik langsung mengambil tempat sampah itu, membawanya lari lewat tangga belakang, mengosongkannya, lalu pulang lewat gerbang samping tanpa sepatah kata pun pada Bimo.
 3. **Petunjuk Fisik Pengirim**:
    - Kertas loose-leaf bergaris abu-abu tipis ukuran B5 (garis pembatas margin 8 mm), bukan buku bergaris biru biasa.
    - Sobekan kertas rapi dipotong dengan penggaris besi, bukan ditarik tangan.
