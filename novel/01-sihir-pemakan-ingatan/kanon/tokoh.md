@@ -133,3 +133,84 @@ Kartu tokoh dirancang mengikuti panduan skill `karakter-dan-psikologi` dan diraw
   - *Kosakata Khas*: "jeram darah", "kayu lapuk menara", "bayar hutang napas", "daging tumbal dinding".
   - *Tempo & Gaya*: Berat, menggelegar, berima tajam; gemar meludahi tanah sebelum memberi komando serang.
 - **Fungsi Plot**: Penggerak ancaman fisik utama Volume 1; arsitek serbuan badai malam ujian; bayangan masa depan Danu jika Danu memilih jalan dendam dan kemarahan.
+
+---
+
+## 7. Tokoh Pendukung Penuh
+
+### Pak Bakri (52 tahun) — Ayah Danu / Penjaga Pintu Air Gerbang Bawah
+- **Peran**: Tokoh Pendukung Utama / Figur Ayah Pelindung Sunyi.
+- **Bawaan & Temperamen**: MBTI ISTP, Golongan Darah O, Flegmatis-Melankolis.
+  - *Turunan Perilaku*: Berjalan lambat dengan kaki kanan pincang menyeret; tangan penuh kapalan kasar berlumur pelumas katrol; duduk lama di ambang pintu air mengasah mata gergaji tanpa bicara bila tidak ditanya.
+- **Keluarga**: Duda; hidup berdua dengan Danu setelah istrinya (Mira) wafat 7 tahun lalu akibat demam rawa. Sangat menyayangi Danu namun canggung memperlihatkan kasih sayang secara verbal.
+- **Lingkungan**: Bilik sempit batu basal di fondasi pintu air tingkat bawah benteng; akrab dengan gemuruh air Sungai Marah, lumut basah, karat besi rantai, dan dinginnya tempias jurang.
+- **Pengalaman Formatif (The Wound & Rahasia)**:
+  - *The Wound*: Kaki kanannya pincang akibat tertimpa balok pintu air saat serbuan lama; ia menyaksikan rekan-rekan sebayanya di garnisun bawah dihabisi atau hampa pikirannya karena sihir benteng.
+  - *Rahasia*: Alasan sebenarnya ia mendaftarkan Danu ke akademi menara bukan agar Danu naik kasta sosial, melainkan karena ia diam-diam yakin bahwa arsip rahasia Menara Pusat menyimpan catatan penelitian cara memulihkan perapal yang telah menjadi "Yang Hampa"—ia ingin Danu menemukan penawarnya sebelum sistem benteng menelan anak-anak lain.
+- **Batin**:
+  - *The Want*: Menjaga Danu tetap hidup dan utuh akal budinya hingga mampu keluar dari dinas perapalan menara.
+  - *The Need*: Mengizinkan putranya mengambil risiko kedewasaan dan mengakui bahwa melindungi sesama kadang menuntut pengorbanan yang tak bisa dihindari.
+  - *The Lie*: *"Selama kita bersembunyi di bawah lumpur dan menundukkan kepala, roda menara tidak akan menggilas kita."*
+  - *Garis Pantang*: Pantang membiarkan menara mengambil Danu untuk dijadikan subjek uji coba tanpa perlawanan.
+- **Gesekan Internal**: Keinginan pasif melindungi keselamatan Danu (ISTP/O) × naluri keadilan melihat para kadet muda ditumbalkan oleh Dewan Menara Pusat.
+- **Sifat Pematah Stereotip**: Kuli pintu air yang kasar, pincang, dan berlumur jelaga, namun diam-diam memiliki buku catatan kalkulasi hidrolika sungai dengan rumus geometri arus yang sangat presisi di bawah kasur jeraminya.
+- **Idiolek**:
+  - *Kosakata Khas*: "arus punya jalannya sendiri", "jangan bakar kasurmu demi hangatkan kaki", "batu tenang menahan jeram", "rantai berkarat putus di sambungan".
+  - *Tempo & Gaya*: Lambat, berat, parau; berbicara dengan jeda panjang sambil mengisap pipa tembakau herbal kering.
+- **Fungsi Plot**: Jangkar batin kemanusiaan Danu di luar menara; pemicu keputusan Danu membakar ingatan ibu demi menahan gerbang bawah di Vol 1; pemimpin perlawanan serikat buruh bawah di Vol 3.
+
+---
+
+### Mira (Wafat usia 35 tahun, 7 tahun lalu) — Mendiang Ibu Danu
+- **Peran**: Jangkar Emosional Inti Danu / Subjek Pengorbanan Mantra Pasak Purba.
+- **Bawaan & Temperamen**: Semasa hidup MBTI ENFP, Golongan Darah A, Sanguin-Melankolis.
+  - *Turunan Perilaku*: Suka tertawa lepas hingga kepalanya terantuk para-para dapur; menenun kain rami sambil mendendangkan lagu panen buah; selalu menyisakan kerak roti paling renyah untuk Danu kecil.
+- **Keluarga**: Istri Pak Bakri, ibu kandung Danu; perantau dari lereng perbukitan pinus sebelum menikah dan menetap di pemukiman bawah Riam Hitam. Wafat karena wabah demam rawa saat Danu berusia 9 tahun.
+- **Detail Inderawi yang Terpatri (dan Terbakar Total)**:
+  - *Aroma*: Bau minyak cengkih pada selendang tenun goni cokelat kusam dan aroma manis adonan jagung panggang di tungku tanah liat dapur.
+  - *Visual*: Tahi lalat kecil tepat di bawah tulang pipi kiri; kerutan halus di sudut mata saat tertawa; tangan kurus berurat halus yang mengusap kening Danu saat demam.
+  - *Suara*: Nada tawa renyah saat roti jagung gosong dan senandung pelan lagu petik buah sebelum lentera ditiup padam.
+- **Pengalaman Formatif Bersama Danu**: Menemani Danu kecil yang pemalu menghitung keping tembaga upah ayahnya; menanamkan prinsip bahwa "hal paling berharga di dunia ini bukan emas di laci, tapi orang yang duduk makan bersamamu di depan perapian."
+- **Sifat Pematah Stereotip**: Perempuan kelas buruh benteng yang buta aksara, namun memiliki kepekaan rasa dan ketajaman pendengaran musikal yang luar biasa; ia mampu membedakan jenis burung hantu jeram murni dari getaran suaranya.
+- **Fungsi Plot**: Subjek dari Serabut Rasa Kelas 5 (Jangkar) yang dikorbankan Danu di Vol 1 Bab 10; kematian memorinya menandai transisi kedewasaan tragis Danu.
+
+---
+
+### Galih (22 tahun) — Kakak Kandung Tegar / Prajurit Tombak Garnisun Barat
+- **Peran**: Figur Saudara yang Terlupakan / Simbol Rekonsiliasi Baru Tanpa Memori Lama.
+- **Bawaan & Temperamen**: MBTI ESFP, Golongan Darah B, Sanguin Murni.
+  - *Turunan Perilaku*: Langkah tegap lebar dengan bunyi lempeng zirah bergemerincing; tertawa menggelegar memperlihatkan gigi gingsul kanan; gemar menepuk punggung kawan dengan keras hingga terhuyung.
+- **Keluarga**: Anak sulung pandai besi benteng; kakak kandung Tegar; memilih dinas militer reguler non-perapal di Garnisun Sayap Barat untuk menjaga perbatasan lereng cadas.
+- **Fisik & Ciri Penanda**: Tubuh jangkung kekar liat; luka parut melintang di pelipis kanan bekas serpihan panah Seberang Riam; selalu mengenakan kalung tali kulit berbandul taring berang-berang sungai (kembaran dari bandul yang dipakai Tegar).
+- **Relasi dengan Tegar**:
+  - Sangat bangga pada Tegar yang berhasil masuk akademi perapal menara; tidak pernah tahu bahwa Tegar telah membakar ingatan tentang dirinya di tahun pertama demi menyelamatkan kawan dari reruntuhan terowongan.
+  - Mengira balasan surat-surat Tegar yang kaku dan formal adalah akibat kedisiplinan asrama menara.
+- **Batin**:
+  - *The Want*: Bertahan hidup di garnisun barat hingga masa dinasnya selesai agar bisa kembali mengelola bengkel tempa bersama ayahnya dan Tegar.
+  - *The Need*: Memahami beban batin adiknya dan menerima bahwa ikatan keluarga sejati tidak terputus walau memori masa kecil telah musnah.
+  - *The Lie*: *"Selama aku mengirim uang arang dan zirahku tetap utuh, adikku akan selalu aman di menara."*
+- **Gesekan Internal**: Pembawaan ceria dan ceplas-ceplos (ESFP/B) × kebingungan getir saat akhirnya menyadari tatapan mata Tegar yang memandangnya seperti orang asing yang baru dikenal di Vol 4.
+- **Sifat Pematah Stereotip**: Prajurit tombak garis depan yang tampak ugal-ugalan dan gemar bermain dadu di barak, namun setiap bulan tanpa pernah absen menyisihkan setengah gajinya untuk dikirim ke rumah tempa ayahnya demi membeli sebongkah arang kayu keras kualitas terbaik untuk bahan latihan Tegar.
+- **Idiolek**:
+  - *Kosakata Khas*: "Bocah tempa", "Punggung tegak", "Baja yang bagus dipukul berkali-kali", "Jangan lembek macam bubur dingin".
+  - *Tempo & Gaya*: Cepat, lantang, bersemangat, sarat istilah perbengkelan dan perkemahan prajurit.
+- **Fungsi Plot**: Benang emosional Tegar (B-11); figur pembanding kontras antara militer konvensional non-sihir dengan kekejaman sihir pemakan memori; muara rekonsiliasi persaudaraan baru di ending Volume 4.
+
+---
+
+## 8. Tokoh Minor Ringkas
+
+### A. Dewan Menara Pusat & Birokrasi
+- **Tetua Gendro (68 tahun)**: Ketua Dewan Tertinggi Menara Pusat; arsitek politik proyek *Mantra Kubah Abadi*; pria kurus berjanggut kelabu panjang dengan jubah beludru hitam bersulam perak; memandang pengorbanan ingatan rakyat jelata sebagai keniscayaan matematika pertahanan benteng. (Kemunculan: Vol 3, Vol 4).
+- **Arsiparis Mpu Nala (61 tahun)**: Kepala Balai Catatan Menara Atas; pria tua bungkuk berkacamata bulat tebal yang jemarinya selalu berbau tinta getah damar; bersimpati pada Danu dan diam-diam menyimpan naskah-naskah kuno era pra-Menara tentang Hukum Batin Riam. (Kemunculan: Vol 1 sekilas, Vol 3).
+
+### B. Kadet Angkatan Menara (Rival & Kawan)
+- **Kadet Sabit (17 tahun)**: Kapten Regu Satu Menara Sayap Timur; rival akademis Sari; putra bangsawan menara atas yang sombong; memakai cincin penyimpan bara buatan; meremehkan kadet anak buruh hingga regunya kocar-kacir saat badai ujian. (Kemunculan: Vol 1 Bab 2, Bab 5).
+- **Kadet Ranti (16 tahun)**: Kadet Regu Dua; gadis pendiam spesialis panah sulut yang gemar menukar salinan catatan geometrinya dengan ransum ubi rebus milik Danu di kantin barak. (Kemunculan: Vol 1 Bab 1, Bab 5).
+
+### C. Tokoh Seberang Riam (Faksi Morak)
+- **Jarot (30 tahun)**: Letnan tempur kepercayaan Morak; pemburu rawa bertubuh liat dengan tato arang di punggung; ahli menyusup menggunakan dayung rakit senyap; pemegang artefak Batu Tangkap kedua di medan pertempuran Seberang Riam. (Kemunculan: Vol 1 Bab 8, Vol 2).
+- **Nenek Sima (72 tahun)**: Tabib tua suku rawa Seberang Riam; saksi mata pelarian Morak 15 tahun silam; menguasai ramuan herbal penawar gigitan lumut beracun dan pengobatan trauma residu dingin tanpa sihir. (Kemunculan: Vol 2).
+
+### D. Serikat Buruh & Pintu Air Bawah
+- **Mandor Kardi (48 tahun)**: Sahabat karib Pak Bakri di tingkat bawah benteng; pemimpin serikat buruh katrol pintu air; bertubuh pendek gempal dengan suara serak berat; mengoordinasikan jaringan lorong bawah tanah saat Regu Tiga diburu oleh Inspektorat di Volume 3. (Kemunculan: Vol 1 Bab 3, Vol 3).
