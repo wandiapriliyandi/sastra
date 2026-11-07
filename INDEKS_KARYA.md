@@ -24,7 +24,7 @@ Katalog terpusat inventaris karya sastra di `/home/hatch/workspace/sastra`, dike
 
 | No | Judul Novel | Folder Proyek | Genre | Sasaran Pembaca | Posisi Karya | Status | Progres Terkini | Target Kata |
 |---|---|---|---|---|---|---|---|---|
-| - | *(Belum ada proyek novel aktif)* | `novel/` | - | Remaja (13–18) | Universal | Perencanaan | - | - |
+| 1 | **Sihir Pemakan Ingatan** | [`novel/01-sihir-pemakan-ingatan/`](file:///home/hatch/workspace/sastra/novel/01-sihir-pemakan-ingatan/) | Fantasi / Light Novel Remaja | Remaja (13–18) | Fantasi murni (tanpa unsur pondok/santri) | **Perencanaan (konsep + outline Volume 1 selesai)** | Konsep seri 4 volume (pendekatan ending-dulu), kanon lengkap, outline Bab 1–10 + Epilog selesai | **~40.000 kata** (Volume 1) |
 
 ---
 
