@@ -1,7 +1,7 @@
-# Sinopsis & Rencana Novel: Sihir Pemakan Ingatan
+# Sinopsis & Rencana Novel: The Memory Ledger
 
 ## 1. Identitas Proyek
-- **Judul Proyek**: Sihir Pemakan Ingatan
+- **Judul Proyek**: The Memory Ledger (judul bahasa Inggris dipilih Wandi 2026-11-12; judul kerja sebelumnya: Sihir Pemakan Ingatan — isi tetap Bahasa Indonesia)
 - **Nomor Proyek**: Novel 01
 - **Format**: Light Novel Remaja (penerbitan bertahap per volume, bab ringkas bertempo cepat, hook antar-bab tajam)
 - **Genre / Nada**: Fantasi Aksi Remaja / Pahit-Manis, Hangat, Menggugah
